@@ -17,12 +17,12 @@ a-node $nobj :=
           [ m/lemma !~ ".Reconstructed", m/tag ~ "^v" ] ] ];
           
 # == query: part-adv-original ==
-a-node $n3 := 
-[ m/tag !~ '^v', m/tag !~ ".......a.", afun ~ "Obj", 
+a-node $n1 := 
+[ m/lemma !~ "εἰμί[0-9]*", m/tag ~ "^[vt]...[p]", 
+     0x  a-node $n2 := 
+     [ afun ~ "Obj" ], 
      parent a-node $n0 := 
      [ m/tag ~ "^v", 
-          ancestor a-root $n4 := [  ], 
-           a-node $n1 := 
-          [ m/lemma !~ "εἰμί[0-9]*", m/tag ~ "^[vt]...[p]", 
-               0x  a-node $n2 := 
-               [ afun ~ "Obj" ] ] ] ];
+           a-node $n3 := 
+          [ m/tag ~ "[^v]......[^a].", afun ~ "Obj" ] ] ];
+              

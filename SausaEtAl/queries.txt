@@ -25,4 +25,16 @@ a-node $n1 :=
      [ m/tag ~ "^v", 
            a-node $n3 := 
           [ m/tag ~ "[^v]......[^a].", afun ~ "Obj" ] ] ];
-              
+
+# == query: shared-obj-pronoun ==
+a-node $ncoord := 
+[ afun = "Coord", 
+      a-node $nverb_1 := 
+     [ m/lemma !~ ".Reconstructed", m/tag ~ "^v", 
+           a-node $nobj := 
+          [ afun = "Obj", m/tag ~ "^[na]......[^a]" ] ], 
+      a-node $nverb_2 := 
+     [ m/lemma !~ ".Reconstructed", m/tag ~ "^v", 
+           a-node $npron := 
+          [ afun = "Obj", m/tag ~ "^p......[^a]" ] ] ];
+
