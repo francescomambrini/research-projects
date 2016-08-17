@@ -7,4 +7,6 @@ This repository collects a bunch of research materials (data, queries, result re
 The manual for the **PMLTQ command line tool** can be found [here](http://search.cpan.org/~maty/PMLTQ-1.3.1/lib/PMLTQ/Command/query.pm)
 
 To **search with PMLTQ** using the command line:
-~~~~ pmlt query --server pagdt --query-file /path/to/query/file --query-id ID ~~~~
+```bash
+pmlt query --server pagdt --query-file /path/to/query/file --query-id ID
+```
