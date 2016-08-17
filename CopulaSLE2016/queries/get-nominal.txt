@@ -1,0 +1,5 @@
+a-node $n1 := 
+[ m/lemma !~ ".Reconstructed", afun = "Pnom", 
+     parent a-node $n0 := 
+     [ m/lemma ~ ".Reconstructed" ] ];
+>> give count()
