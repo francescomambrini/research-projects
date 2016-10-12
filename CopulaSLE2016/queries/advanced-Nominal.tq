@@ -1,0 +1,16 @@
+#lemma of governor is: nominal
+#type of clause is: main
+#
+#>> give match($a.id, '^a-[a-zA-Z0-9]+\.')
+#>> for $1 give $1, count() sort by $1
+#εἰμί[0-9]*
+a-node $pnom := 
+[ m/lemma !~ ".Reconstructed", afun = "Pnom", 
+     parent a-node $verb := 
+     [ m/lemma = "#Reconstructed", afun = "Pred", 
+          0x sibling a-node 
+          [ m/lemma ~ "εἰμί[0-9]*", is_member = 1, afun = $verb.afun ], 
+           a-node $sbj := 
+          [ afun = "Sb", m/tag !~ "^.[12]" ] ] ];
+>> give match($verb.id, '^a-[a-zA-Z0-9]+\.')
+>> for $1 give $1, count() sort by $1

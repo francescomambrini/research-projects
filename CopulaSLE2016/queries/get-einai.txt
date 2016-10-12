@@ -1,6 +1,6 @@
 a-node $a := 
 [ m/lemma !~ ".Reconstructed", afun = "Pnom", 
      parent a-node $n0 := 
-     [ m/lemma ~ ".Reconstructed" ] ];
+     [ m/lemma ~ "εἰμί[0-9]*" ] ];
 >> give match($a.id, '^a-[a-zA-Z0-9]+\.')
 >> for $1 give $1, count() sort by $1

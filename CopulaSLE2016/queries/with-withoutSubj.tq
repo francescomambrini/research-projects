@@ -1,0 +1,8 @@
+#Test how many nominal sentences with implied Pred have/don't have a Sb
+a-node $pnom := 
+[ m/lemma !~ ".Reconstructed", afun = "Pnom", 
+     parent a-node $verb := 
+     [ m/lemma = "#Reconstructed", afun = "Pred", 
+          1+x a-node $sbj := 
+          [ afun = "Sb" ] ] ];
+>> give count()

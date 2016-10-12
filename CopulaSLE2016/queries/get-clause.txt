@@ -1,6 +1,9 @@
+#Verb has afun: Adv
+#lemma is: nominal
+#εἰμί[0-9]*
 a-node $a := 
 [ m/lemma !~ ".Reconstructed", afun = "Pnom", 
      parent a-node $n0 := 
-     [ m/lemma ~ ".Reconstructed" ] ];
+     [ m/lemma = "#Reconstructed", afun = "Adv" ] ];
 >> give match($a.id, '^a-[a-zA-Z0-9]+\.')
 >> for $1 give $1, count() sort by $1

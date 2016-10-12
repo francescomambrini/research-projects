@@ -1,0 +1,12 @@
+#Get as many information as possible for the contingency table
+#>> give $verb.m/lemma
+#>> for $1 give $1, count()
+#
+a-node $pnom := 
+[ m/lemma !~ ".Reconstructed", afun = "Pnom", 
+     parent a-node $verb := 
+     [ m/lemma ~ "(#Reconstructed)|(εἰμί[0-9]*)", afun = "Pred", !(m/tag ~ "^v[12]" or m/tag ~ "^v..[irltfa]" or m/tag ~ "^v...[sonmpdg]"), 
+           a-node $sbj := 
+          [ afun = "Sb", m/tag !~ "^.[12]" ], 
+          ancestor a-root $sent := [  ] ] ];
+>> give $verb.id, $sent.id, address($sent), match($verb.id, '^a-[a-zA-Z0-9]+\.'), "genre", "subgenre", $sbj.m/tag, $pnom.m/tag, match($sbj.id, '[0-9]+$'), match($pnom.id, '[0-9]+$'), 'order', 'subtree', $verb.m/lemma

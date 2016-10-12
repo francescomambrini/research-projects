@@ -9,4 +9,6 @@ a-node $pnom :=
      parent a-node $verb := 
      [ m/lemma = "#Reconstructed", afun = "Pred",
      a-node $sbj := 
-     [ afun = "Sb", m/tag ~ "^v1" ] ] ];
+     [ afun = "Sb" ] ] ];
+>> give match($sbj.m/tag, '^[a-z]')
+>> for $1 give $1, count() sort by $2 desc

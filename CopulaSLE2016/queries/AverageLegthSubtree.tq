@@ -1,0 +1,8 @@
+#Calculate the length of the governor's subtree;
+#the length is calculated as number of descendant nodes and (possibly) as length of the span's string
+a-node $verb := 
+     [ afun = "Pred" ,
+     descendant a-node $desc := [ m/tag !~ "^u" ] ]
+>> give $verb.id
+>> for $1 give $1, count()
+>> give sum($2), avg($2)

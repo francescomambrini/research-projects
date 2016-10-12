@@ -1,0 +1,10 @@
+#Calculate the length of the governor's subtree;
+#the length is calculated as number of descendant nodes and (possibly) as length of the span's string
+a-node $verb := 
+     [ m/lemma ~ "(#Reconstructed)|(εἰμί[0-9]*)", afun = "Pred", !(m/tag ~ "^v[12]" or m/tag ~ "^v..[irltfa]" or m/tag ~ "^v...[sonmpdg]"), 
+      1+x a-node $sbj := 
+     [ afun = "Sb", m/tag !~ "^.[12]" ], descendant a-node $desc := [ m/tag !~ "^u" ] ,
+     1+x a-node $pnom := 
+	 [ m/lemma !~ ".Reconstructed", afun = "Pnom"] ] 
+>> give $verb.id
+>> for $1 give $1, count()

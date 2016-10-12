@@ -1,0 +1,13 @@
+#Get as many information as possible for the contingency table
+#>> give $verb.m/lemma
+#>> for $1 give $1, count()
+#
+a-node $pnom := 
+[ m/lemma ~ "τοιοῦτο[σς][0-9]*", afun = "Pnom", 
+     parent a-node $verb := 
+     [ m/lemma ~ "(#Reconstructed)|(εἰμί[0-9]*)", 
+           a-node $sbj := 
+          [ afun = "Sb" ], 
+          ancestor a-root $sent := [ id ~ "^a-tlg0085" ] ] ];
+>> give address($sent)
+#m/lemma ~ "(#Reconstructed)|(εἰμί[0-9]*)"

@@ -1,0 +1,12 @@
+a-node $n1 := 
+[ m/lemma !~ ".Reconstructed", afun = "Pnom", 
+     parent a-node $n0 := 
+     [ is_member = 1, m/lemma ~ ".Reconstructed", afun = "Pred",
+          parent a-node $n3 := 
+          [ afun = "Coord", 
+                a-node $n4 := 
+               [ m/lemma ~ "εἰμί[0-9]*", is_member = 1 ] ] ], 
+     ancestor a-root $nS := [  ] ];
+#>> give match($n0.id, '^a-[a-zA-Z0-9]+\.')
+#>> for $1 give $1, count() sort by $1
+>> give $n0.id
