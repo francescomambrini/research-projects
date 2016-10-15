@@ -1,0 +1,11 @@
+#Check the number of nominal vs copula structure in authors
+#a-tlg0016 = Herodotus
+#a-tlg0003 = Thucydides
+a-node $pnom := 
+[ m/lemma !~ ".Reconstructed", afun = "Pnom", 
+     parent a-node $verb := 
+     [ m/lemma ~ "(#Reconstructed)|(εἰμί[0-9]*)", 
+           a-node $sbj := 
+          [ afun = "Sb"], 
+          ancestor a-root $sent := [ id ~ "^a-tlg0003" ] ] ];
+>> give tree_no($verb) & '.' & depth_first_order($verb), $verb.afun, $verb.m/tag,$sbj.m/tag,$pnom.m/tag,$verb.m/lemma sort by $6,$1
