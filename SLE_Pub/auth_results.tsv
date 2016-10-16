@@ -1,174 +1,174 @@
-Verb_Address	Verb_Afun	Verb_Tag	Sbj_Tag	Pnom_Tag	Verb_Lemma	isValid
-116.7	Pred	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	1
-121.37	Adv	v3siia---	a-s---nn-	a-s---nn-	#Reconstructed	1
-127.18	Pnom	---------	a-p---nn-	a-p---nn-	#Reconstructed	1
-133.4	Obj	v--pna---	v--ana---	n-s---fa-	#Reconstructed	0
-164.33	Adv	v3siia---	l-s---nn-	v-sppann-	#Reconstructed	1
-196.37	Pred	v3spia---	v--pne---	n-s---fn-	#Reconstructed	1
-200.47	Pred	v3spia---	n-s---fn-	a-s---fnc	#Reconstructed	1
-200.51	Pred	v3spia---	p-s---fn-	a-s---fnc	#Reconstructed	1
-204.5	Obj	---------	v--pne---	a-s---nn-	#Reconstructed	1
-215.2	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed	1
-216.16	Atr	v3spia---	p-s---nn-	n-s---fn-	#Reconstructed	
-217.2	Atr	v3spia---	p-s---mn-	a-s---mns	#Reconstructed	
-217.26	Pred	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	
-22.11	Atr	v3spia---	v--pna---	n-s---mn-	#Reconstructed	1
-225.2	Pred	v3spia---	v--pna---	a-s---nn-	#Reconstructed	
-235.17	Pred	v3siia---	v--anm---	a-s---nn-	#Reconstructed	
-246.2	Pred	v3sfim---	v--pne---	n-s---fn-	#Reconstructed	
-253.16	Obj	v--pna---	v-sppama-	a-s---ma-	#Reconstructed	
-253.5	Obj	v--pna---	v-sppama-	a-s---ma-	#Reconstructed	
-254.3	Obj	v--pna---	p-p---na-	a-p---na-	#Reconstructed	
-255.32	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed	
-256.2	Pred	v3spia---	v--pna---	n-s---fn-	#Reconstructed	
-258.16	Atr	v3spia---	v-sppamn-	a-s---mn-	#Reconstructed	
-258.21	Atr	v3spia---	v-sppamn-	a-s---mn-	#Reconstructed	
-272.12	Pred	v3siia---	n-s---mn-	a-s---mn-	#Reconstructed	
-281.11	Pred	v3piia---	n-p---mn-	v-prpamn-	#Reconstructed	
-292.4	Pred	v3siia---	n-s---mn-	a-s---mn-	#Reconstructed	
-401.2	Pred	v2ppia---	p-p---mn-	a-p---mn-	#Reconstructed	
-412.1	Pred	v3spia---	n-s---fn-	a-p---mg-	#Reconstructed	
-4.15	Pred	---------	n-p---fn-	v-pppafn-	#Reconstructed	0
-4.2	Pred	---------	a-p---mn-	v-pppamn-	#Reconstructed	0
-430.2	Pred	v3spia---	v--pna---	n-s---fn-	#Reconstructed	
-431.13	Pred	v3spia---	a-p---nn-	a-p---nn-	#Reconstructed	
-447.9	Atr	v3spia---	n-p---fn-	n-p---mn-	#Reconstructed	
-448.2	Pred	v3spia---	v--pna---	n-s---fn-	#Reconstructed	
-466.2	Pred	v3spia---	v--pne---	a-s---nn-	#Reconstructed	
-470.2	Pred	v3ppia---	v3pasm---	a-p---mn-	#Reconstructed	
-477.8	Obj	v3spia---	v--pna---	x--------	#Reconstructed	
-481.2	Pred	v3spia---	v-sppann-	a-s---nn-	#Reconstructed	
-488.2	Adv	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	
-496.15	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed	
-496.4	Pred	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	
-508.2	Pred	v3sfim---	v--pne---	a-s---nn-	#Reconstructed	
-512.7	Pred	v3spia---	v--anp---	a-s---nn-	#Reconstructed	
-516.3	Sb	v--pna---	n-s---fa-	p-s---na-	#Reconstructed	
-516.8	Adv	v3spia---	v--pna---	a-s---nnc	#Reconstructed	
-519.2	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed	
-520.2	Pred	v3spia---	v--ane---	a-s---nn-	#Reconstructed	
-529.75	Obj	v--pna---	n-p---fa-	a-p---fa-	#Reconstructed	
-536.2	Pred	v3spia---	v--pna---	a-s---nn-	#Reconstructed	
-54.32	Atr	---------	v--ana---	v-srpann-	#Reconstructed	1
-546.14	Pred	v3spia---	n-p---mn-	p1p---md-	#Reconstructed	
-550.18	Obj	---------	a-s---fn-	a-s---fnc	#Reconstructed	
-59.2	Pred	v3spia---	v--pna---	v-srpann-	#Reconstructed	1
-706.9	Pred	v3paim---	v-pppamn-	v-papamn-	#Reconstructed	
-746.24	Pred	v3spia---	v--ana---	v-srpann-	#Reconstructed	
-748.2	Pred	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	
-758.13	Pred	v3spia---	v-sapamn-	a-s---mnc	#Reconstructed	
-767.6	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed	
-767.73	Pred	v3spia---	v--pne---	a-s---nn-	#Reconstructed	
-770.16	Adv	v3spia---	v--pna---	a-s---nns	#Reconstructed	
-772.1	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed	
-797.28	Obj	v--pna---	v--pna---	a-s---nac	#Reconstructed	
-87.16	Obj	v--pna---	a-p---na-	n-p---ma-	#Reconstructed	1
-901.47	Adv	v3spia---	p-s---nn-	v-srpann-	#Reconstructed	
-901.7	Pred	v3ppia---	a-p---mn-	a-p---mnc	#Reconstructed	
-907.2	Pred	v3ppia---	n-p---mn-	a-p---mn-	#Reconstructed	
-909.6	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed	
-918.24	Atr	v3spia---	p-s---nn-	a-s---nn-	#Reconstructed	
-923.2	Pred	v3spia---	n-s---nn-	a-s---nn-	#Reconstructed	
-935.15	Obj	v3sfim---	v--pna---	n-s---fn-	#Reconstructed	
-10.4	Adv	v-sppafg-	n-s---fg-	a-s---fg-	εἰμί	
-115.36	Adv	v--pna---	n-s---ma-	p-p---md-	εἰμί	
-119.4	Pred	v3siia---	v--ana---	a-s---nn-	εἰμί	
-128.1	Pred	v3ppia---	v3paia---	v-pppefn-	εἰμί	
-134.1	Pred	v3piia---	n-p---fn-	p-p---fn-	εἰμί	
-135.1	Pred	v3spia---	n-s---mn-	n-s---fn-	εἰμί	
-15.24	Atr	v3piia---	p-p---mn-	n-p---mn-	εἰμί	
-156.1	Pred	v3spia---	n-s---nn-	n-s---mn-	εἰμί	
-174.11	Adv	v3piia---	n-p---fn-	a-p---fa-	εἰμί	
-182.55	Atr	v3piia---	a-p---fn-	a-p---fn-	εἰμί	
-196.17	Obj	v-pppamn-	p1p---mn-	a-p---mn-	εἰμί	
-216.25	Sb	v3piia---	p-p---mn-	a-p---mn-	εἰμί	
-218.33	Obj	v-sfpmnn-	v-sppann-	a-s---nnc	εἰμί	
-235.3	Pred	v3siia---	v--ana---	a-s---nn-	εἰμί	
-252.34	Atr	v3ppia---	n-p---mn-	a-p---mn-	εἰμί	
-254.23	Obj	v--pna---	p-p---na-	a-p---na-	εἰμί	
-258.7	Obj	v--pna---	p-s---ma-	n-s---ma-	εἰμί	
-27.1	Pred	v3spia---	p-p---nn-	n-s---nn-	εἰμί	
-282.1	Pred	v3piia---	a-p---mn-	v-prpamn-	εἰμί	
-283.1	Pred	v3ppia---	n-p---mn-	a-p---mn-	εἰμί	
-289.1	Pred	v3siia---	n-s---fn-	a-s---fn-	εἰμί	
-292.5	Pred	v3siia---	n-s---fn-	a-p---fn-	εἰμί	
-303.1	Pred	v3spia---	n-p---nn-	n-s---mn-	εἰμί	
-305.13	Sb	v3piia---	a-p---fn-	a-p---fn-	εἰμί	
-306.44	Obj	v3ppsa---	n-p---fn-	a-p---fn-	εἰμί	
-315.12	Sb	v3piia---	a-p---fn-	a-p---fn-	εἰμί	
-322.4	Adv	v3spia---	n-s---fn-	v--pna---	εἰμί	
-334.45	Atr	v3piia---	p-p---mn-	n-p---mn-	εἰμί	
-3.4	Pred	v3siia---	v--ana---	a-p---nn-	εἰμί	
-341.4	Pred	v3piia---	n-p---mn-	a-p---mn-	εἰμί	
-351.7	Obj	v--pna---	v--pna---	a-p---na-	εἰμί	
-376.1	Pred	v3siia---	l-s---nn-	a-s---nn-	εἰμί	
-378.4	Obj	v-sppafa-	n-s---fa-	a-s---fa-	εἰμί	
-38.1	Pred	v3piia---	n-p---mn-	n-p---mn-	εἰμί	
-412.4	Pred	v3spia---	n-s---fn-	n-p---mg-	εἰμί	
-429.1	Pred	v3spia---	n-p---nn-	a-p---nn-	εἰμί	
-446.5	Obj	v3spia---	n-s---fn-	a-s---fnp	εἰμί	
-453.6	Adv	v-sppafg-	n-s---fg-	a-s---fg-	εἰμί	
-46.6	Adv	v-sppamg-	n-s---mg-	n-s---mg-	εἰμί	
-50.2	Pred	v3ppoa---	p-p---fn-	a-p---fn-	εἰμί	
-504.3	Pred	v3spia---	n-s---fn-	a-s---fn-	εἰμί	
-51.7	Obj	v3siia---	a-p---nn-	l-p---nn-	εἰμί	
-522.2	Pred	v3ppia---	n-p---mn-	a-p---mnc	εἰμί	
-52.6	Adv	v3siia---	n-p---fn-	a-s---nn-	εἰμί	
-529.69	Obj	v--pna---	n-p---fa-	a-p---ma-	εἰμί	
-532.11	Obj	v--pna---	v3spie---	a-s---ma-	εἰμί	
-53.4	Obj	v--pna---	n-s---fa-	l-p---md-	εἰμί	
-535.25	Adv	v-pppamg-	p-p---mg-	a-p---mg-	εἰμί	
-5.39	Adv	v-sppana-	v3sasm---	a-s---na-	εἰμί	
-555.24	Obj	v-pppana-	a-p---na-	a-p---na-	εἰμί	
-57.4	Obj	v3piia---	n-p---mn-	a-p---mn-	εἰμί	
-575.4	Obj	v--pna---	v--pne---	a-s---na-	εἰμί	
-580.1	Pred	v3spia---	n-s---fn-	a-s---fn-	εἰμί	
-583.41	Obj	v--pna---	n-s---na-	a-s---na-	εἰμί	
-584.1	Atr	v3spia---	p-s---nn-	a-s---nn-	εἰμί	
-589.13	Obj	v-sppafa-	n-s---fa-	a-s---fac	εἰμί	
-595.3	Adv	v-sppamg-	p-s---mg-	a-s---mg-	εἰμί	
-607.1	Pred	v3siia---	v--pne---	n-s---nn-	εἰμί	
-610.1	Pred	v3siia---	n-s---mn-	n-p---nn-	εἰμί	
-61.1	Pred	v3siia---	n-s---fn-	a-s---nn-	εἰμί	
-611.3	Pred	v3siia---	n-s---fn-	n-s---nn-	εἰμί	
-613.15	Adv	v3siia---	n-s---nn-	a-s---nn-	εἰμί	
-622.22	Pred	v3siia---	v--pne---	a-s---nn-	εἰμί	
-627.7	Atr	v3siia---	n-s---nn-	a-s---nn-	εἰμί	
-6.32	Atr	v3siia---	a-p---nn-	a-p---nn-	εἰμί	
-642.1	Pred	v3siia---	v--pna---	n-s---nn-	εἰμί	
-653.31	Obj	v--fnm---	n-p---ma-	a-p---ma-	εἰμί	
-686.14	Pred	v3ppia---	a-p---mn-	a-p---mns	εἰμί	
-704.23	Sb	v3piia---	a-p---mn-	n-s---fg-	εἰμί	
-707.33	Sb	v3ppia---	n-p---mn-	v-prpemn-	εἰμί	
-71.1	Pred	v3piia---	n-p---fn-	a-p---fn-	εἰμί	
-719.62	Atr	v3piia---	a--------	n-p---fn-	εἰμί	
-733.11	Obj	v--fnm---	n-s---fa-	v-pppamd-	εἰμί	
-736.17	Adv	v3ppia---	p-p---mn-	v-prpemn-	εἰμί	
-741.7	Pred	v3spia---	v--pna---	n-p---mg-	εἰμί	
-753.2	Pred	v3spia---	v3ppia---	a-s---nn-	εἰμί	
-770.18	Sb	v--pna---	p-p---nn-	v-pppann-	εἰμί	
-770.38	Atr	v3siia---	a-s---nnp	a-s---nn-	εἰμί	
-777.17	Obj	v3siia---	p-p---nn-	a-p---nn-	εἰμί	
-777.5	Pred	v3siia---	v--pna---	a-p---nn-	εἰμί	
-779.13	Adv	v3spoa---	n-s---fn-	p-p---md-	εἰμί	
-781.1	Pred	v3siia---	p-s---nn-	n-s---nn-	εἰμί	
-784.27	Obj	v--pna---	n-s---fa-	a-s---fas	εἰμί	
-785.2	Pred	v3spia---	n-s---fn-	a-s---fns	εἰμί	
-83.1	Pred	v3siia---	p-p---nn-	a-p---nns	εἰμί	
-835.1	Pred	v3siia---	n-s---nn-	d--------	εἰμί	
-836.1	Atr	v3siia---	p-s---nn-	n-s---ng-	εἰμί	
-837.26	Obj	v-sppama-	p-s---ma-	d--------	εἰμί	
-841.19	Adv	v-sppana-	v-srpena-	n-s---na-	εἰμί	
-851.17	Obj	v--pna---	v--pne---	a-s---na-	εἰμί	
-853.22	Adv	v3siia---	a-s---nn_	n-s---nn-	εἰμί	
-856.3	Obj	v--pna---	v--ana---	n-s---fa-	εἰμί	
-88.13	Adv	v-sppamg-	a-s---mg-	a-s---mg-	εἰμί	
-882.23	Sb	v--pna---	n-s---na-	a-s---na-	εἰμί	
-884.5	Obj	v-pppana-	a-p---na-	p1s---md-	εἰμί	
-887.1	Pred	v3piia---	n-p---mn-	a-p---mn-	εἰμί	
-898.5	Pred	v3ppia---	n-p---mn-	a-p---mn-	εἰμί	
-898.9	Pred	v3spia---	n-p---nn-	p-p---md-	εἰμί	
-90.1	Pred	v3siia---	a-p---nn-	p-p---nn-	εἰμί	
-9.1	Pred	v3spia---	n-s---nn-	v--anp---	εἰμί	
-925.2	Pred	v3piia---	p-p---mn-	a-p---mnc	εἰμί	
-926.67	Adv	v-pppamg-	p1p---mg-	a-p---mg-	εἰμί	
+Verb_Address	Verb_Afun	Verb_Tag	Sbj_Tag	Pnom_Tag	Verb_Lemma	isValid	note
+116.7	Pred	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	1	
+121.37	Adv	v3siia---	a-s---nn-	a-s---nn-	#Reconstructed	1	
+127.18	Pnom	---------	a-p---nn-	a-p---nn-	#Reconstructed	1	
+133.4	Obj	v--pna---	v--ana---	n-s---fa-	#Reconstructed	0	annotation error
+164.33	Adv	v3siia---	l-s---nn-	v-sppann-	#Reconstructed	1	
+196.37	Pred	v3spia---	v--pne---	n-s---fn-	#Reconstructed	1	
+200.47	Pred	v3spia---	n-s---fn-	a-s---fnc	#Reconstructed	1	
+200.51	Pred	v3spia---	p-s---fn-	a-s---fnc	#Reconstructed	1	
+204.5	Obj	---------	v--pne---	a-s---nn-	#Reconstructed	1	
+215.2	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed	1	
+216.16	Atr	v3spia---	p-s---nn-	n-s---fn-	#Reconstructed	1	
+217.2	Atr	v3spia---	p-s---mn-	a-s---mns	#Reconstructed	1	
+217.26	Pred	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	1	
+22.11	Atr	v3spia---	v--pna---	n-s---mn-	#Reconstructed	1	
+225.2	Pred	v3spia---	v--pna---	a-s---nn-	#Reconstructed	1	
+235.17	Pred	v3siia---	v--anm---	a-s---nn-	#Reconstructed	0	gapping
+246.2	Pred	v3sfim---	v--pne---	n-s---fn-	#Reconstructed	1	
+253.16	Obj	v--pna---	v-sppama-	a-s---ma-	#Reconstructed	0	annotation error
+253.5	Obj	v--pna---	v-sppama-	a-s---ma-	#Reconstructed	0	annotation error
+254.3	Obj	v--pna---	p-p---na-	a-p---na-	#Reconstructed	0	annotation error
+255.32	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed	1	
+256.2	Pred	v3spia---	v--pna---	n-s---fn-	#Reconstructed	1	
+258.16	Atr	v3spia---	v-sppamn-	a-s---mn-	#Reconstructed	1	
+258.21	Atr	v3spia---	v-sppamn-	a-s---mn-	#Reconstructed	1	
+272.12	Pred	v3siia---	n-s---mn-	a-s---mn-	#Reconstructed	0	gapping
+281.11	Pred	v3piia---	n-p---mn-	v-prpamn-	#Reconstructed	0	gapping
+292.4	Pred	v3siia---	n-s---mn-	a-s---mn-	#Reconstructed	0	gapping
+401.2	Pred	v2ppia---	p-p---mn-	a-p---mn-	#Reconstructed	1	
+412.1	Pred	v3spia---	n-s---fn-	a-p---mg-	#Reconstructed	0	gapping
+4.15	Pred	---------	n-p---fn-	v-pppafn-	#Reconstructed	0	
+4.2	Pred	---------	a-p---mn-	v-pppamn-	#Reconstructed	0	
+430.2	Pred	v3spia---	v--pna---	n-s---fn-	#Reconstructed	1	
+431.13	Pred	v3spia---	a-p---nn-	a-p---nn-	#Reconstructed	1	
+447.9	Atr	v3spia---	n-p---fn-	n-p---mn-	#Reconstructed	1	
+448.2	Pred	v3spia---	v--pna---	n-s---fn-	#Reconstructed	1	
+466.2	Pred	v3spia---	v--pne---	a-s---nn-	#Reconstructed	1	
+470.2	Pred	v3ppia---	v3pasm---	a-p---mn-	#Reconstructed	1	
+477.8	Obj	v3spia---	v--pna---	x--------	#Reconstructed	1	
+481.2	Pred	v3spia---	v-sppann-	a-s---nn-	#Reconstructed	1	
+488.2	Adv	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	1	
+496.15	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+496.4	Pred	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed		
+508.2	Pred	v3sfim---	v--pne---	a-s---nn-	#Reconstructed		
+512.7	Pred	v3spia---	v--anp---	a-s---nn-	#Reconstructed		
+516.3	Sb	v--pna---	n-s---fa-	p-s---na-	#Reconstructed		
+516.8	Adv	v3spia---	v--pna---	a-s---nnc	#Reconstructed		
+519.2	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+520.2	Pred	v3spia---	v--ane---	a-s---nn-	#Reconstructed		
+529.75	Obj	v--pna---	n-p---fa-	a-p---fa-	#Reconstructed		
+536.2	Pred	v3spia---	v--pna---	a-s---nn-	#Reconstructed		
+54.32	Atr	---------	v--ana---	v-srpann-	#Reconstructed	1	
+546.14	Pred	v3spia---	n-p---mn-	p1p---md-	#Reconstructed		
+550.18	Obj	---------	a-s---fn-	a-s---fnc	#Reconstructed		
+59.2	Pred	v3spia---	v--pna---	v-srpann-	#Reconstructed	1	
+706.9	Pred	v3paim---	v-pppamn-	v-papamn-	#Reconstructed		
+746.24	Pred	v3spia---	v--ana---	v-srpann-	#Reconstructed		
+748.2	Pred	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed		
+758.13	Pred	v3spia---	v-sapamn-	a-s---mnc	#Reconstructed		
+767.6	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed		
+767.73	Pred	v3spia---	v--pne---	a-s---nn-	#Reconstructed		
+770.16	Adv	v3spia---	v--pna---	a-s---nns	#Reconstructed		
+772.1	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+797.28	Obj	v--pna---	v--pna---	a-s---nac	#Reconstructed		
+87.16	Obj	v--pna---	a-p---na-	n-p---ma-	#Reconstructed	1	
+901.47	Adv	v3spia---	p-s---nn-	v-srpann-	#Reconstructed		
+901.7	Pred	v3ppia---	a-p---mn-	a-p---mnc	#Reconstructed		
+907.2	Pred	v3ppia---	n-p---mn-	a-p---mn-	#Reconstructed		
+909.6	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed		
+918.24	Atr	v3spia---	p-s---nn-	a-s---nn-	#Reconstructed		
+923.2	Pred	v3spia---	n-s---nn-	a-s---nn-	#Reconstructed		
+935.15	Obj	v3sfim---	v--pna---	n-s---fn-	#Reconstructed		
+10.4	Adv	v-sppafg-	n-s---fg-	a-s---fg-	εἰμί		
+115.36	Adv	v--pna---	n-s---ma-	p-p---md-	εἰμί		
+119.4	Pred	v3siia---	v--ana---	a-s---nn-	εἰμί		
+128.1	Pred	v3ppia---	v3paia---	v-pppefn-	εἰμί		
+134.1	Pred	v3piia---	n-p---fn-	p-p---fn-	εἰμί		
+135.1	Pred	v3spia---	n-s---mn-	n-s---fn-	εἰμί		
+15.24	Atr	v3piia---	p-p---mn-	n-p---mn-	εἰμί		
+156.1	Pred	v3spia---	n-s---nn-	n-s---mn-	εἰμί		
+174.11	Adv	v3piia---	n-p---fn-	a-p---fa-	εἰμί		
+182.55	Atr	v3piia---	a-p---fn-	a-p---fn-	εἰμί		
+196.17	Obj	v-pppamn-	p1p---mn-	a-p---mn-	εἰμί		
+216.25	Sb	v3piia---	p-p---mn-	a-p---mn-	εἰμί		
+218.33	Obj	v-sfpmnn-	v-sppann-	a-s---nnc	εἰμί		
+235.3	Pred	v3siia---	v--ana---	a-s---nn-	εἰμί		
+252.34	Atr	v3ppia---	n-p---mn-	a-p---mn-	εἰμί		
+254.23	Obj	v--pna---	p-p---na-	a-p---na-	εἰμί		
+258.7	Obj	v--pna---	p-s---ma-	n-s---ma-	εἰμί		
+27.1	Pred	v3spia---	p-p---nn-	n-s---nn-	εἰμί		
+282.1	Pred	v3piia---	a-p---mn-	v-prpamn-	εἰμί		
+283.1	Pred	v3ppia---	n-p---mn-	a-p---mn-	εἰμί		
+289.1	Pred	v3siia---	n-s---fn-	a-s---fn-	εἰμί		
+292.5	Pred	v3siia---	n-s---fn-	a-p---fn-	εἰμί		
+303.1	Pred	v3spia---	n-p---nn-	n-s---mn-	εἰμί		
+305.13	Sb	v3piia---	a-p---fn-	a-p---fn-	εἰμί		
+306.44	Obj	v3ppsa---	n-p---fn-	a-p---fn-	εἰμί		
+315.12	Sb	v3piia---	a-p---fn-	a-p---fn-	εἰμί		
+322.4	Adv	v3spia---	n-s---fn-	v--pna---	εἰμί		
+334.45	Atr	v3piia---	p-p---mn-	n-p---mn-	εἰμί		
+3.4	Pred	v3siia---	v--ana---	a-p---nn-	εἰμί		
+341.4	Pred	v3piia---	n-p---mn-	a-p---mn-	εἰμί		
+351.7	Obj	v--pna---	v--pna---	a-p---na-	εἰμί		
+376.1	Pred	v3siia---	l-s---nn-	a-s---nn-	εἰμί		
+378.4	Obj	v-sppafa-	n-s---fa-	a-s---fa-	εἰμί		
+38.1	Pred	v3piia---	n-p---mn-	n-p---mn-	εἰμί		
+412.4	Pred	v3spia---	n-s---fn-	n-p---mg-	εἰμί		
+429.1	Pred	v3spia---	n-p---nn-	a-p---nn-	εἰμί		
+446.5	Obj	v3spia---	n-s---fn-	a-s---fnp	εἰμί		
+453.6	Adv	v-sppafg-	n-s---fg-	a-s---fg-	εἰμί		
+46.6	Adv	v-sppamg-	n-s---mg-	n-s---mg-	εἰμί		
+50.2	Pred	v3ppoa---	p-p---fn-	a-p---fn-	εἰμί		
+504.3	Pred	v3spia---	n-s---fn-	a-s---fn-	εἰμί		
+51.7	Obj	v3siia---	a-p---nn-	l-p---nn-	εἰμί		
+522.2	Pred	v3ppia---	n-p---mn-	a-p---mnc	εἰμί		
+52.6	Adv	v3siia---	n-p---fn-	a-s---nn-	εἰμί		
+529.69	Obj	v--pna---	n-p---fa-	a-p---ma-	εἰμί		
+532.11	Obj	v--pna---	v3spie---	a-s---ma-	εἰμί		
+53.4	Obj	v--pna---	n-s---fa-	l-p---md-	εἰμί		
+535.25	Adv	v-pppamg-	p-p---mg-	a-p---mg-	εἰμί		
+5.39	Adv	v-sppana-	v3sasm---	a-s---na-	εἰμί		
+555.24	Obj	v-pppana-	a-p---na-	a-p---na-	εἰμί		
+57.4	Obj	v3piia---	n-p---mn-	a-p---mn-	εἰμί		
+575.4	Obj	v--pna---	v--pne---	a-s---na-	εἰμί		
+580.1	Pred	v3spia---	n-s---fn-	a-s---fn-	εἰμί		
+583.41	Obj	v--pna---	n-s---na-	a-s---na-	εἰμί		
+584.1	Atr	v3spia---	p-s---nn-	a-s---nn-	εἰμί		
+589.13	Obj	v-sppafa-	n-s---fa-	a-s---fac	εἰμί		
+595.3	Adv	v-sppamg-	p-s---mg-	a-s---mg-	εἰμί		
+607.1	Pred	v3siia---	v--pne---	n-s---nn-	εἰμί		
+610.1	Pred	v3siia---	n-s---mn-	n-p---nn-	εἰμί		
+61.1	Pred	v3siia---	n-s---fn-	a-s---nn-	εἰμί		
+611.3	Pred	v3siia---	n-s---fn-	n-s---nn-	εἰμί		
+613.15	Adv	v3siia---	n-s---nn-	a-s---nn-	εἰμί		
+622.22	Pred	v3siia---	v--pne---	a-s---nn-	εἰμί		
+627.7	Atr	v3siia---	n-s---nn-	a-s---nn-	εἰμί		
+6.32	Atr	v3siia---	a-p---nn-	a-p---nn-	εἰμί		
+642.1	Pred	v3siia---	v--pna---	n-s---nn-	εἰμί		
+653.31	Obj	v--fnm---	n-p---ma-	a-p---ma-	εἰμί		
+686.14	Pred	v3ppia---	a-p---mn-	a-p---mns	εἰμί		
+704.23	Sb	v3piia---	a-p---mn-	n-s---fg-	εἰμί		
+707.33	Sb	v3ppia---	n-p---mn-	v-prpemn-	εἰμί		
+71.1	Pred	v3piia---	n-p---fn-	a-p---fn-	εἰμί		
+719.62	Atr	v3piia---	a--------	n-p---fn-	εἰμί		
+733.11	Obj	v--fnm---	n-s---fa-	v-pppamd-	εἰμί		
+736.17	Adv	v3ppia---	p-p---mn-	v-prpemn-	εἰμί		
+741.7	Pred	v3spia---	v--pna---	n-p---mg-	εἰμί		
+753.2	Pred	v3spia---	v3ppia---	a-s---nn-	εἰμί		
+770.18	Sb	v--pna---	p-p---nn-	v-pppann-	εἰμί		
+770.38	Atr	v3siia---	a-s---nnp	a-s---nn-	εἰμί		
+777.17	Obj	v3siia---	p-p---nn-	a-p---nn-	εἰμί		
+777.5	Pred	v3siia---	v--pna---	a-p---nn-	εἰμί		
+779.13	Adv	v3spoa---	n-s---fn-	p-p---md-	εἰμί		
+781.1	Pred	v3siia---	p-s---nn-	n-s---nn-	εἰμί		
+784.27	Obj	v--pna---	n-s---fa-	a-s---fas	εἰμί		
+785.2	Pred	v3spia---	n-s---fn-	a-s---fns	εἰμί		
+83.1	Pred	v3siia---	p-p---nn-	a-p---nns	εἰμί		
+835.1	Pred	v3siia---	n-s---nn-	d--------	εἰμί		
+836.1	Atr	v3siia---	p-s---nn-	n-s---ng-	εἰμί		
+837.26	Obj	v-sppama-	p-s---ma-	d--------	εἰμί		
+841.19	Adv	v-sppana-	v-srpena-	n-s---na-	εἰμί		
+851.17	Obj	v--pna---	v--pne---	a-s---na-	εἰμί		
+853.22	Adv	v3siia---	a-s---nn_	n-s---nn-	εἰμί		
+856.3	Obj	v--pna---	v--ana---	n-s---fa-	εἰμί		
+88.13	Adv	v-sppamg-	a-s---mg-	a-s---mg-	εἰμί		
+882.23	Sb	v--pna---	n-s---na-	a-s---na-	εἰμί		
+884.5	Obj	v-pppana-	a-p---na-	p1s---md-	εἰμί		
+887.1	Pred	v3piia---	n-p---mn-	a-p---mn-	εἰμί		
+898.5	Pred	v3ppia---	n-p---mn-	a-p---mn-	εἰμί		
+898.9	Pred	v3spia---	n-p---nn-	p-p---md-	εἰμί		
+90.1	Pred	v3siia---	a-p---nn-	p-p---nn-	εἰμί		
+9.1	Pred	v3spia---	n-s---nn-	v--anp---	εἰμί		
+925.2	Pred	v3piia---	p-p---mn-	a-p---mnc	εἰμί		
+926.67	Adv	v-pppamg-	p1p---mg-	a-p---mg-	εἰμί		
