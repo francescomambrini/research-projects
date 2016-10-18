@@ -1,0 +1,95 @@
+Verb_Address	Verb_Afun	Verb_Tag	Sbj_Tag	Pnom_Tag	Verb_Lemma	isValid	note
+102.2	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed	1	
+111.2	Pred	v3spia---	a-p---nn-	a-p---nn-	#Reconstructed	1	
+11.23	Obj	v--pna---	v--ana---	a-s---na-	#Reconstructed	0	annotation error
+113.38	Atr	v3spia---	v--ana---	a-s---nn-	#Reconstructed	1	
+117.2	Pred	---------	n-s---mn-	a-s---mn-	#Reconstructed	1	
+118.22	Adv	v3sria---	v3pppann_	a-p---nn-	#Reconstructed	0	gapping
+121.6	Pred	?	v--pna---	a-s---nns	#Reconstructed	1	
+124.4	Pred	v3spia---	v--pne---	a-s---nn-	#Reconstructed	1	
+125.19	Atr	?	n-s---nn-	a-s---nn-	#Reconstructed	1	
+126.2	Pred	v3spia---	l-s---nn-	a-s---nns	#Reconstructed		ARRIVATO QUI
+126.2	Pred	v3spia---	v--ana---	n-s---nn-	#Reconstructed		
+128.21	Adv	v3spia---	v--pna---	n-s---fn-	#Reconstructed		
+130.4	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed		
+131.2	Pred	v3spia---	v--pna---	n-s---nn-	#Reconstructed		
+137.2	Pred	v3spia---	v--pna---	a-s---nn-	#Reconstructed		
+137.26	Adv	v3spia---	v--pna---	a-s---nn-	#Reconstructed		
+137.26	Adv	v3spia---	v--pna---	a-s---nn-	#Reconstructed		
+137.26	Adv	v3spia---	v--pna---	v-srpann-	#Reconstructed		
+137.26	Adv	v3spia---	v--pna---	v-srpann-	#Reconstructed		
+138.3	Pred	v3spia---	v--pna---	a-s---nn-	#Reconstructed		
+139.3	Pred	?	?	a-s---nn-	#Reconstructed		
+140.2	Pred	v3spia---	p-s---nn-	a-s---nn-	#Reconstructed		
+141.23	Sb	v3spia---	v--pne---	a-s---nn-	#Reconstructed		
+142.16	Sb	v3spia---	v--pna---	n-s---fn-	#Reconstructed		
+143.3	Pred	v3spia---	p-s---nn-	v-srpann-	#Reconstructed		
+14.5	Sb	v--pna---	l-s---na-	a-s---na-	#Reconstructed	0	gapping
+145.2	Obj	v--pna---	n-p---ma-	v-prpama-	#Reconstructed		
+148.9	Pred	?	n-s---mn-	n-s---mn-	#Reconstructed		
+152.2	Pred	v3spia---	v--pna---	n-s---nn-	#Reconstructed		
+155.2	Obj	v--pna---	v--pna---	n-s---fn-	#Reconstructed		
+155.2	Obj	v--pna---	p-p---ma-	n-s---fn-	#Reconstructed		
+155.2	Obj	v--pna---	v--pna---	v-prpema-	#Reconstructed		
+155.2	Obj	v--pna---	p-p---ma-	v-prpema-	#Reconstructed		
+155.23	Sb	v3spia---	v--pne---	v-srpann-	#Reconstructed	1	
+204.2	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+207.3	Pred	v3spia---	v--pna---	v-srpann-	#Reconstructed	1	
+220.24	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+220.31	Pred	v3spia---	v--ana---	v-sppann-	#Reconstructed		
+220.7	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+231.17	Adv	?	p-s---nn-	v-srpann-	#Reconstructed		
+2.33	Obj	v--pna---	n-s---fa-	n-s---ma-	#Reconstructed		
+239.3	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed		
+263.4	Pred	?	n-s---fn-	n-p---fa-	#Reconstructed		
+288.5	Pred	v3ppia---	n-p---fn-	n-s---nn-	#Reconstructed		
+289.9	Obj	v3spia---	n-s---mn-	a-s---mn-	#Reconstructed		
+292.37	Obj	v--pna---	v--pna---	a-s---na-	#Reconstructed		
+30.21	Atr	---------	l-s---na-	a-s---na-	#Reconstructed		
+309.3	Atr	v3siia---	l-s---nn-	a-s---nn-	#Reconstructed		
+309.3	Atr	v3siia---	a-s---nn-	a-s---nn-	#Reconstructed		
+31.2	Pred	---------	v--ana---	a-s---nn-	#Reconstructed		
+316.4	Pred	v3spia---	n-s---nn-	v-sppamg-	#Reconstructed	0	annotation error
+326.2	Pred	v3spia---	v-srpann-	a-s---nn-	#Reconstructed		
+328.6	Atr	---------	p-s---nn-	v-srpann-	#Reconstructed		
+332.2	Pred	v3ppia---	v-papmmn-	p-p---mn-	#Reconstructed		
+35.4	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+35.4	Pred	v3spia---	v--pna---	a-s---nn-	#Reconstructed		
+35.4	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+35.4	Pred	v3spia---	v--pna---	a-s---nn-	#Reconstructed		
+368.4	Obj	v--pna---	v--pna---	n-s---na-	#Reconstructed		
+369.6	Adv	v3spia---	v--pna---	a-s---nn-	#Reconstructed		
+388.21	Atr	v3piia---	n-p---mn-	a-p---mnc	#Reconstructed	0	gapping
+399.4	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+415.34	Sb	---------	l-s---ma-	a-s---nac-----	#Reconstructed		
+417.4	Obj	v--pna---	n-s---fa-	n-s---fa-	#Reconstructed		
+432.51	Atr	v3spia---	v--pna---	a-s---nn-	#Reconstructed	1	
+433.3	Pred	v3spia---	v--anm---	a-s---nn-	#Reconstructed	1	
+436.3	Adv	v-sppamg-	n-s---mg-	a-s---mgs	#Reconstructed		
+437.13	Obj	v--pna---	n-s---na-	n-s---mg-	#Reconstructed	0	gapping
+441.8	Pred	v3spia---	a-s---nn-	n-s---mn-	#Reconstructed		
+44.2	Pred	v3spia---	p-s---nn-	a-s---nn-	#Reconstructed		
+4.46	Pred	---------	p-s---mn-	a-s---mn-	#Reconstructed		
+452.16	Apos	---------	p-s---nn-	n-s---nn-	#Reconstructed		
+454.3	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed	1	
+455.1	Atr	v3spia---	v--ana---	a-s---nn-	#Reconstructed	1	
+455.3	Pred	v3spia---	v--ane---	a-s---nn-	#Reconstructed	1	
+489.15	Pred	v3spia---	v-sppenn-	a-s---nns	#Reconstructed	1	
+496.43	Adv	v3spia---	p-s---fn-	n-s---fn-	#Reconstructed		
+497.11	Pred	v3spia---	n-s---mn-	a-s---mn-	#Reconstructed		
+500.12	Pred	v3spia---	l-s---mn-	a-s---mn-	#Reconstructed	0	gapping
+527.13	Pred	v3piia---	l-p---mn-	a-p---mn-	#Reconstructed	0	text corrupted?
+650.2	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed		
+656.11	Pred	v3siia---	l-p---nn-	a-p---nn-	#Reconstructed		
+656.11	Pred	v3siia---	n-s---nn-	a-p---nn-	#Reconstructed		
+656.11	Pred	v3siia---	l-p---nn-	a-s---nn-	#Reconstructed		
+656.11	Pred	v3siia---	n-s---nn-	a-s---nn-	#Reconstructed		
+71.11	Pred	v3spia---	n-s---nn-	a-_---___	#Reconstructed	0	gapping
+729.36	Obj	---------	n-p---ma-	a-p---mac	#Reconstructed		
+73.3	Pred	?	n-s---fn-	n-p---fa-	#Reconstructed		
+755.2	Pred	v3siia---	v--rna---	a-s---nn-	#Reconstructed		
+756.2	Pred	---------	v--pna---	a-s---nnc	#Reconstructed		
+767.41	Obj	---------	v--ana---	a-s---na-	#Reconstructed		
+83.31	Pred	v3sfim---	a-s---mn-	n-s---mg-	#Reconstructed	0	gapping
+89.3	Pred	v1siia---	v--anm---	a-s---nn-	#Reconstructed	1	
+937.2	Pred	v3siia---	n-s---mn-	v-sapamn-	#Reconstructed		
