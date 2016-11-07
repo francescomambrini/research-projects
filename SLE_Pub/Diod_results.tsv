@@ -1,0 +1,74 @@
+	Verb_Address	Verb_Afun	Verb_Tag	Sbj_Tag	Pnom_Tag	Verb_Lemma	isValid	note
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##26.2	26.2	Pred	v3spia---	v--ana---	a-s---nn-	#Reconstructed	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##31.10	31.1	Obj	v--pna---	v--pna---	a-s---nac	#Reconstructed	0	annotation error
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##45.10	45.1	Obj	v--pna---	n-s---ma-	a-s---ma-	#Reconstructed	0	annotation error
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##129.8	129.8	Pred	v3spia---	n-s---fn-	n-s---fn-	#Reconstructed	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##130.5	130.5	Obj	v--pna---	n-p---ma-	a-p---mac	#Reconstructed	0	annotation error
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##133.16	133.16	Obj	v--pna---	p-p---ma-	a-p---ma-	#Reconstructed	0	annotation error
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##137.25	137.25	Obj	v3spia---	n-s---fn-	a-s---fn-	#Reconstructed	0	cit. Simonides!
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##137.34	137.34	Obj	v3spia---	n-s---mn-	a-s---mn-	#Reconstructed	0	cit. Simonides!
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##137.39	137.39	Obj	v3spia---	n-s---mn-	n-s---mn-	#Reconstructed	0	cit. Simonides!
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##137.49	137.49	Obj	v3spia---	n-s---mn-	n-s---mn-	#Reconstructed	0	cit. Simonides!
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##150.12	150.12	Pred	v3piia---	a-p---fn-	n-p---mg-	#Reconstructed	0	gapping
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##633.10	633.1	Sb	v--anm---	n-p---fa-	a-p---fac	#Reconstructed	0	gapping
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##638.15	638.15	Obj	v--pna---	v--ana---	a-s---na-	#Reconstructed	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##828.23	828.23	Adv	---------	v--ana---	a-s---nn-	#Reconstructed	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##902.3	902.3	Obj	v--pna---	v--pna---	a-s---nac	#Reconstructed	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##988.22	988.22	Obj	v--pna---	v--ana---	v-sppana-	#Reconstructed	0	gapping
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##42.1	42.1	Pred	v3siia---	n-s---mn-	v-srpemn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##52.6	52.6	Obj	v--fnm---	n-s---fa-	a-s---fac	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##63.1	63.1	Pred	v3siia---	n-s---mn-	a-s---mnc	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##63.28	63.28	Adv	v--pna---	v-sppena-	p-s---na-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##70.1	70.1	Pred	v3spia---	v--pne---	a-s---nn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##82.1	82.1	Pred	v3siia---	n-s---fn-	a-s---fn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##89.45	89.45	Obj	v3sfim---	n-s---mn-	n-s---nn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##102.4	102.4	Obj	v--pna---	v--ana---	a-s---na-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##106.10	106.1	Adv	v-pppamg-	n-p---mg-	a-p---mg-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##117.4	117.4	Pred	v3siia---	n-s---mn-	v-srpamn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##119.15	119.15	Obj	v-pppama-	n-p---ma-	a-p---ma-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##132.32	132.32	Obj	v--pna---	v--pna---	a-s---nas	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##151.4	151.4	Pred	v3siia---	n-s---mn-	n-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##161.1	161.1	Pred	v3siia---	n-s---fn-	a-s---fn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##167.21	167.21	Atr	v3siia---	---------	a-s---nn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##170.12	170.12	Obj	v-pppama-	p-p---ma-	a-p---ma-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##190.4	190.4	Obj	v--fnm---	n-s---ma-	a-s---ma-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##191.5	191.5	Obj	v--fnm---	n-s---ma-	a-s---ma-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##204.1	204.1	Pred	v3piia---	n-p---fn-	v-prpefn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##219.4	219.4	Pred	v3piia---	a-p---mn-	v-pppamn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##225.1	225.1	Pred	v3siia---	n-s---mn-	a-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##259.2	259.2	Adv	v-sppafg-	n-s---fg-	v3siia---	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##290.1	290.1	Pred	v3siia---	n-s---nn-	a-s---nn_	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##292.42	292.42	Adv	v--pna---	n-s---na-	a-s---na-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##315.1	315.1	Pred	v3siia---	n-s---mn-	v-sppamn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##316.1	316.1	Pred	v3spia---	p-p---nn-	a-p---nns	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##320.1	320.1	Pred	v3piia---	n-p---fn-	a-p---fnc	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##338.22	338.22	Obj	v3siia---	v--pna---	a-s---nn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##342.1	342.1	Pred	v3siia---	n-s---mn-	p-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##358.14	358.14	Sb	v--pna---	n-p---fa-	a-p---fa-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##375.19	375.19	Adv	v-pppamg-	n-p---mg-	a-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##404.7	404.7	Obj	v-sppafa-	n-s---fa-	a-s---fa-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##407.18	407.18	Obj	v-pppama-	n-p---ma-	a-p---ma-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##408.33	408.33	Obj	v--fnm---	n-p---ma-	a-p---mac	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##413.9	413.9	Pred	v3siia---	n-s---fn-	a-s---fn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##461.20	461.2	Obj	v3siia---	v--ana---	n-s---fn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##466.9	466.9	Pred	v3siia---	n-s---mn-	n-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##469.7	469.7	Adv	v-sppamg-	v-sppemg-	n-s---mg-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##499.1	499.1	Pred	v3siia---	n-s---mn-	v-srpemn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##509.7	509.7	Obj	v--pna---	n-s---fa-	a-s---fa-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##564.10	564.1	Adv	v-sppang-	n-s---ng-	a-s---ng-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##644.20	644.2	Atr	v3piia---	a-p---fn-	v-prpefn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##683.6	683.6	Obj	v--pna---	v-prpema-	a-p---ma-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##694.8	694.8	Pred	v3siia---	n-s---mn-	n-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##714.10	714.1	Atr	v3spia---	v--ana---	a-s---nn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##727.6	727.6	Obj	v-sppafa-	n-s---fa-	a-s---fa-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##732.6	732.6	Pred	v3siia---	n-s---mn-	n-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##832.9	832.9	Pred	v3siia---	n-s---mn-	n-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##868.13	868.13	Adv	v--pna---	v--ana---	n-s---fa-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##869.17	869.17	Obj	v--fnm---	n-s---fg-	l-s---fg-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##875.29	875.29	Obj	v--pna---	v-pappma-	a-p---ma-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##946.43	946.43	Atr	v3siia---	p-s---fn-	n-s---fn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##947.2	947.2	Pred	v3spia---	v--ana---	a-s---nn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##949.1	949.1	Pred	v3ppia---	n-p---mn-	a-p---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##956.6	956.6	Adv	v-sppafg-	n-s---fg-	a-s---fg-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##987.7	987.7	Obj	v3spia---	n-s---mn-	a-s---mn-	εἰμί	1	
+/home/francesco/Documents/work/github/pAGDT/data/pdt/DiodorusSic_Book11.tb.a.gz##988.6	988.6	Obj	v--pna---	v--pna---	a-s---na-	εἰμί	1	
