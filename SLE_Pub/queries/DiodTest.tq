@@ -1,0 +1,12 @@
+#Check the number of nominal vs copula structure in authors
+#a-tlg0016 = Herodotus
+#a-tlg0003 = Thucydides
+a-node $pnom := 
+[ m/lemma !~ ".Reconstructed", afun = "Pnom", 
+     parent a-node $verb := 
+     [ m/lemma ~ "(#Reconstructed)|(εἰμί[0-9]*)", 
+           a-node $sbj := 
+          [ afun = "Sb"], 
+          ancestor a-root $sent := [ id ~ "^a-tlg0060" ] ] ];
+>> give $verb.m/lemma
+>> for $1 give $1, count()
