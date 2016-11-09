@@ -1,0 +1,795 @@
+Sent.ID	Tree.Address	Author	Vb.Afun	Vb.pos	Sb.pos	Pnom.pos	Pnom.lemma	Sb.rank	Pnom.rank	Order	Length.subtree	Predication.Type	IsValid	Note	Century
+a-tlg0003.tlg001-1.127.1-s23539-w0	Thucydides_Book1.tb.a.gz##797.0	Thucydides	Obj	v--pna---	v--pna---	a-s---nac	ῥᾴδιος	34	29	P-Sb	subtree	#Reconstructed	0.0	annotation error	5th
+a-tlg0003.tlg001-1.9.2-s22788-w0	Thucydides_Book1.tb.a.gz##46.0	Thucydides	Adv	v-sppamg-	n-s---mg-	n-s---mg-	ἀδελφός	57	60	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.142.3-s23651-w0	Thucydides_Book1.tb.a.gz##909.0	Thucydides	Pred	v3spia---	v--anm---	a-s---nn-	χαλεπός	10	4	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.69.6-s23154-w0	Thucydides_Book1.tb.a.gz##412.0	Thucydides	Pred	v3spia---	n-s---fn-	n-p---mg-	ἀνήρ	1	5	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.134.2-s23579-w0	Thucydides_Book1.tb.a.gz##837.0	Thucydides	Obj	v-sppama-	p-s---ma-	d--------	ἔνδον	25	22	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.116.1-s23461-w0	Thucydides_Book1.tb.a.gz##719.0	Thucydides	Atr	v3piia---	a--------	n-p---fn-	στρατιῶτις	63	64	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.71.3-s23173-w0	Thucydides_Book1.tb.a.gz##431.0	Thucydides	Pred	v3spia---	a-p---nn-	a-p---nn-	ἄριστος	7	8	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.42.2-4-s22997-w0	Thucydides_Book1.tb.a.gz##255.0	Thucydides	Pred	v3spia---	v--anm---	a-s---nn-	ἄξιος	43	32	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.1.3-s22745-w0	Thucydides_Book1.tb.a.gz##3.0	Thucydides	Pred	v3siia---	v--ana---	a-p---nn-	ἀδύνατος	11	15	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.38.5-s22977-w0	Thucydides_Book1.tb.a.gz##235.0	Thucydides	Pred	v3siia---	v--anm---	a-s---nn-	αἰσχρός	19	18	P-Sb	subtree	#Reconstructed	0.0	gapping	5th
+a-tlg0003.tlg001-1.43.2-s23000-w0	Thucydides_Book1.tb.a.gz##258.0	Thucydides	Obj	v--pna---	p-s---ma-	n-s---ma-	καιρός	7	11	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.73.2-s23189-w0	Thucydides_Book1.tb.a.gz##447.0	Thucydides	Atr	v3spia---	n-p---fn-	n-p---mn-	μάρτυς	11	14	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.40.3-s22988-w0	Thucydides_Book1.tb.a.gz##246.0	Thucydides	Pred	v3sfim---	v--pne---	n-s---fn-	ἀνάγκη	10	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.122.1-s23500-w0	Thucydides_Book1.tb.a.gz##758.0	Thucydides	Pred	v3spia---	v-sapamn-	a-s---mnc	βέβαιος	7	8	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.26.5-27.1-s22898-w0	Thucydides_Book1.tb.a.gz##156.0	Thucydides	Pred	v3spia---	n-s---nn-	n-s---mn-	ἰσθμός	14	12	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.85.2-s23277-w0	Thucydides_Book1.tb.a.gz##535.0	Thucydides	Adv	v-pppamg-	p-p---mg-	a-p---mg-	ἑτοῖμος	25	23	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.80.3-s23238-w0	Thucydides_Book1.tb.a.gz##496.0	Thucydides	Pred	v3spia---	n-s---fn-	a-s---fn-	παρόμοιος	11	8	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.35.5-s22958-w0	Thucydides_Book1.tb.a.gz##216.0	Thucydides	Atr	v3spia---	p-s---nn-	n-s---fn-	πίστις	23	25	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.23.2-s22870-w0	Thucydides_Book1.tb.a.gz##128.0	Thucydides	Pred	v3ppia---	v3paia---	v-pppefn-	ἁλίσκομαι	26	27	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.46.2-s23014-w0	Thucydides_Book1.tb.a.gz##272.0	Thucydides	Pred	v3siia---	n-s---mn-	a-s---mn-	πέμπτος	13	16	Sb-P	subtree	#Reconstructed	0.0	gapping	5th
+a-tlg0003.tlg001-1.82.4-s23258-w0	Thucydides_Book1.tb.a.gz##516.0	Thucydides	Sb	v--pna---	n-s---fa-	p-s---na-	τις	7	4	P-Sb	subtree	#Reconstructed	0.0		5th
+a-tlg0003.tlg001-1.125.2-s23519-w0	Thucydides_Book1.tb.a.gz##777.0	Thucydides	Pred	v3siia---	v--pna---	a-p---nn-	ἀδύνατος	8	6	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.2.1-s22746-w0	Thucydides_Book1.tb.a.gz##4.0	Thucydides	Pred	---------	a-p---mn-	v-pppamn-	ἀπολιμπάνω	20	23	Sb-P	subtree	#Reconstructed	0.0		5th
+a-tlg0003.tlg001-1.10.4-s22801-w0	Thucydides_Book1.tb.a.gz##59.0	Thucydides	Pred	v3spia---	v--pna---	v-srpann-	ἔοικα	6	4	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.35.5-s22958-w0	Thucydides_Book1.tb.a.gz##216.0	Thucydides	Sb	v3piia---	p-p---mn-	a-p---mn-	πολέμιος	18	19	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.53.2-s23064-w0	Thucydides_Book1.tb.a.gz##322.0	Thucydides	Adv	v3spia---	n-s---fn-	v--pna---	κωλύω	4	6	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.41.3-s22995-w0	Thucydides_Book1.tb.a.gz##253.0	Thucydides	Obj	v--pna---	v-sppama-	a-s---ma-	φίλος	6	1	P-Sb	subtree	#Reconstructed	0.0	annotation error	5th
+a-tlg0003.tlg001-1.50.5-s23048-w0	Thucydides_Book1.tb.a.gz##306.0	Thucydides	Obj	v3ppsa---	n-p---fn-	a-p---fn-	ὀλίγος	46	47	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.81.5-s23250-w0	Thucydides_Book1.tb.a.gz##508.0	Thucydides	Pred	v3sfim---	v--pne---	a-s---nn-	καλός	6	8	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.77.3-s23219-w0	Thucydides_Book1.tb.a.gz##477.0	Thucydides	Obj	v3spia---	v--pna---	x--------	χρεών	14	9	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.120.1-s23478-w0	Thucydides_Book1.tb.a.gz##736.0	Thucydides	Adv	v3ppia---	p-p---mn-	v-prpemn-	ψηφίζω	16	17	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.14.1-s22825-w0	Thucydides_Book1.tb.a.gz##83.0	Thucydides	Pred	v3siia---	p-p---nn-	a-p---nns	δυνατός	3	1	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.32.5-s22938-w0	Thucydides_Book1.tb.a.gz##196.0	Thucydides	Pred	v3spia---	v--pne---	n-s---fn-	ἀνάγκη	42	35	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.50.3-s23045-w0	Thucydides_Book1.tb.a.gz##303.0	Thucydides	Pred	v3spia---	n-p---nn-	n-s---mn-	λιμήν	4	7	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.137.2-s23598-w0	Thucydides_Book1.tb.a.gz##856.0	Thucydides	Obj	v--pna---	v--ana---	n-s---fa-	ἀσφάλεια	6	3	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.29.1-s22916-w0	Thucydides_Book1.tb.a.gz##174.0	Thucydides	Adv	v3piia---	n-p---fn-	a-p---fa-	πλήρης	13	9	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.82.6-s23261-w0	Thucydides_Book1.tb.a.gz##519.0	Thucydides	Pred	v3spia---	v--ana---	a-s---nn-	οἷος	10	8	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.139.4-s23624-w0	Thucydides_Book1.tb.a.gz##882.0	Thucydides	Sb	v--pna---	n-s---na-	a-s---na-	ἐμπόδιος	22	19	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.87.2-s23292-w0	Thucydides_Book1.tb.a.gz##550.0	Thucydides	Obj	---------	a-s---fn-	a-s---fnc	μέγας	16	17	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.5.2-s22764-w0	Thucydides_Book1.tb.a.gz##22.0	Thucydides	Atr	v3spia---	v--pna---	n-s---mn-	κόσμος	15	12	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.124.2-s23514-w0	Thucydides_Book1.tb.a.gz##772.0	Thucydides	Pred	v3spia---	v--ana---	a-s---nn-	ἀκίνδυνος	13	16	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.14.3-s22830-w0	Thucydides_Book1.tb.a.gz##88.0	Thucydides	Adv	v-sppamg-	a-s---mg-	a-s---mg-	προσδόκιμος	14	15	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.35.5-s22959-w0	Thucydides_Book1.tb.a.gz##217.0	Thucydides	Pred	v3spia---	n-s---fn-	a-s---fn-	ὁμοῖος	12	10	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.88.1-s23297-w0	Thucydides_Book1.tb.a.gz##555.0	Thucydides	Obj	v-pppana-	a-p---na-	a-p---na-	ὑποχείριος	30	33	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.3.3-s22757-w0	Thucydides_Book1.tb.a.gz##15.0	Thucydides	Atr	v3piia---	p-p---mn-	n-p---mn-	Ἕλλην	24	27	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.10.2-s22795-w0	Thucydides_Book1.tb.a.gz##53.0	Thucydides	Obj	v--pna---	n-s---fa-	l-p---md-	ὁ	22	28	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.47.2-s23023-w0	Thucydides_Book1.tb.a.gz##281.0	Thucydides	Pred	v3piia---	n-p---mn-	v-prpamn-	βοηθέω	14	15	Sb-P	subtree	#Reconstructed	0.0	gapping	5th
+a-tlg0003.tlg001-1.123.1-s23509-w0	Thucydides_Book1.tb.a.gz##767.0	Thucydides	Pred	v3spia---	v--pne---	a-s---nn-	πάτριος	20	12	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.71.2-s23171-w0	Thucydides_Book1.tb.a.gz##429.0	Thucydides	Pred	v3spia---	n-p---nn-	a-p---nn-	ἀρχαιότροπος	12	9	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.35.4-s22957-w0	Thucydides_Book1.tb.a.gz##215.0	Thucydides	Pred	v3spia---	v--ana---	a-s---nn-	δίκαιος	34	3	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.100.2-s23369-w0	Thucydides_Book1.tb.a.gz##627.0	Thucydides	Atr	v3siia---	n-s---nn-	a-s---nn-	πολέμιος	74	71	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.121.2-s23488-w0	Thucydides_Book1.tb.a.gz##746.0	Thucydides	Pred	v3spia---	v--ana---	v-srpann-	εἰκός	6	5	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.43.2-s23000-w0	Thucydides_Book1.tb.a.gz##258.0	Thucydides	Atr	v3spia---	v-sppamn-	a-s---mn-	φίλος	16	17	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.69.6-s23154-w0	Thucydides_Book1.tb.a.gz##412.0	Thucydides	Pred	v3spia---	n-s---fn-	a-p---mg-	ἐχθρός	9	11	Sb-P	subtree	#Reconstructed	0.0	gapping	5th
+a-tlg0003.tlg001-1.143.5-s23667-w0	Thucydides_Book1.tb.a.gz##925.0	Thucydides	Pred	v3piia---	p-p---mn-	a-p---mnc	ἄληπτος	6	8	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.84.3-s23271-w0	Thucydides_Book1.tb.a.gz##529.0	Thucydides	Obj	v--pna---	n-p---fa-	a-p---fa-	διαιρετός	69	72	Sb-P	subtree	#Reconstructed	0.0	gapping	5th
+a-tlg0003.tlg001-1.34.1-s22946-w0	Thucydides_Book1.tb.a.gz##204.0	Thucydides	Obj	---------	v--pne---	a-s---nn-	δίκαιος	11	6	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.33.2-s22942-w0	Thucydides_Book1.tb.a.gz##200.0	Thucydides	Pred	v3spia---	n-s---fn-	a-s---fnc	σπάνιος	2	3	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.96.1-s23349-w0	Thucydides_Book1.tb.a.gz##607.0	Thucydides	Pred	v3siia---	v--pne---	n-s---nn-	πρόσχημα	4	1	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.140.1-s23626-w0	Thucydides_Book1.tb.a.gz##884.0	Thucydides	Obj	v-pppana-	a-p---na-	p1s---md-	ἐγώ	8	9	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.126.1-s23521-w0	Thucydides_Book1.tb.a.gz##779.0	Thucydides	Adv	v3spoa---	n-s---fn-	p-p---md-	σφεῖς	17	14	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.141.5-s23643-w0	Thucydides_Book1.tb.a.gz##901.0	Thucydides	Adv	v3spia---	p-s---nn-	v-srpann-	ἔοικα	38	39	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.10.1-s22794-w0	Thucydides_Book1.tb.a.gz##52.0	Thucydides	Adv	v3siia---	n-p---fn-	a-s---nn-	μικρός	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.24.1-s22877-w0	Thucydides_Book1.tb.a.gz##135.0	Thucydides	Pred	v3spia---	n-s---mn-	n-s---fn-	πόλις	1	3	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.59.2-s23093-w0	Thucydides_Book1.tb.a.gz##351.0	Thucydides	Obj	v--pna---	v--pna---	a-p---na-	ἀδύνατος	10	5	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.64.1-s23118-w0	Thucydides_Book1.tb.a.gz##376.0	Thucydides	Pred	v3siia---	l-s---nn-	a-s---nn-	ἀτείχιστος	1	6	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.84.4-s23274-w0	Thucydides_Book1.tb.a.gz##532.0	Thucydides	Obj	v--pna---	v3spie---	a-s---ma-	κράτιστος	17	10	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.22.1-s22861-w0	Thucydides_Book1.tb.a.gz##119.0	Thucydides	Pred	v3siia---	v--ana---	a-s---nn-	χαλεπός	22	16	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.49.4-s23034-w0	Thucydides_Book1.tb.a.gz##292.0	Thucydides	Pred	v3siia---	n-s---mn-	a-s---mn-	πολύς	5	4	P-Sb	subtree	#Reconstructed	0.0	gapping	5th
+a-tlg0003.tlg001-1.38.5-s22977-w0	Thucydides_Book1.tb.a.gz##235.0	Thucydides	Pred	v3siia---	v--ana---	a-s---nn-	καλός	11	1	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.23.6-s22875-w0	Thucydides_Book1.tb.a.gz##133.0	Thucydides	Obj	v--pna---	v--ana---	n-s---fa-	πρόφασις	21	5	P-Sb	subtree	#Reconstructed	0.0	annotation error	5th
+a-tlg0003.tlg001-1.96.2-s23353-w0	Thucydides_Book1.tb.a.gz##611.0	Thucydides	Pred	v3siia---	n-s---fn-	n-s---nn-	ταμιεῖον	3	1	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.105.3-s23395-w0	Thucydides_Book1.tb.a.gz##653.0	Thucydides	Obj	v--fnm---	n-p---ma-	a-p---ma-	ἀδύνατος	38	36	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.42.1-s22996-w0	Thucydides_Book1.tb.a.gz##254.0	Thucydides	Obj	v--pna---	p-p---na-	a-p---na-	σύμφορος	30	24	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.49.4-s23034-w0	Thucydides_Book1.tb.a.gz##292.0	Thucydides	Pred	v3siia---	n-s---fn-	a-p---fn-	ταραχώδης	10	7	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.91.7-s23317-w0	Thucydides_Book1.tb.a.gz##575.0	Thucydides	Obj	v--pna---	v--pne---	a-s---na-	οἷος	17	3	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.99.2-s23364-w0	Thucydides_Book1.tb.a.gz##622.0	Thucydides	Pred	v3siia---	v--pne---	a-s---nn-	ῥᾴδιος	23	21	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.80.3-s23238-w0	Thucydides_Book1.tb.a.gz##496.0	Thucydides	Pred	v3spia---	v--ana---	a-s---nn-	οἷος	20	16	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.84.3-s23271-w0	Thucydides_Book1.tb.a.gz##529.0	Thucydides	Obj	v--pna---	n-p---fa-	a-p---ma-	παραπλήσιος	61	64	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.93.5-s23326-w0	Thucydides_Book1.tb.a.gz##584.0	Thucydides	Atr	v3spia---	p-s---nn-	a-s---nn-	δῆλος	10	13	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.141.3-s23640-w0	Thucydides_Book1.tb.a.gz##898.0	Thucydides	Pred	v3spia---	n-p---nn-	p-p---md-	αὐτός	13	15	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.140.2-s23629-w0	Thucydides_Book1.tb.a.gz##887.0	Thucydides	Pred	v3piia---	n-p---mn-	a-p---mn-	δῆλος	1	5	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.95.1-s23337-w0	Thucydides_Book1.tb.a.gz##595.0	Thucydides	Adv	v-sppamg-	p-s---mg-	a-s---mg-	βίαιος	5	3	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.49.2-s23031-w0	Thucydides_Book1.tb.a.gz##289.0	Thucydides	Pred	v3siia---	n-s---fn-	a-s---fn-	καρτερός	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.73.1-s23188-w0	Thucydides_Book1.tb.a.gz##446.0	Thucydides	Obj	v3spia---	n-s---fn-	a-s---fnp	ἄξιος	68	70	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.77.5-s23223-w0	Thucydides_Book1.tb.a.gz##481.0	Thucydides	Pred	v3spia---	v-sppann-	a-s---nn-	βαρύς	2	5	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.136.4-s23593-w0	Thucydides_Book1.tb.a.gz##851.0	Thucydides	Obj	v--pna---	v--pne---	a-s---na-	γενναῖος	22	14	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.43.2-s23000-w0	Thucydides_Book1.tb.a.gz##258.0	Thucydides	Atr	v3spia---	v-sppamn-	a-s---mn-	ἐχθρός	21	22	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.124.1-s23512-w0	Thucydides_Book1.tb.a.gz##770.0	Thucydides	Adv	v3spia---	v--pna---	a-s---nns	βέβαιος	23	14	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.6.2-s22769-w0	Thucydides_Book1.tb.a.gz##27.0	Thucydides	Pred	v3spia---	p-p---nn-	n-s---nn-	σημεῖον	4	1	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.2.6-s22751-w0	Thucydides_Book1.tb.a.gz##9.0	Thucydides	Pred	v3spia---	n-s---nn-	v--anp---	αὐξάνω	2	17	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.120.3-s23483-w0	Thucydides_Book1.tb.a.gz##741.0	Thucydides	Pred	v3spia---	v--pna---	n-p---mg-	ἀνήρ	11	1	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.52.1-s23057-w0	Thucydides_Book1.tb.a.gz##315.0	Thucydides	Sb	v3piia---	a-p---fn-	a-p---fn-	πλώιμος	13	14	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.8.1-s22780-w0	Thucydides_Book1.tb.a.gz##38.0	Thucydides	Pred	v3piia---	n-p---mn-	n-p---mn-	λῃστής	7	4	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.73.5-s23195-w0	Thucydides_Book1.tb.a.gz##453.0	Thucydides	Adv	v-sppafg-	n-s---fg-	a-s---fg-	ὅμοιος	11	8	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.75.5-s23208-w0	Thucydides_Book1.tb.a.gz##466.0	Thucydides	Pred	v3spia---	v--pne---	a-s---nn-	ἀνεπίφθονος	11	3	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.36.1-s22960-w0	Thucydides_Book1.tb.a.gz##218.0	Thucydides	Obj	v-sfpmnn-	v-sppann-	a-s---nnc	ἀδεής	33	42	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.82.6-s23262-w0	Thucydides_Book1.tb.a.gz##520.0	Thucydides	Pred	v3spia---	v--ane---	a-s---nn-	ῥᾴδιος	20	18	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.110.2-s23428-w0	Thucydides_Book1.tb.a.gz##686.0	Thucydides	Pred	v3ppia---	a-p---mn-	a-p---mns	μάχιμος	19	14	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.125.2-s23519-w0	Thucydides_Book1.tb.a.gz##777.0	Thucydides	Obj	v3siia---	p-p---nn-	a-p---nn-	πρόσφορος	16	17	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.126.5-s23526-w0	Thucydides_Book1.tb.a.gz##784.0	Thucydides	Obj	v--pna---	n-s---fa-	a-s---fas	μέγας	29	33	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.10.3-s22796-w0	Thucydides_Book1.tb.a.gz##54.0	Thucydides	Atr	---------	v--ana---	v-srpann-	εἰκός	53	46	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.78.4-s23230-w0	Thucydides_Book1.tb.a.gz##488.0	Thucydides	Adv	v3spia---	n-s---fn-	a-s---fn-	αὐθαίρετος	22	19	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.113.4-s23448-w0	Thucydides_Book1.tb.a.gz##706.0	Thucydides	Pred	v3paim---	v-pppamn-	v-papamn-	κατέρχομαι	3	5	Sb-P	subtree	#Reconstructed	0.0	gapping	5th
+a-tlg0003.tlg001-1.137.1-s23595-w0	Thucydides_Book1.tb.a.gz##853.0	Thucydides	Adv	v3siia---	a-s---nn_	n-s---nn-	ἱκέτευμα	22	21	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.23.6-s22876-w0	Thucydides_Book1.tb.a.gz##134.0	Thucydides	Pred	v3piia---	n-p---fn-	p-p---fn-	ὅδε	7	8	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.41.3-s22995-w0	Thucydides_Book1.tb.a.gz##253.0	Thucydides	Obj	v--pna---	v-sppama-	a-s---ma-	πολέμιος	17	14	P-Sb	subtree	#Reconstructed	0.0	annotation error	5th
+a-tlg0003.tlg001-1.121-1.146-s23495-w0	Thucydides_Book1.tb.a.gz##753.0	Thucydides	Pred	v3spia---	v3ppia---	a-s---nn-	καθαιρετός	5	7	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.14.3-s22829-w0	Thucydides_Book1.tb.a.gz##87.0	Thucydides	Obj	v--pna---	a-p---na-	n-p---ma-	πεντηκόντορος	17	18	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.33.2-s22942-w0	Thucydides_Book1.tb.a.gz##200.0	Thucydides	Pred	v3spia---	p-s---fn-	a-s---fnc	λυπηρός	5	8	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.13.1-s22813-w0	Thucydides_Book1.tb.a.gz##71.0	Thucydides	Pred	v3piia---	n-p---fn-	a-p---fn-	πατρικός	36	35	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.9.4-s22793-w0	Thucydides_Book1.tb.a.gz##51.0	Thucydides	Obj	v3siia---	a-p---nn-	l-p---nn-	ὁ	8	10	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.141.3-s23640-w0	Thucydides_Book1.tb.a.gz##898.0	Thucydides	Pred	v3ppia---	n-p---mn-	a-p---mn-	αὐτουργός	5	1	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.97.2-s23355-w0	Thucydides_Book1.tb.a.gz##613.0	Thucydides	Adv	v3siia---	n-s---nn-	a-s---nn-	ἐκλιπής	22	18	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.42.4-s22998-w0	Thucydides_Book1.tb.a.gz##256.0	Thucydides	Pred	v3spia---	v--pna---	n-s---fn-	δύναμις	4	8	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.142.1-s23649-w0	Thucydides_Book1.tb.a.gz##907.0	Thucydides	Pred	v3ppia---	n-p---mn-	a-p---mn-	μενετός	5	7	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.76.3-s23212-w0	Thucydides_Book1.tb.a.gz##470.0	Thucydides	Pred	v3ppia---	v3pasm---	a-p---mn-	ἄξιος	18	3	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.64.2-s23120-w0	Thucydides_Book1.tb.a.gz##378.0	Thucydides	Obj	v-sppafa-	n-s---fa-	a-s---fa-	ἀτείχιστος	9	10	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.143.5-s23665-w0	Thucydides_Book1.tb.a.gz##923.0	Thucydides	Pred	v3spia---	n-s---nn-	a-s---nn-	μέγας	6	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.144.3-s23677-w0	Thucydides_Book1.tb.a.gz##935.0	Thucydides	Obj	v3sfim---	v--pna---	n-s---fn-	ἀνάγκη	6	5	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.114.1-s23449-w0	Thucydides_Book1.tb.a.gz##707.0	Thucydides	Sb	v3ppia---	n-p---mn-	v-prpemn-	διαφθείρω	34	36	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.32.5-s22938-w0	Thucydides_Book1.tb.a.gz##196.0	Thucydides	Obj	v-pppamn-	p1p---mn-	a-p---mn-	ἀδύνατος	15	16	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.73.2-s23190-w0	Thucydides_Book1.tb.a.gz##448.0	Thucydides	Pred	v3spia---	v--pna---	n-s---fn-	ἀνάγκη	19	18	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.83.2-s23264-w0	Thucydides_Book1.tb.a.gz##522.0	Thucydides	Pred	v3ppia---	n-p---mn-	a-p---mnc	ἐλάσσων	9	6	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.81.2-s23246-w0	Thucydides_Book1.tb.a.gz##504.0	Thucydides	Pred	v3spia---	n-s---fn-	a-s---fn-	πολύς	4	6	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.121.3-s23490-w0	Thucydides_Book1.tb.a.gz##748.0	Thucydides	Pred	v3spia---	n-s---fn-	a-s---fn-	ὠνητός	5	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.20.3-s22858-w0	Thucydides_Book1.tb.a.gz##116.0	Thucydides	Pred	v3spia---	n-s---fn-	a-s---fn-	ἀταλαίπωρος	6	2	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.11.1-s22803-w0	Thucydides_Book1.tb.a.gz##61.0	Thucydides	Pred	v3siia---	n-s---fn-	a-s---nn-	αἴτιος	6	1	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.37.1-s22967-w0	Thucydides_Book1.tb.a.gz##225.0	Thucydides	Pred	v3spia---	v--pna---	a-s---nn-	ἀναγκαῖος	38	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.86.3-s23288-w0	Thucydides_Book1.tb.a.gz##546.0	Thucydides	Pred	v3spia---	n-p---mn-	p1p---md-	ἐγώ	14	12	P-Sb	subtree	#Reconstructed	0.0	gapping	5th
+a-tlg0003.tlg001-1.113.2-s23446-w0	Thucydides_Book1.tb.a.gz##704.0	Thucydides	Sb	v3piia---	a-p---mn-	n-s---fg-	γνώμη	22	25	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.2.1-s22746-w0	Thucydides_Book1.tb.a.gz##4.0	Thucydides	Pred	---------	n-p---fn-	v-pppafn-	εἰμί	13	15	Sb-P	subtree	#Reconstructed	0.0		5th
+a-tlg0003.tlg001-1.71.3-s23172-w0	Thucydides_Book1.tb.a.gz##430.0	Thucydides	Pred	v3spia---	v--pna---	n-s---fn-	ἀνάγκη	8	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.93.2-s23322-w0	Thucydides_Book1.tb.a.gz##580.0	Thucydides	Pred	v3spia---	n-s---fn-	a-s---fn-	δῆλος	4	2	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.124.1-s23512-w0	Thucydides_Book1.tb.a.gz##770.0	Thucydides	Sb	v--pna---	p-p---nn-	v-pppann-	συμφέρω	17	18	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.55.1-s23076-w0	Thucydides_Book1.tb.a.gz##334.0	Thucydides	Atr	v3piia---	p-p---mn-	n-p---mn-	δοῦλος	43	45	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.82.1-s23254-w0	Thucydides_Book1.tb.a.gz##512.0	Thucydides	Pred	v3spia---	v--anp---	a-s---nn-	ἀνεπίφθονος	83	64	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.93.7-s23331-w0	Thucydides_Book1.tb.a.gz##589.0	Thucydides	Obj	v-sppafa-	n-s---fa-	a-s---fac	εὔπορος	19	20	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.141.5-s23643-w0	Thucydides_Book1.tb.a.gz##901.0	Thucydides	Pred	v3ppia---	a-p---mn-	a-p---mnc	ἑτοῖμος	5	3	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.23.1-s22869-w0	Thucydides_Book1.tb.a.gz##127.0	Thucydides	Pnom	---------	a-p---nn-	a-p---nn-	οἷος	20	18	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.47.3-s23024-w0	Thucydides_Book1.tb.a.gz##282.0	Thucydides	Pred	v3piia---	a-p---mn-	v-prpamn-	παραβοηθέω	9	12	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.118.3-s23475-w0	Thucydides_Book1.tb.a.gz##733.0	Thucydides	Obj	v--fnm---	n-s---fa-	v-pppamd-	πολεμέω	12	11	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.123.1-s23509-w0	Thucydides_Book1.tb.a.gz##767.0	Thucydides	Pred	v3spia---	v--anm---	a-s---nn-	δίκαιος	48	41	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.134.1-s23578-w0	Thucydides_Book1.tb.a.gz##836.0	Thucydides	Atr	v3siia---	p-s---nn-	n-s---ng-	ἱερόν	6	9	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.143.1-s23660-w0	Thucydides_Book1.tb.a.gz##918.0	Thucydides	Atr	v3spia---	p-s---nn-	a-s---nn-	κράτιστος	9	10	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.2.3-s22748-w0	Thucydides_Book1.tb.a.gz##6.0	Thucydides	Atr	v3siia---	a-p---nn-	a-p---nn-	κράτιστος	31	33	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.22.2-s22863-w0	Thucydides_Book1.tb.a.gz##121.0	Thucydides	Adv	v3siia---	a-s---nn-	a-s---nn-	ὅσος	32	31	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.30.3-s22924-w0	Thucydides_Book1.tb.a.gz##182.0	Thucydides	Atr	v3piia---	a-p---fn-	a-p---fn-	φίλιος	55	57	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.143.5-s23668-w0	Thucydides_Book1.tb.a.gz##926.0	Thucydides	Adv	v-pppamg-	p1p---mg-	a-p---mg-	ἱκανός	58	57	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.20.3-s22857-w0	Thucydides_Book1.tb.a.gz##115.0	Thucydides	Adv	v--pna---	n-s---ma-	p-p---md-	αὐτός	38	39	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.50.4-s23047-w0	Thucydides_Book1.tb.a.gz##305.0	Thucydides	Sb	v3piia---	a-p---fn-	a-p---fn-	λοιπός	6	8	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.96.2-s23352-w0	Thucydides_Book1.tb.a.gz##610.0	Thucydides	Pred	v3siia---	n-s---mn-	n-p---nn-	τάλαντον	5	8	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.126.2-s23523-w0	Thucydides_Book1.tb.a.gz##781.0	Thucydides	Pred	v3siia---	p-s---nn-	n-s---nn-	ἄγος	5	3	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.93.3-s23325-w0	Thucydides_Book1.tb.a.gz##583.0	Thucydides	Obj	v--pna---	n-s---na-	a-s---na-	καλός	29	30	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.57.2-s23083-w0	Thucydides_Book1.tb.a.gz##341.0	Thucydides	Pred	v3piia---	n-p---mn-	a-p---mn-	διάφορος	4	7	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.42.1-s22996-w0	Thucydides_Book1.tb.a.gz##254.0	Thucydides	Obj	v--pna---	p-p---na-	a-p---na-	δίκαιος	21	19	P-Sb	subtree	#Reconstructed	0.0	annotation error	5th
+a-tlg0003.tlg001-1.47.3-s23025-w0	Thucydides_Book1.tb.a.gz##283.0	Thucydides	Pred	v3ppia---	n-p---mn-	a-p---mn-	φίλος	4	8	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.2.2-s22747-w0	Thucydides_Book1.tb.a.gz##5.0	Thucydides	Adv	v-sppana-	v3sasm---	a-s---na-	ἄδηλος	47	37	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.35.5-s22959-w0	Thucydides_Book1.tb.a.gz##217.0	Thucydides	Atr	v3spia---	p-s---mn-	a-s---mns	ἐχυρός	31	32	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.69.1-s23143-w0	Thucydides_Book1.tb.a.gz##401.0	Thucydides	Pred	v2ppia---	p-p---mn-	a-p---mn-	αἴτιος	3	4	Sb-P	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.28.1-s22906-w0	Thucydides_Book1.tb.a.gz##164.0	Thucydides	Adv	v3siia---	l-s---nn-	v-sppann-	μέτειμι1	39	34	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.85.2-s23278-w0	Thucydides_Book1.tb.a.gz##536.0	Thucydides	Pred	v3spia---	v--pna---	a-s---nn-	νόμιμος	11	7	P-Sb	subtree	#Reconstructed			5th
+a-tlg0003.tlg001-1.103.2-s23384-w0	Thucydides_Book1.tb.a.gz##642.0	Thucydides	Pred	v3siia---	v--pna---	n-s---nn-	χρηστήριον	18	5	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.124.1-s23512-w0	Thucydides_Book1.tb.a.gz##770.0	Thucydides	Atr	v3siia---	a-s---nnp	a-s---nn-	πρότερος	42	39	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.10.4-s22799-w0	Thucydides_Book1.tb.a.gz##57.0	Thucydides	Obj	v3piia---	n-p---mn-	a-p---mn-	μάχιμος	1	6	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.2.6-s22752-w0	Thucydides_Book1.tb.a.gz##10.0	Thucydides	Adv	v-sppafg-	n-s---fg-	a-s---fg-	ἱκανός	44	41	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.9.4-s22792-w0	Thucydides_Book1.tb.a.gz##50.0	Thucydides	Pred	v3ppoa---	p-p---fn-	a-p---fn-	πολύς	9	13	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.134.1-s23577-w0	Thucydides_Book1.tb.a.gz##835.0	Thucydides	Pred	v3siia---	n-s---nn-	d--------	ἐγγύς	5	3	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.134.4-s23583-w0	Thucydides_Book1.tb.a.gz##841.0	Thucydides	Adv	v-sppana-	v-srpena-	n-s---na-	ἄγος	36	32	P-Sb	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.41.2-s22994-w0	Thucydides_Book1.tb.a.gz##252.0	Thucydides	Atr	v3ppia---	n-p---mn-	a-p---mn-	ἀπερίοπτος	36	44	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.15.1-s22832-w0	Thucydides_Book1.tb.a.gz##90.0	Thucydides	Pred	v3siia---	a-p---nn-	p-p---nn-	τοιοῦτος	4	7	Sb-P	subtree	εἰμί			5th
+a-tlg0003.tlg001-1.82.4-s23258-w0	Thucydides_Book1.tb.a.gz##516.0	Thucydides	Adv	v3spia---	v--pna---	a-s---nnc	ἥσσων	11	14	Sb-P	subtree	#Reconstructed	0.0		5th
+a-tlg0003.tlg001-1.126.6-s23527-w0	Thucydides_Book1.tb.a.gz##785.0	Thucydides	Pred	v3spia---	n-s---fn-	a-s---fns	μέγας	33	35	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.52-s5797-w0	Herodotus_Book1.tb.a.gz##341.0	Herodotus	Pred	v3siia---	a-p---nn-	v-prpenn-	κεῖμαι	4	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.5-s6181-w0	Herodotus_Book1.tb.a.gz##725.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	φοινίκεος	34	19	P-Sb	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.117.4-s6303-w0	Herodotus_Book1.tb.a.gz##847.0	Herodotus	Obj	v--pna---	v-sppama-	p-s---ma-	σύ	14	10	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.209-s6964-w0	Herodotus_Book1.tb.a.gz##1508.0	Herodotus	Pred	v3spia---	n-s---fn-	v--pna---	ἐπιβουλεύω	3	12	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.67-s5901-w0	Herodotus_Book1.tb.a.gz##445.0	Herodotus	Atr	v2sfim---	p2s----n-	n-s---mn-	ἐπιτάρροθος	8	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.198-s6869-w0	Herodotus_Book1.tb.a.gz##1413.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	παραπλήσιος	7	9	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.181-s6733-w0	Herodotus_Book1.tb.a.gz##1277.0	Herodotus	Pred	v3spia---	n-s---nn-	n-s---mn-	θώραξ	5	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.93.5-s6139-w0	Herodotus_Book1.tb.a.gz##683.0	Herodotus	Pred	v3spia---	n-s---nn-	n-p---nn-	πλέθρον	16	18	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.33-s5684-w0	Herodotus_Book1.tb.a.gz##228.0	Herodotus	Obj	v--pna---	v3siia---	a-s---ma-	ἀμαθής	32	19	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.134.2-s6445-w0	Herodotus_Book1.tb.a.gz##989.0	Herodotus	Obj	v--pna---	v-pppama-	a-p---ma-	κακός	32	35	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.62-s5857-w0	Herodotus_Book1.tb.a.gz##401.0	Herodotus	Atr	v1siia---	n-s---fn-	a-s---nnc	ἀσπαστός	24	28	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.205-s6921-w0	Herodotus_Book1.tb.a.gz##1465.0	Herodotus	Pred	v3siia---	n-s---fn-	n-s---nn-	ὄνομα	1	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.124.3-s6373-w0	Herodotus_Book1.tb.a.gz##917.0	Herodotus	Adv	v-sppang-	l-s---ng-	a-s---ng-	ἑτοῖμος	4	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.157-s6573-w0	Herodotus_Book1.tb.a.gz##1117.0	Herodotus	Pred	v3siia---	n-s---nn-	d--------	αὐτόθι	4	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.199-s6891-w0	Herodotus_Book1.tb.a.gz##1435.0	Herodotus	Sb	v3ppia---	a-p---fn-	a-p---mn-	ἄμορφος	14	16	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.31-s5655-w0	Herodotus_Book1.tb.a.gz##199.0	Herodotus	Obj	v3spoa---	v--rna---	a-s---nnc-----	ἀμείνων	26	23	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.187-s6780-w0	Herodotus_Book1.tb.a.gz##1324.0	Herodotus	Pred	v3siia---	n-s---mn-	a-s---mn-	ἀκίνητος	3	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.94.5-s6150-w0	Herodotus_Book1.tb.a.gz##694.0	Herodotus	Atr	v--pna---	n-s---ma-	n-s---nn-	ὄνομα	60	58	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.22-s5593-w0	Herodotus_Book1.tb.a.gz##137.0	Herodotus	Obj	v--pna---	n-s---fa-	a-s---fa-	ἰσχυρός	5	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.76-s5977-w0	Herodotus_Book1.tb.a.gz##521.0	Herodotus	Pred	v3spia---	n-s---fn-	a-s---nns-----	ἰσχυρός	18	24	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.183-s6746-w0	Herodotus_Book1.tb.a.gz##1290.0	Herodotus	Pred	v3spia---	n-s---nn-	v-srpmnn-	κάθημαι	13	18	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.57-s5817-w0	Herodotus_Book1.tb.a.gz##361.0	Herodotus	Pred	v3piia---	n-p---mn-	v-pppamn-	ἵημι	9	12	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.105.3-s6211-w0	Herodotus_Book1.tb.a.gz##755.0	Herodotus	Pred	v3ppia---	n-p---mn-	v-papmmn-	ἱδρύω	19	22	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.185-s6757-w0	Herodotus_Book1.tb.a.gz##1301.0	Herodotus	Obj	v--pna---	n-s---nn-	d--------	εἰς	53	48	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.152-s6542-w0	Herodotus_Book1.tb.a.gz##1086.0	Herodotus	Atr	v3siia---	n-p---ma-	n-s---nn-	ὄνομα	17	15	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.106.1-s6214-w0	Herodotus_Book1.tb.a.gz##758.0	Herodotus	Pred	v3siia---	a-p---nn-	a-p---nn-	ἀνάστατος	16	23	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.171-s6655-w0	Herodotus_Book1.tb.a.gz##1199.0	Herodotus	Atr	v1spia---	p1s---mn-	a-s---mn-	δυνατός	21	22	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.117.3-s6301-w0	Herodotus_Book1.tb.a.gz##845.0	Herodotus	Obj	v1spoa---	p1s---mn-	n-s---mn-	αὐθέντης	19	32	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.196-s6850-w0	Herodotus_Book1.tb.a.gz##1394.0	Herodotus	Pred	v3spia---	a-s---mns	p-s---mn-	ὅδε	9	10	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.6-s5499-w0	Herodotus_Book1.tb.a.gz##43.0	Herodotus	Pred	v3piia---	n-p---mn-	a-p---mn-	ἐλεύθερος	7	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.11-s5530-w0	Herodotus_Book1.tb.a.gz##74.0	Herodotus	Obj	v-pppama-	l-p---ma-	a-p---ma-	πιστός2	9	12	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.90.4-s6104-w0	Herodotus_Book1.tb.a.gz##648.0	Herodotus	Obj	---------	n-s---mn-	v--pna---	εἰμί	8	9	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.186-s6768-w0	Herodotus_Book1.tb.a.gz##1312.0	Herodotus	Adv	v-sppafg-	n-s---fg-	n-p---ng-	φάρσος	2	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.31-s5650-w0	Herodotus_Book1.tb.a.gz##194.0	Herodotus	Pred	---------	n-s---fn-	p-s---fn-	τοιόσδε	14	16	Sb-P	subtree	#Reconstructed	0	annotation error	5th
+a-tlg0016.tlg001-1.174-s6686-w0	Herodotus_Book1.tb.a.gz##1230.0	Herodotus	Pred	v3spia---	n-s---mn-	d--------	ταύτῃ	13	11	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.42-s5743-w0	Herodotus_Book1.tb.a.gz##287.0	Herodotus	Pred	v3spia---	v--pna---	v-srpann-	εἰκός	12	6	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.37-s5721-w0	Herodotus_Book1.tb.a.gz##265.0	Herodotus	Obj	v3spia---	p-p---nn-	a-p---nnc-----	ἀμείνων	18	16	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.78-s5994-w0	Herodotus_Book1.tb.a.gz##538.0	Herodotus	Obj	v--pna---	n-s---ma-	a-s---ma-	προσδόκιμος	6	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.8-s5514-w0	Herodotus_Book1.tb.a.gz##58.0	Herodotus	Obj	v--pna---	p-s---fa-	a-s---fa-	καλός	4	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.48-s5773-w0	Herodotus_Book1.tb.a.gz##317.0	Herodotus	Obj	v--pna---	n-s---na-	a-s---na-	μόνος	18	16	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.152-s6538-w0	Herodotus_Book1.tb.a.gz##1082.0	Herodotus	Pred	v3siia---	p-p---nn-	v-pppenn-	πράσσω	19	20	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.38-s5723-w0	Herodotus_Book1.tb.a.gz##267.0	Herodotus	Obj	v--fnm--------	p2s----a-	a-s---ma-	ὀλιγοχρόνιος	25	26	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.90.2-s6098-w0	Herodotus_Book1.tb.a.gz##642.0	Herodotus	Obj	v3spia---	v--pna---	n-s---mn-	νόμος	29	33	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.183-s6746-w0	Herodotus_Book1.tb.a.gz##1290.0	Herodotus	Pred	v3spia---	n-s---mn-	d--------	κάτω	10	9	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.67-s5902-w0	Herodotus_Book1.tb.a.gz##446.0	Herodotus	Pred	v3ppia---	a-p---mn-	a-p---mn-	πρέσβυς	30	41	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.157-s6569-w0	Herodotus_Book1.tb.a.gz##1113.0	Herodotus	Obj	v--pna---	n-s---ma-	d--------	ἀγχοῦ	20	18	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.78-s5994-w0	Herodotus_Book1.tb.a.gz##538.0	Herodotus	Obj	v--pna---	n-s---ma-	n-s---ma-	παῖς	23	26	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.50-s5782-w0	Herodotus_Book1.tb.a.gz##326.0	Herodotus	Pred	v3spia---	n-p---nn-	n-s---mg-	χρυσός	11	10	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.4-s5482-w0	Herodotus_Book1.tb.a.gz##26.0	Herodotus	Obj	v--pna---	v--anm---	a-p---mg-	ἀνόητος	16	18	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.122.3-s6352-w0	Herodotus_Book1.tb.a.gz##896.0	Herodotus	Pred	v3siia---	n-s---fn-	a-p---nn-	πᾶς	26	24	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.207-s6935-w0	Herodotus_Book1.tb.a.gz##1479.0	Herodotus	Obj	v-sppana-	p-s---na-	n-s---na-	σφάλμα	16	19	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.146.1-s6511-w0	Herodotus_Book1.tb.a.gz##1055.0	Herodotus	Atr	v3spia---	p-s---nn-	p-p---md-	ὅς	17	11	P-Sb	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.174-s6684-w0	Herodotus_Book1.tb.a.gz##1228.0	Herodotus	Adv	v-sppafg-	n-s---fg-	a-s---mg-	περίρροος	27	30	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.201-s6899-w0	Herodotus_Book1.tb.a.gz##1443.0	Herodotus	Obj	v--pna---	n-s---na-	a-s---na-	Σκυθικός	9	5	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.80.4-s6007-w0	Herodotus_Book1.tb.a.gz##551.0	Herodotus	Adv	v3spsa---	a-s---nn-	a-s---nn-	ἄχρηστος	14	11	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.87.2-s6071-w0	Herodotus_Book1.tb.a.gz##615.0	Herodotus	Obj	v3spoa---	n-s---mn-	n-s---mn-	ἀνήρ	9	13	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.36-s5713-w0	Herodotus_Book1.tb.a.gz##257.0	Herodotus	Obj	v--pna---	v-pppamd-	a-p---mds	πρόθυμος	13	16	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.87.4-s6076-w0	Herodotus_Book1.tb.a.gz##620.0	Herodotus	Pred	v3siia---	v--anm---	a-s---nn-	φίλος	8	5	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.1-s5464-w0	Herodotus_Book1.tb.a.gz##8.0	Herodotus	Atr	v3siia---	n-s---mn-	p-p---md-	σφεῖς	13	11	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.180-s6725-w0	Herodotus_Book1.tb.a.gz##1269.0	Herodotus	Atr	v3spia---	n-s---nn-	n-s---mn-	Εὐφρήτης	9	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.82,3-s6018-w0	Herodotus_Book1.tb.a.gz##562.0	Herodotus	Obj	v--pna---	n-s---ma-	p-p---mg-	οὗτος	26	23	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.171-s6663-w0	Herodotus_Book1.tb.a.gz##1207.0	Herodotus	Obj	v--pna---	p-p---ma-	n-p---ma-	ἠπειρώτης	13	16	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.163-s6609-w0	Herodotus_Book1.tb.a.gz##1153.0	Herodotus	Atr	v3siia---	n-s---mn-	n-s---nn-	ὄνομα	18	14	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.120.4-s6335-w0	Herodotus_Book1.tb.a.gz##879.0	Herodotus	Adv	v--pna---	n-s---ma-	p-s---na-	οὐδείς	21	26	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.68-s5917-w0	Herodotus_Book1.tb.a.gz##461.0	Herodotus	Pred	v3siia---	a-s---fn-	v-srpefn-	καταστρέφω	6	10	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.199-s6893-w0	Herodotus_Book1.tb.a.gz##1437.0	Herodotus	Pred	v3spia---	n-s---mn-	d--------	ἐνιαχῇ	9	1	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.32-s5681-w0	Herodotus_Book1.tb.a.gz##225.0	Herodotus	Pred	v3spia---	p-s---mn-	a-s---mn-	δίκαιος	15	23	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.193-s6818-w0	Herodotus_Book1.tb.a.gz##1362.0	Herodotus	Pred	v3spia---	v-sppann-	p-s---nn-	οὗτος	12	18	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.125.2-s6379-w0	Herodotus_Book1.tb.a.gz##923.0	Herodotus	Pred	v3spia---	n-p---nn-	a-p---nn-	συχνός	5	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.207-s6937-w0	Herodotus_Book1.tb.a.gz##1481.0	Herodotus	Pred	v3spoa---	v--pne---	n-s---nn-	πρᾶγμα	18	14	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.160-s6600-w0	Herodotus_Book1.tb.a.gz##1144.0	Herodotus	Pred	v3siia---	n-s---mn-	v-sppemn-	γίγνομαι	3	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.93.5-s6140-w0	Herodotus_Book1.tb.a.gz##684.0	Herodotus	Obj	v--pna---	p-s---fa-	a-s---fa-	ἀείναος	8	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.184-s6755-w0	Herodotus_Book1.tb.a.gz##1299.0	Herodotus	Atr	v3siia---	n-s---fn-	n-s---nn-	ὄνομα	16	14	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.153-s6548-w0	Herodotus_Book1.tb.a.gz##1092.0	Herodotus	Pred	v3spia---	n-s---fn-	p-p---md-	σφεῖς	15	11	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.85.2-s6051-w0	Herodotus_Book1.tb.a.gz##595.0	Herodotus	Pred	---------	v--pna---	a-s---nnc	λωίων	7	5	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.32-s5671-w0	Herodotus_Book1.tb.a.gz##215.0	Herodotus	Pred	v3ppia---	a-p---mn-	a-p---mn-	εὐτυχής	9	14	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.79-s6001-w0	Herodotus_Book1.tb.a.gz##545.0	Herodotus	Pred	v3piia---	p-p---mn-	a-p---mn-	ἀγαθός	15	18	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.104.1-s6203-w0	Herodotus_Book1.tb.a.gz##747.0	Herodotus	Pred	v3spia---	v--ana---	a-s---nn-	πολύς	25	24	P-Sb	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.18-s5574-w0	Herodotus_Book1.tb.a.gz##118.0	Herodotus	Pred	v3siia---	n-s---mn-	v-sapamn-	συνάπτω	1	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.93.2-s6134-w0	Herodotus_Book1.tb.a.gz##678.0	Herodotus	Atr	v3spia---	n-s---nn-	n-s---nn-	χῶμα	20	21	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.148.1-s6521-w0	Herodotus_Book1.tb.a.gz##1065.0	Herodotus	Pred	v3spia---	n-s---fn-	n-s---fn-	ἄκρα	3	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.114.2-s6278-w0	Herodotus_Book1.tb.a.gz##822.0	Herodotus	Obj	v--pna---	l-s---ma-	n-s---ma-	ὀφθαλμός	15	20	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.89.2-s6089-w0	Herodotus_Book1.tb.a.gz##633.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	ἀχρήματος	1	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.112.2-s6262-w0	Herodotus_Book1.tb.a.gz##806.0	Herodotus	Obj	v--pna---	v--pna---	a-s---mn-	οἷος	10	5	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.116.3-s6293-w0	Herodotus_Book1.tb.a.gz##837.0	Herodotus	Obj	v3spoa---	p-s---mn-	v-sapamn-	παραδίδωμι	37	40	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.88.3-s6084-w0	Herodotus_Book1.tb.a.gz##628.0	Herodotus	Pred	v3spia---	p-s---nn-	p-s---md-	ἐγώ	1	3	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.32-s5667-w0	Herodotus_Book1.tb.a.gz##211.0	Herodotus	Pred	v3spia---	n-s---mn-	n-s---fn-	συμφορά	6	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.194-s6832-w0	Herodotus_Book1.tb.a.gz##1376.0	Herodotus	Pred	v3spia---	n-p---nn-	a-p---nn-	σκύτινος	2	18	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.117.2-s6300-w0	Herodotus_Book1.tb.a.gz##844.0	Herodotus	Obj	v-sppama-	n-s---ma-	d--------	ἔνδον	7	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.148.1-s6520-w0	Herodotus_Book1.tb.a.gz##1064.0	Herodotus	Pred	v3spia---	n-s---nn-	n-s---mn-	χῶρος	3	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.171-s6654-w0	Herodotus_Book1.tb.a.gz##1198.0	Herodotus	Pred	v3ppia---	n-p---mn-	p-p---mg-	οὗτος	4	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.142.4-s6494-w0	Herodotus_Book1.tb.a.gz##1038.0	Herodotus	Pred	v3ppia---	n-p---fn-	a-p---fn-	ὑπόλοιπος	6	4	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.107.2-s6222-w0	Herodotus_Book1.tb.a.gz##766.0	Herodotus	Atr	v3siia---	n-p---ma-	n-s---nn-	ὄνομα	8	6	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.196-s6856-w0	Herodotus_Book1.tb.a.gz##1400.0	Herodotus	Atr	v3siia---	a-p---mn-	a-p---mn-	ἐπίγαμος	1	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.124.3-s6371-w0	Herodotus_Book1.tb.a.gz##915.0	Herodotus	Pred	v3spia---	v2spie---	p-s---md-	σύ	16	13	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.185-s6765-w0	Herodotus_Book1.tb.a.gz##1309.0	Herodotus	Adv	v3spoa---	n-s---mn-	a-s---mn-	βραδύς	19	20	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.60-s5846-w0	Herodotus_Book1.tb.a.gz##390.0	Herodotus	Obj	v--pna---	n-s---fa-	n-s---ma-	θεός	21	25	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.125.1-s6374-w0	Herodotus_Book1.tb.a.gz##918.0	Herodotus	Obj	v--pna---	p-p---na-	a-p---nas-----	καίριος	16	17	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.152-s6538-w0	Herodotus_Book1.tb.a.gz##1082.0	Herodotus	Atr	v3siia---	n-s---mn-	n-s---nn-	ὄνομα	33	31	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.203-s6910-w0	Herodotus_Book1.tb.a.gz##1454.0	Herodotus	Adv	v3spia---	p-s---fn-	a-s---fn-	εὐρύς	24	22	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.93.3-s6136-w0	Herodotus_Book1.tb.a.gz##680.0	Herodotus	Pred	v3piia---	n-p---mn-	d---------	ἄνω	1	13	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.192-s6809-w0	Herodotus_Book1.tb.a.gz##1353.0	Herodotus	Atr	v3spia---	p-s---fn-	a-s---fn-	ὅσος	12	11	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.179-s6720-w0	Herodotus_Book1.tb.a.gz##1264.0	Herodotus	Pred	v3spia---	n-s---mn-	d--------	ἔνθα	3	1	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.92.1-s6125-w0	Herodotus_Book1.tb.a.gz##669.0	Herodotus	Pred	v3siia---	p-p---nn-	v-pppann-	περίειμι1	1	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.126.1-s6384-w0	Herodotus_Book1.tb.a.gz##928.0	Herodotus	Pred	v3siia---	n-s---mn-	a-p---mn-	ἀκανθώδης	16	19	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.57-s5816-w0	Herodotus_Book1.tb.a.gz##360.0	Herodotus	Adv	v3spia---	v--pna---	n-s---nn-	χρεών	6	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.77-s5987-w0	Herodotus_Book1.tb.a.gz##531.0	Herodotus	Atr	v3siia---	p-s---mn-	a-s---mn-	ξενικός	9	12	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.185-s6761-w0	Herodotus_Book1.tb.a.gz##1305.0	Herodotus	Atr	v3spia---	p-s---na-	a-s---na-	ὅσος	22	21	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.175-s6692-w0	Herodotus_Book1.tb.a.gz##1236.0	Herodotus	Pred	v3piia---	n-p---mn-	v-pppamn-	οἰκέω	3	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.119.2-s6314-w0	Herodotus_Book1.tb.a.gz##858.0	Herodotus	Pred	v3siia---	n-s---mn-	p-s---md-	ἕ	9	8	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.4-s5482-w0	Herodotus_Book1.tb.a.gz##26.0	Herodotus	Obj	v--pna---	v--pna---	n-s---na-	ἔργον	4	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.34-s5687-w0	Herodotus_Book1.tb.a.gz##231.0	Herodotus	Atr	---------	a-s---mn-	a-s---mn-	πρότερος	20	26	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.98.5-s6181-w0	Herodotus_Book1.tb.a.gz##725.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	λευκός	7	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.8-s5507-w0	Herodotus_Book1.tb.a.gz##51.0	Herodotus	Pred	v3siia---	n-s---mn-	v-sppemn-	ἀρέσκω	11	14	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.160-s6598-w0	Herodotus_Book1.tb.a.gz##1142.0	Herodotus	Pred	v3spia---	n-s---mn-	n-s---mg-	Ἀταρνεύς	6	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.56-s5811-w0	Herodotus_Book1.tb.a.gz##355.0	Herodotus	Pred	---------	l-s---nn-	a-s---nn-	πολυπλάνητος	8	10	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.114.2-s6278-w0	Herodotus_Book1.tb.a.gz##822.0	Herodotus	Obj	v--pna---	l-p---ma-	a-p---ma-	δορυφόρος	10	12	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.191-s6798-w0	Herodotus_Book1.tb.a.gz##1342.0	Herodotus	Obj	v3siia---	a-s---nn-	p-s---nn-	ὅς	14	13	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.191-s6807-w0	Herodotus_Book1.tb.a.gz##1351.0	Herodotus	Obj	v-sppafa-	n-s---fa-	p-p---md-	σφεῖς	36	34	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.39-s5730-w0	Herodotus_Book1.tb.a.gz##274.0	Herodotus	Pred	v3spia---	v--pna---	a-s---nn-	δίκαιος	15	13	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.125.3-s6381-w0	Herodotus_Book1.tb.a.gz##925.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	ἄριστος	2	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.61-s5855-w0	Herodotus_Book1.tb.a.gz##399.0	Herodotus	Atr	v3siia---	n-s---nn-	n-s---mn-	Λύγδαμις	17	19	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.185-s6757-w0	Herodotus_Book1.tb.a.gz##1301.0	Herodotus	Atr	v3siia---	n-s---fn-	n-s---nn-	ὄνομα	12	10	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.32-s5673-w0	Herodotus_Book1.tb.a.gz##217.0	Herodotus	Pred	v3spia---	l-s---mn-	a-s---mnc	δυνατός	1	10	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.109.3-s6235-w0	Herodotus_Book1.tb.a.gz##779.0	Herodotus	Adv	v3spia---	n-s---mn-	a-s---mn-	συγγενής	15	12	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.178-s6709-w0	Herodotus_Book1.tb.a.gz##1253.0	Herodotus	Pred	v3spia---	n-s---nn-	p-s---nn-	τοσοῦτος	16	17	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.93.2-s6134-w0	Herodotus_Book1.tb.a.gz##678.0	Herodotus	Pred	v3spia---	n-s---nn-	d--------	αὐτόθι	7	2	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.155-s6554-w0	Herodotus_Book1.tb.a.gz##1098.0	Herodotus	Pred	v3sfim---	n-s---nn-	p-s---nn-	τίς	5	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.192-s6812-w0	Herodotus_Book1.tb.a.gz##1356.0	Herodotus	Pred	v3spia---	n-s---fn-	a-s---fn-	τριτημόριος	5	2	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.186-s6774-w0	Herodotus_Book1.tb.a.gz##1318.0	Herodotus	Pred	v3siia---	n-s---fn-	v-srpefn-	κατασκευάζω	44	46	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.4-s6177-w0	Herodotus_Book1.tb.a.gz##721.0	Herodotus	Adv	v3spia---	a-s---mn-	a-s---mnc	ὑψηλός	9	17	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.5-s6181-w0	Herodotus_Book1.tb.a.gz##725.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	κυάνεος	35	23	P-Sb	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.114.1-s6277-w0	Herodotus_Book1.tb.a.gz##821.0	Herodotus	Obj	v--pna---	p-s---ma-	n-s---ma-	βασιλεύς	9	7	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.17-s5566-w0	Herodotus_Book1.tb.a.gz##110.0	Herodotus	Adv	v3siia---	n-s---mn-	a-s---mn-	ἁδρός	7	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.38-s5727-w0	Herodotus_Book1.tb.a.gz##271.0	Herodotus	Obj	v--pna---	a-s---ma-	p-s---md-	ἐγώ	4	10	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.56-s5810-w0	Herodotus_Book1.tb.a.gz##354.0	Herodotus	Pred	v3siia---	p-p---nn-	v-prpenn-	προκρίνω	1	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.156-s6566-w0	Herodotus_Book1.tb.a.gz##1110.0	Herodotus	Obj	---------	p-p---na-	a-p---nac-----	αἱρετός	9	8	P-Sb	subtree	#Reconstructed	0	annotation error	5th
+a-tlg0016.tlg001-1.93.5-s6142-w0	Herodotus_Book1.tb.a.gz##686.0	Herodotus	Pred	v3spia---	p-s---nn-	p-s---nn-	τοιοῦτος	1	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.196-s6849-w0	Herodotus_Book1.tb.a.gz##1393.0	Herodotus	Pred	v3spia---	n-s---fn-	p-s---fn-	οὗτος	5	1	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.17-s5570-w0	Herodotus_Book1.tb.a.gz##114.0	Herodotus	Adv	v--pna---	n-s---nn-	n-s---fg-	ἐφέδρα	12	9	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.143.1-s6498-w0	Herodotus_Book1.tb.a.gz##1042.0	Herodotus	Pred	v3piia---	n-p---mn-	n-p---mn-	ναυβάτης	11	12	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.172-s6667-w0	Herodotus_Book1.tb.a.gz##1211.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	αὐτόχθων	3	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.1-s5463-w0	Herodotus_Book1.tb.a.gz##7.0	Herodotus	Obj	v--pna---	n-s---na-	n-s---fa-	̓Ιώ	4	14	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.163-s6607-w0	Herodotus_Book1.tb.a.gz##1151.0	Herodotus	Pred	v3ppia---	p-p---mn-	v-papamn-	καταδείκνυμι	24	27	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.192-s6813-w0	Herodotus_Book1.tb.a.gz##1357.0	Herodotus	Pred	v3spia---	n-s---fn-	a-s---fn-	κράτιστος	3	20	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.147.2-s6517-w0	Herodotus_Book1.tb.a.gz##1061.0	Herodotus	Pred	v3ppia---	a-p---mn-	n-p---mn-	Ἴωνες	3	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.68-s5911-w0	Herodotus_Book1.tb.a.gz##455.0	Herodotus	Obj	---------	n-s---nn-	n-s---na-	πῆμα	27	29	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.39-s5729-w0	Herodotus_Book1.tb.a.gz##273.0	Herodotus	Pred	---------	v--pna---	n-s---fn-	συγγνώμη	15	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.144.1-s6503-w0	Herodotus_Book1.tb.a.gz##1047.0	Herodotus	Atr	v-sfpmfg-	l-s---fg-	n-s---fg-	πεντάπολις	5	6	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.146.1-s6511-w0	Herodotus_Book1.tb.a.gz##1055.0	Herodotus	Pred	v3ppia---	n-p---mn-	n-s---fn-	μοῖρα	2	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.144.3-s6505-w0	Herodotus_Book1.tb.a.gz##1049.0	Herodotus	Atr	v3siia---	n-s---mn-	n-s---nn-	ὄνομα	8	6	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.94.6-s6151-w0	Herodotus_Book1.tb.a.gz##695.0	Herodotus	Atr	v3siia---	a-p---nn-	a-p---nn-	χρηστός	22	25	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.172-s6669-w0	Herodotus_Book1.tb.a.gz##1213.0	Herodotus	Pred	v3spia---	v--pne---	a-s---nn-	καλός	11	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.138.1-s6463-w0	Herodotus_Book1.tb.a.gz##1007.0	Herodotus	Pred	v3srie---	v--pna---	a-p---na-	δεύτερος	11	8	P-Sb	subtree	#Reconstructed	0	annotation error	5th
+a-tlg0016.tlg001-1.143.2-s6499-w0	Herodotus_Book1.tb.a.gz##1043.0	Herodotus	Adv	v-sppamg-	n-s---ng-	a-s---ng-	ἀσθενής	20	13	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.51-s5794-w0	Herodotus_Book1.tb.a.gz##338.0	Herodotus	Obj	v--pna---	p-s---na-	n-s---fa-	εἰκών	26	32	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.96.1-s6159-w0	Herodotus_Book1.tb.a.gz##703.0	Herodotus	Atr	v3siia---	n-s---mn-	n-s---nn-	ὄνομα	10	8	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.27-s5623-w0	Herodotus_Book1.tb.a.gz##167.0	Herodotus	Adv	v-pppang-	a-p---ng-	a-p---ng-	ἑτοῖμος	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.32-s5670-w0	Herodotus_Book1.tb.a.gz##214.0	Herodotus	Pred	v3spia---	a-s---mn-	a-s---mnc	ὄλβιος	6	12	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.185-s6759-w0	Herodotus_Book1.tb.a.gz##1303.0	Herodotus	Pred	v3spia---	n-s---fn-	n-s---nn-	ὄνομα	13	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.196-s6853-w0	Herodotus_Book1.tb.a.gz##1397.0	Herodotus	Atr	v3siia---	p-s---fn-	a-s---fns	εὐειδής	14	18	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.32-s5678-w0	Herodotus_Book1.tb.a.gz##222.0	Herodotus	Pred	v3spia---	p-s---fn-	a-s---fn-	ἄριστος	8	9	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.60-s5841-w0	Herodotus_Book1.tb.a.gz##385.0	Herodotus	Pred	v3siia---	n-s---fn-	a-s---mn-	εὐειδής	7	22	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.203-s6915-w0	Herodotus_Book1.tb.a.gz##1459.0	Herodotus	Obj	v--pna---	n-s---fa-	a-s---fa-	ἐμφανής	1	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.83-s6033-w0	Herodotus_Book1.tb.a.gz##577.0	Herodotus	Adv	v-pppafg-	n-p---fg-	a-p---fg-	ἑτοῖμος	6	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.196-s6862-w0	Herodotus_Book1.tb.a.gz##1406.0	Herodotus	Pred	v3siia---	n-s---mn-	a-s---mn-	καλός	5	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.50-s5782-w0	Herodotus_Book1.tb.a.gz##326.0	Herodotus	Pred	v3spia---	p-p---nn-	n-p---nn-	ἡμιπλίνθιον	20	21	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.129.3-s6408-w0	Herodotus_Book1.tb.a.gz##952.0	Herodotus	Obj	v--pna---	v--ana---	a-s---nac-----	δίκαιος	20	16	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.134.1-s6442-w0	Herodotus_Book1.tb.a.gz##986.0	Herodotus	Adv	v3spsa---	a-s---mn-	a-s---mnc	ἀγεννής	5	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.1-s6171-w0	Herodotus_Book1.tb.a.gz##715.0	Herodotus	Obj	v--pna---	p-s---ma-	n-s---ma-	βασιλεύς	22	24	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.166-s6631-w0	Herodotus_Book1.tb.a.gz##1175.0	Herodotus	Pred	v3piia---	v-pppafn-	a-p---fn-	ἄχρηστος	13	15	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.93.2-s6134-w0	Herodotus_Book1.tb.a.gz##678.0	Herodotus	Atr	v3spia---	n-s---fn-	n-p---mg-	λίθος	11	14	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.125.4-s6383-w0	Herodotus_Book1.tb.a.gz##927.0	Herodotus	Pred	v3ppia---	p-p---mn-	n-p---mn-	ἀροτήρ	1	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.199-s6891-w0	Herodotus_Book1.tb.a.gz##1435.0	Herodotus	Sb	v3ppia---	a-p---fn-	v-prpefn-	ἐφάπτω	1	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.72-s5944-w0	Herodotus_Book1.tb.a.gz##488.0	Herodotus	Pred	v3piia---	n-p---mn-	a-p---mn-	κατήκους	4	13	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.203-s6910-w0	Herodotus_Book1.tb.a.gz##1454.0	Herodotus	Pred	v3spia---	n-s---fn-	p-s---fn-	ἑτέρος	3	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.132.3-s6426-w0	Herodotus_Book1.tb.a.gz##970.0	Herodotus	Obj	v--pna---	a-s---fa-	n-s---fa-	ἐπῳδή	10	16	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.146.1-s6510-w0	Herodotus_Book1.tb.a.gz##1054.0	Herodotus	Adv	---------	v--pna---	n-s---fn-	μωρία	29	27	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.181-s6740-w0	Herodotus_Book1.tb.a.gz##1284.0	Herodotus	Pred	---------	n-s---nn-	v-srpenn-	ἐνιδρύω	1	7	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.110.1-s6239-w0	Herodotus_Book1.tb.a.gz##783.0	Herodotus	Pred	v3siia---	n-s---mn-	n-s---nn-	ὄνομα	4	2	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.32-s5677-w0	Herodotus_Book1.tb.a.gz##221.0	Herodotus	Pred	v3spia---	v--ana---	a-s---nn-	ἀδύνατος	6	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.110.2-s6242-w0	Herodotus_Book1.tb.a.gz##786.0	Herodotus	Pred	v3spia---	n-s---fn-	a-s---fn-	ἄπεδος	23	26	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.176-s6699-w0	Herodotus_Book1.tb.a.gz##1243.0	Herodotus	Pred	v3ppia---	a-p---mn-	n-p---mn-	ἔπηλυς	9	16	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.114.4-s6280-w0	Herodotus_Book1.tb.a.gz##824.0	Herodotus	Pred	v3siia---	p-s---nn-	n-s---nn-	ὄνομα	40	41	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.145-s6508-w0	Herodotus_Book1.tb.a.gz##1052.0	Herodotus	Adv	v3siia---	n-p---nn-	a--------	δυώδεκα	27	24	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.199-s6887-w0	Herodotus_Book1.tb.a.gz##1431.0	Herodotus	Pred	v3spia---	n-p---fa-	p-s---fd-	ἕ	4	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.205-s6920-w0	Herodotus_Book1.tb.a.gz##1464.0	Herodotus	Pred	v3siia---	n-s---fn-	n-s---fn-	βασίλεια	6	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.31-s5657-w0	Herodotus_Book1.tb.a.gz##201.0	Herodotus	Obj	v3spia---	p-s---nn-	a-s---nn-	ἄριστος	34	37	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.96.1-s6158-w0	Herodotus_Book1.tb.a.gz##702.0	Herodotus	Adv	v-pppamg-	a-p---mg-	a-p---mg-	αὐτόνομος	4	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.29-s5633-w0	Herodotus_Book1.tb.a.gz##177.0	Herodotus	Pred	v3piia---	n-p---mn-	a-p---mn-	οἷος	9	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.163-s6612-w0	Herodotus_Book1.tb.a.gz##1156.0	Herodotus	Pred	v3ppia---	n-p---mn-	n-s---fn-	περίοδος	10	5	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.182-s6744-w0	Herodotus_Book1.tb.a.gz##1288.0	Herodotus	Pred	v3spia---	n-s---nn-	d--------	αὐτόθι	6	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.68-s5910-w0	Herodotus_Book1.tb.a.gz##454.0	Herodotus	Obj	v--pna---	p-s---ma-	n-s---ma-	Ὀρέστης	21	17	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.87.4-s6074-w0	Herodotus_Book1.tb.a.gz##618.0	Herodotus	Pred	v3spia---	p-s---mn-	a-s---mn-	ἀνόητος	1	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.137.2-s6461-w0	Herodotus_Book1.tb.a.gz##1005.0	Herodotus	Obj	v--pna---	v--pna---	v-srpana-	ἔοικα	16	5	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.142.1-s6488-w0	Herodotus_Book1.tb.a.gz##1032.0	Herodotus	Atr	v3spia---	n-s---nn-	p-p---mg-	ὅς	9	6	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.199-s6873-w0	Herodotus_Book1.tb.a.gz##1417.0	Herodotus	Pred	v3spia---	p-s---mn-	a-s---mn-	αἰσχρός	10	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.52-s5796-w0	Herodotus_Book1.tb.a.gz##340.0	Herodotus	Atr	v-sppana-	n-s---na-	a-s---na-	χρύσεος	33	38	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.170-s6651-w0	Herodotus_Book1.tb.a.gz##1195.0	Herodotus	ExD	v--pna---	---------	a-s---nn-	μέσος	65	45	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.57-s5816-w0	Herodotus_Book1.tb.a.gz##360.0	Herodotus	Atr	v3piia---	p-p---mn-	a-p---mn-	ὅμορος	19	20	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.70-s5926-w0	Herodotus_Book1.tb.a.gz##470.0	Herodotus	Pred	v3piia---	p-p---mn-	a-p---mn-	ἑτοῖμος	4	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.46-s5761-w0	Herodotus_Book1.tb.a.gz##305.0	Herodotus	Pred	---------	p-p---nn-	n-p---nn-	μαντεῖον	1	6	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.103.1-s6198-w0	Herodotus_Book1.tb.a.gz##742.0	Herodotus	Pred	v3siia---	a-p---nn-	d--------	ἀναμίξ	6	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.10-s5523-w0	Herodotus_Book1.tb.a.gz##67.0	Herodotus	Pred	v3siia---	l-s---mn-	a-s---mn-	ἑτοῖμος	1	10	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.23-s5596-w0	Herodotus_Book1.tb.a.gz##140.0	Herodotus	Pred	v3siia---	n-s---mn-	n-s---mn-	παῖς	1	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.71-s5942-w0	Herodotus_Book1.tb.a.gz##486.0	Herodotus	Pred	v3siia---	p-s---nn-	n-p---md-	Πέρσης	13	1	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.143.2-s6500-w0	Herodotus_Book1.tb.a.gz##1044.0	Herodotus	Pred	v3siia---	n-s---nn-	a-s---nn-	λόγιμος	9	10	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.88.1-s6078-w0	Herodotus_Book1.tb.a.gz##622.0	Herodotus	Pred	v3siia---	l-s---mn-	a-s---mn-	ἥσυχος	1	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.99.1-s6185-w0	Herodotus_Book1.tb.a.gz##729.0	Herodotus	Pred	v3spia---	n-s---mn-	v-sapmmn-	καθίστημι	6	10	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.101-s6193-w0	Herodotus_Book1.tb.a.gz##737.0	Herodotus	Pred	v3spia---	n-p---nn-	p-p---nn-	τοσόσδε	1	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.105.3-s6210-w0	Herodotus_Book1.tb.a.gz##754.0	Herodotus	Atr	---------	a-p---nn-	n-s---fg-	θεός	15	18	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.149.1-s6526-w0	Herodotus_Book1.tb.a.gz##1070.0	Herodotus	Pred	v3piia---	p-p---fn-	x--------	δυώδεκα	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.158-s6578-w0	Herodotus_Book1.tb.a.gz##1122.0	Herodotus	Atr	v3siia---	n-s---mn-	p-p---mg-	ὅς	46	44	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.5-s6181-w0	Herodotus_Book1.tb.a.gz##725.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	σανδαράκινος	36	27	P-Sb	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.7-s5504-w0	Herodotus_Book1.tb.a.gz##48.0	Herodotus	Pred	v3piia---	v-papamn-	a-p---mn-	ἀπόγονος	5	10	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.30-s5644-w0	Herodotus_Book1.tb.a.gz##188.0	Herodotus	Obj	v--pna---	n-s---ma-	a-s---mas	ὄλβιος	4	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.134.1-s6439-w0	Herodotus_Book1.tb.a.gz##983.0	Herodotus	Obj	v3ppia---	v-pppamn-	a-p---mn-	ὁμοῖος	16	13	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.5-s5494-w0	Herodotus_Book1.tb.a.gz##38.0	Herodotus	Pred	v3siia---	v3siia---	a-p---nn-	σμικρός	5	10	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.199-s6885-w0	Herodotus_Book1.tb.a.gz##1429.0	Herodotus	Pred	v3spia---	n-s---nn-	a-s---nn-	ὅσος	3	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.193-s6822-w0	Herodotus_Book1.tb.a.gz##1366.0	Herodotus	Pred	v3spia---	p-s---fn-	a-s---fn-	ἄριστος	4	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.178-s6711-w0	Herodotus_Book1.tb.a.gz##1255.0	Herodotus	Pred	v3spia---	n-s---mn-	a-s---mnc-----	μέγας	4	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.157-s6574-w0	Herodotus_Book1.tb.a.gz##1118.0	Herodotus	Pred	v3spia---	n-s---mn-	n-s---fg-	Μιλήσιη	3	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.145-s6509-w0	Herodotus_Book1.tb.a.gz##1053.0	Herodotus	Pred	v3spia---	a-p---nn-	n-p---nn-	μέρος	1	3	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.180-s6731-w0	Herodotus_Book1.tb.a.gz##1275.0	Herodotus	Atr	---------	n-p---fn-	a-p---fn-	ὅσος	19	16	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.60-s5841-w0	Herodotus_Book1.tb.a.gz##385.0	Herodotus	Atr	v3siia---	n-s---nn-	n-s---fn-	Θύη	9	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.8-s5506-w0	Herodotus_Book1.tb.a.gz##50.0	Herodotus	Obj	v--pna---	n-s---fa-	a-s---fa-	καλός	16	19	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.8-s5509-w0	Herodotus_Book1.tb.a.gz##53.0	Herodotus	Sb	v-pppana-	n-p---na-	a-p---nac-----	ἄπιστος	16	21	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.72-s5945-w0	Herodotus_Book1.tb.a.gz##489.0	Herodotus	Pred	v3siia---	n-s---mn-	n-s---mn-	ὅρος	14	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.4-s5482-w0	Herodotus_Book1.tb.a.gz##26.0	Herodotus	Obj	v--pna---	v--pna---	a-p---mg-	σώφρων	24	26	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.12-s5543-w0	Herodotus_Book1.tb.a.gz##87.0	Herodotus	Pred	v3siia---	n-s---fn-	p-s---md-	ἕ	19	17	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.84.2-s6037-w0	Herodotus_Book1.tb.a.gz##581.0	Herodotus	Atr	v3siia---	n-s---nn-	n-s---mn-	Ὑροιάδης	21	23	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.171-s6659-w0	Herodotus_Book1.tb.a.gz##1203.0	Herodotus	Pred	v3ppia---	n-p---mn-	v-papamn-	καταδείκνυμι	8	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.149.1-s6523-w0	Herodotus_Book1.tb.a.gz##1067.0	Herodotus	Pred	v3ppia---	p-p---fn-	n-p---fn-	πόλις	1	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.91.5-s6117-w0	Herodotus_Book1.tb.a.gz##661.0	Herodotus	Pred	v3siia---	n-s---mn-	n-s---mn-	ἡμίονος	5	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.186-s6771-w0	Herodotus_Book1.tb.a.gz##1315.0	Herodotus	Adv	v3piia---	n-p---mn-	a-p---mn-	ἑτοῖμος	10	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.209-s6957-w0	Herodotus_Book1.tb.a.gz##1501.0	Herodotus	Pred	v3siia---	n-s---mn-	a-s---mn-	πρέσβυς	11	12	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.53-s5798-w0	Herodotus_Book1.tb.a.gz##342.0	Herodotus	Obj	v--pna---	n-p---na-	a-p---na-	μόνος	59	61	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.165-s6621-w0	Herodotus_Book1.tb.a.gz##1165.0	Herodotus	Atr	v3siia---	n-s---fn-	n-s---nn-	ὄνομα	17	15	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.211-s6974-w0	Herodotus_Book1.tb.a.gz##1518.0	Herodotus	Atr	v3siia---	n-p---ma-	n-s---nn-	ὄνομα	29	27	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.77-s5985-w0	Herodotus_Book1.tb.a.gz##529.0	Herodotus	Pred	v3siia---	n-s---mn-	a-s---mnc-----	ἐλάσσων	16	18	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.96.2-s6162-w0	Herodotus_Book1.tb.a.gz##706.0	Herodotus	Obj	v3spia---	a-s---nn-	a-s---nn-	πολέμιος	18	19	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.71-s5934-w0	Herodotus_Book1.tb.a.gz##478.0	Herodotus	Pred	v3siia---	n-s---mn-	n-s---nn-	ὄνομα	4	1	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.149.1-s6524-w0	Herodotus_Book1.tb.a.gz##1068.0	Herodotus	Pred	v3ppia---	n-p---fn-	p-p---fn-	οὗτος	4	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.155-s6562-w0	Herodotus_Book1.tb.a.gz##1106.0	Herodotus	Pred	v3spia---	n-s---fg-	v-sppamn-	ἀδικέω	5	9	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.84.3-s6040-w0	Herodotus_Book1.tb.a.gz##584.0	Herodotus	Obj	v3pfia--------	n-p---fn-	a-p---fn-	ἀνάλωτος	28	29	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.132.3-s6427-w0	Herodotus_Book1.tb.a.gz##971.0	Herodotus	Pred	v3spia---	v--pne---	n-s---mn-	νόμος	10	7	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.91.4-s6115-w0	Herodotus_Book1.tb.a.gz##659.0	Herodotus	Obj	v--pna---	p-s---ma-	a-s---ma-	αἴτιος	8	9	Sb-P	subtree	#Reconstructed	0	annotation error	5th
+a-tlg0016.tlg001-1.32-s5671-w0	Herodotus_Book1.tb.a.gz##215.0	Herodotus	Pred	v3ppia---	a-p---mn-	a-p---mn-	ἄνολβος	4	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.143.1-s6498-w0	Herodotus_Book1.tb.a.gz##1042.0	Herodotus	Pred	v3piia---	n-p---mn-	a-p---mn-	κατήκους	3	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.86.2-s6058-w0	Herodotus_Book1.tb.a.gz##602.0	Herodotus	Obj	v--pna---	n-s---ma-	a-p---nn-	θεοσεβής	45	47	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.1-s5457-w0	Herodotus_Book1.tb.a.gz##1.0	Herodotus	Pred	v3spia---	p-s---fn-	n-s---fn-	ἀπόδειξις	5	4	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.7-s5503-w0	Herodotus_Book1.tb.a.gz##47.0	Herodotus	Pred	---------	n-p---ma-	a-s---mn-	ὕστερος	16	20	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.32-s5679-w0	Herodotus_Book1.tb.a.gz##223.0	Herodotus	Pred	v3spia---	n-s---nn-	a-s---nn-	αὐτάρκης	5	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.171-s6659-w0	Herodotus_Book1.tb.a.gz##1203.0	Herodotus	Pred	v3ppia---	p-p---mn-	v-papmmn-	ποιέω	23	26	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.79-s5996-w0	Herodotus_Book1.tb.a.gz##540.0	Herodotus	Obj	v--pna---	n-s---na-	v--pna---	ἐλαύνω	26	29	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.86.3-s6060-w0	Herodotus_Book1.tb.a.gz##604.0	Herodotus	Sb	v--pna---	p-s---ma-	a-s---ma-	ὄλβιος	27	31	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.147.1-s6514-w0	Herodotus_Book1.tb.a.gz##1058.0	Herodotus	Pred	v3siia---	p-p---nn-	v-pppenn-	γίγνομαι	1	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.5-s6179-w0	Herodotus_Book1.tb.a.gz##723.0	Herodotus	Adv	v-pppamg-	n-p---mg-	a---------	ἑπτά	1	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.104.1-s6203-w0	Herodotus_Book1.tb.a.gz##747.0	Herodotus	Pred	v3spia---	n-s---fn-	n-p---fg-	ἡμέρα	17	15	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.147.1-s6516-w0	Herodotus_Book1.tb.a.gz##1060.0	Herodotus	Pred	v3ppma---	v-prpamn-	n-p---mn-	Ἴωνες	17	18	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.134.1-s6441-w0	Herodotus_Book1.tb.a.gz##985.0	Herodotus	Adv	v3spsa---	a-s---mn-	a-s---mnc	ὑποδεής	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.34-s5685-w0	Herodotus_Book1.tb.a.gz##229.0	Herodotus	Obj	v--pna---	p-s---ma-	a-s---mas	ὄλβιος	17	21	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.34-s5687-w0	Herodotus_Book1.tb.a.gz##231.0	Herodotus	Pred	v3piia---	n-p---mn-	n-s---md-	Κροῖσος	6	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.114.1-s6275-w0	Herodotus_Book1.tb.a.gz##819.0	Herodotus	Adv	v3siia---	n-s---mn-	a-p---ma-	δεκαετής	6	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.129.2-s6406-w0	Herodotus_Book1.tb.a.gz##950.0	Herodotus	Obj	v--pna---	n-s---nn-	p-s---mg-	ἑαυτοῦ	10	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.90.4-s6104-w0	Herodotus_Book1.tb.a.gz##648.0	Herodotus	Pnom	v--pna---	n-p---md-	a-p---md-	ἀχάριστος	12	7	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.5-s5494-w0	Herodotus_Book1.tb.a.gz##38.0	Herodotus	Sb	v3siia---	p-p---nn-	a-d---fn-	μέγας	1	6	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.31-s5651-w0	Herodotus_Book1.tb.a.gz##195.0	Herodotus	Pred	v3piia---	a-p---mn-	a-p---mn-	ἀθλοφόρος	3	1	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.216-s7010-w0	Herodotus_Book1.tb.a.gz##1554.0	Herodotus	Pred	v3spia---	p-s---mn-	n-s---mn-	νόος	3	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.171-s6657-w0	Herodotus_Book1.tb.a.gz##1201.0	Herodotus	Pred	v3siia---	n-s---nn-	a-s---nns-----	λόγιμος	16	17	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.185-s6765-w0	Herodotus_Book1.tb.a.gz##1309.0	Herodotus	Adv	v3ppsa---	n-p---mn-	a-p---mn-	σκολιός	29	31	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.126.5-s6392-w0	Herodotus_Book1.tb.a.gz##936.0	Herodotus	Pred	v3ppia---	n-p---mn-	p-p---md-	σύ	25	24	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.179-s6721-w0	Herodotus_Book1.tb.a.gz##1265.0	Herodotus	Pred	v3spia---	n-s---fn-	n-s---nn-	ὄνομα	1	6	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.2-s5470-w0	Herodotus_Book1.tb.a.gz##14.0	Herodotus	Pred	v3ppoa---	p-p---mn-	n-p---mn-	Κρής	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.194-s6840-w0	Herodotus_Book1.tb.a.gz##1384.0	Herodotus	Pred	v3spia---	v--pna---	a-p---nn-	οἷος	10	7	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.123.2-s6358-w0	Herodotus_Book1.tb.a.gz##902.0	Herodotus	Adv	v-sppamg-	n-s---mg-	a-s---mg-	πικρός	3	4	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.89.2-s6090-w0	Herodotus_Book1.tb.a.gz##634.0	Herodotus	Pred	---------	p-p---nn-	a-p---nn-	ἐπίδοξος	12	16	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.34-s5688-w0	Herodotus_Book1.tb.a.gz##232.0	Herodotus	Pred	v3siia---	n-p---ma-	n-s---nn-	ὄνομα	5	1	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.170-s6651-w0	Herodotus_Book1.tb.a.gz##1195.0	Herodotus	Pred	v3siia---	n-s---fn-	v-sapmfn-	γίγνομαι	6	10	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.57-s5818-w0	Herodotus_Book1.tb.a.gz##362.0	Herodotus	Adv	v3siia---	a-s---nn-	p-s---nn-	τοιοῦτος	8	6	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.179-s6719-w0	Herodotus_Book1.tb.a.gz##1263.0	Herodotus	Pred	v3spia---	n-s---fn-	n-s---nn-	ὄνομα	1	2	Sb-P	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.13-s5546-w0	Herodotus_Book1.tb.a.gz##90.0	Herodotus	Obj	v--pna---	p3s---ma-	n-s---ma-	βασιλεύς	34	35	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.175-s6695-w0	Herodotus_Book1.tb.a.gz##1239.0	Herodotus	Atr	v3spia---	n-s---nn-	n-s---fn-	Λίδη	19	21	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.136.1-s6454-w0	Herodotus_Book1.tb.a.gz##998.0	Herodotus	Obj	v--pna---	a-s---na-	a-s---na-	ἰσχυρός	2	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.151-s6533-w0	Herodotus_Book1.tb.a.gz##1077.0	Herodotus	Pred	v3ppia---	n-p---fn-	p-p---fn-	οὗτος	7	1	P-Sb	subtree	#Reconstructed			5th
+a-tlg0016.tlg001-1.11-s5542-w0	Herodotus_Book1.tb.a.gz##86.0	Herodotus	Obj	v3sfim---	n-s---fn-	v-sppemd-	ὑπνόω	24	21	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.138.1-s6463-w0	Herodotus_Book1.tb.a.gz##1007.0	Herodotus	Obj	v--pna---	v--pna---	a-s---fa-	ἀναγκαῖος	30	22	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.6-s6182-w0	Herodotus_Book1.tb.a.gz##726.0	Herodotus	Pred	v3ppia---	n-p---mn-	v-prpemn-	ἀνθίζω	6	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.7-s5505-w0	Herodotus_Book1.tb.a.gz##49.0	Herodotus	Pred	---------	n-s---mn-	v-sppemn-	ἐκδέχομαι	35	38	Sb-P	subtree	#Reconstructed	0 annotation error		5th
+a-tlg0016.tlg001-1.155-s6556-w0	Herodotus_Book1.tb.a.gz##1100.0	Herodotus	Obj	v3spsa---	v--ane---	n-s---nn-	ἄριστον	5	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.195-s6848-w0	Herodotus_Book1.tb.a.gz##1392.0	Herodotus	Pred	v3spia---	v--pna---	n-s---mn-	νόμος	8	6	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.91.1-s6106-w0	Herodotus_Book1.tb.a.gz##650.0	Herodotus	Pred	v3spia---	v--ana---	a-p---nn-	ἀδύνατος	6	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.126.6-s6394-w0	Herodotus_Book1.tb.a.gz##938.0	Herodotus	Obj	v--pna---	n-p---ma-	a-p---mac	φαῦλος	16	20	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.66-s5894-w0	Herodotus_Book1.tb.a.gz##438.0	Herodotus	Pred	v3piia---	n-p---fn-	a-p---fn-	σῶς	3	13	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.84.3-s6041-w0	Herodotus_Book1.tb.a.gz##585.0	Herodotus	Atr	v3siia---	n-s---nn-	a-s---nn-	ἐπίμαχος	14	12	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.119.7-s6321-w0	Herodotus_Book1.tb.a.gz##865.0	Herodotus	Obj	v--pna---	a-s---na-	a-s---na-	ἀρεστός	9	7	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.96.2-s6164-w0	Herodotus_Book1.tb.a.gz##708.0	Herodotus	Obj	v3spoa---	n-s---mn-	n-s---mn-	ἀνήρ	35	37	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.55-s5805-w0	Herodotus_Book1.tb.a.gz##349.0	Herodotus	Obj	v3sfim---	n-s---fn-	a-s---fn-	πολυχρόνιος	11	8	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.51-s5792-w0	Herodotus_Book1.tb.a.gz##336.0	Herodotus	Pred	v3spia---	p-s---nn-	n-s---mg-	Κροῖσος	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.72-s5948-w0	Herodotus_Book1.tb.a.gz##492.0	Herodotus	Pred	v3spia---	p-s---mn-	n-s---mn-	αὐχήν	4	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.1-s6171-w0	Herodotus_Book1.tb.a.gz##715.0	Herodotus	Pred	v3siia---	n-s---mn-	a-s---mn-	πολύς	9	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.98.5-s6181-w0	Herodotus_Book1.tb.a.gz##725.0	Herodotus	Pred	v3ppia---	n-p---mn-	a-p---mn-	μέλας	33	14	P-Sb	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.105.3-s6210-w0	Herodotus_Book1.tb.a.gz##754.0	Herodotus	Pred	v3spia---	n-s---nn-	a-s---nns	ἀρχαῖος	5	13	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.153-s6545-w0	Herodotus_Book1.tb.a.gz##1089.0	Herodotus	Atr	v3spia---	n-s---mn-	v-srpemn-	ἀποδέχομαι	9	14	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.204-s6919-w0	Herodotus_Book1.tb.a.gz##1463.0	Herodotus	Pred	v3siia---	n-s---nn-	a-s---nn-	ἀμήχανος	11	7	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.159-s6585-w0	Herodotus_Book1.tb.a.gz##1129.0	Herodotus	Atr	v3siia---	n-p---nn-	v-prpenn-	νοσσεύω	14	12	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.180-s6732-w0	Herodotus_Book1.tb.a.gz##1276.0	Herodotus	Pred	v3piia---	p-p---fn-	a-p---fn-	χάλκεος	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.111.3-s6254-w0	Herodotus_Book1.tb.a.gz##798.0	Herodotus	Obj	v--pna---	n-s---ma-	v-sapmma-	ἐπιτίθημι	24	28	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.196-s6855-w0	Herodotus_Book1.tb.a.gz##1399.0	Herodotus	Sb	v1siia---	a-p---mn-	a-p---mn-	ἐπίγαμος	5	8	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.5-s5493-w0	Herodotus_Book1.tb.a.gz##37.0	Herodotus	Atr	v3siia---	p-p---nn-	a-d---fn-	μέγας	1	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.115.2-s6286-w0	Herodotus_Book1.tb.a.gz##830.0	Herodotus	Atr	v3siia---	p-s---mn-	p-p---mg-	ὅς	11	9	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.126.4-s6389-w0	Herodotus_Book1.tb.a.gz##933.0	Herodotus	Obj	v--pna---	a-s---na-	a-s---na-	πολύς	8	4	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.153-s6543-w0	Herodotus_Book1.tb.a.gz##1087.0	Herodotus	Obj	v-pppamn-	n-p---mn-	p-p---mn-	τις	15	13	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.173-s6673-w0	Herodotus_Book1.tb.a.gz##1217.0	Herodotus	Pred	v3siia---	p-s---fn-	n-s---mn-	Μιλυάς	7	11	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.195-s6843-w0	Herodotus_Book1.tb.a.gz##1387.0	Herodotus	Pred	v3spia---	n-p---nn-	p-p---nn-	τοιοῦτος	4	7	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.163-s6612-w0	Herodotus_Book1.tb.a.gz##1156.0	Herodotus	Pnom	v3spia---	p-s---nn-	n-p---mg-	λίθος	13	16	Sb-P	subtree	#Reconstructed	0	gapping	5th
+a-tlg0016.tlg001-1.134.2-s6445-w0	Herodotus_Book1.tb.a.gz##989.0	Herodotus	Obj	v--pna---	p-p---ma-	a-p---ma-	ἄριστος	12	18	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.179-s6718-w0	Herodotus_Book1.tb.a.gz##1262.0	Herodotus	Pred	v3spia---	n-p---fa-	v-sppafn-	ἀπέχω	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.86.6-s6067-w0	Herodotus_Book1.tb.a.gz##611.0	Herodotus	Obj	v3spoa---	p-s---nn-	v-sppann-	ἔχω	42	48	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.35-s5694-w0	Herodotus_Book1.tb.a.gz##238.0	Herodotus	Pred	v3spia---	n-s---fn-	a-s---fn-	παραπλήσιος	5	3	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.194-s6831-w0	Herodotus_Book1.tb.a.gz##1375.0	Herodotus	Obj	v3spia---	n-s---nn-	a-s---nn-	μέγας	4	5	Sb-P	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.186-s6768-w0	Herodotus_Book1.tb.a.gz##1312.0	Herodotus	Pred	v3siia---	p-s---nn-	a-s---nn-	ὀχληρός	40	39	P-Sb	subtree	εἰμί			5th
+a-tlg0016.tlg001-1.143.1-s6497-w0	Herodotus_Book1.tb.a.gz##1041.0	Herodotus	Pred	v3siia---	p-s---nn-	a-s---nn-	δεινός	24	23	P-Sb	subtree	εἰμί			5th
+a-tlg0543.tlg001-9.10.6-s26161-w0	Polybius_Book9.tb.a.gz##82.0	Polybius	Atr	v3spia---	p-s---nn-	a-s---nns	φοβερός	23	26	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.13.8-s26197-w0	Polybius_Book9.tb.a.gz##118.0	Polybius	Adv	v3sria---	v3pppann_	a-p---nn-	δυνατός	20	22	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-9.39.3-s26476-w0	Polybius_Book9.tb.a.gz##397.0	Polybius	Atr	v3spia---	v--pna---	v-srpann-	εἰκός	19	17	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.1-s12253-w0	Polybius_Book1.tb.a.gz##2.0	Polybius	Obj	v--pna---	n-s---fa-	n-s---ma-	διδάσκαλος	54	41	P-Sb	subtree	#Reconstructed	0	gapping. note that we have a double nominal: φανερὸν ὡς (sbj after an auxc)	2nd
+a-tlg0543.tlg001-1.22-s12491-w0	Polybius_Book1.tb.a.gz##240.0	Polybius	Obj	v--pna---	n-s---ma-	d--------	μακράν	44	39	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.29.9-s26363-w0	Polybius_Book9.tb.a.gz##284.0	Polybius	Pred	v3spia---	p-s---mn-	n-s---mn-	τρόπος	6	8	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.20.2-s26265-w0	Polybius_Book9.tb.a.gz##186.0	Polybius	Pred	v3spia---	n-s---mn-	a-s---mn-	ἀναγκαῖος	20	17	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.21.5-s28819-w0	Polybius_Book10.tb.a.gz##208.0	Polybius	Pred	v3siia---	v--pna---	n-s---nn-	ἀναγκαῖον	34	28	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.35-s12666-w0	Polybius_Book1.tb.a.gz##415.0	Polybius	Sb	v--pna---	l-s---ma-	a-s---nac-----	ἐναργής	29	25	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.11.6-s28703-w0	Polybius_Book10.tb.a.gz##92.0	Polybius	Obj	v-sppafa-	n-s---fa-	a-s---fa-	δυνατός	6	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.35-s12668-w0	Polybius_Book1.tb.a.gz##417.0	Polybius	Obj	v--pna---	n-s---fa-	n-s---fa-	παιδεία	16	5	P-Sb	subtree	#Reconstructed	0 annotation error		2nd
+a-tlg0543.tlg001-1.59-s12924-w0	Polybius_Book1.tb.a.gz##673.0	Polybius	Pred	v3siia---	v-sppann-	n-s---fn-	ψυχομαχία	6	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.79-s13136-w0	Polybius_Book1.tb.a.gz##885.0	Polybius	Obj	v--pna---	v--pna---	a-s---na-	ἀναγκαῖος	14	11	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.27.10-s28864-w0	Polybius_Book10.tb.a.gz##253.0	Polybius	Sb	v--pna---	n-p---fa-	a-p---fa-	ἀργύρεος	44	45	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.14.5-s26204-w0	Polybius_Book9.tb.a.gz##125.0	Polybius	Atr	?	n-s---nn-	a-s---nn-	μέγας	22	24	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.36.12-s26448-w0	Polybius_Book9.tb.a.gz##369.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	ὅσιος	11	5	P-Sb	subtree	εἰμί	0	gapping	2nd
+a-tlg0543.tlg001-9.14.6-s26206-w0	Polybius_Book9.tb.a.gz##127.0	Polybius	Pred	v3siia---	n-s---fn-	a-s---fn-	κοινός	24	18	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.46-s12794-w0	Polybius_Book1.tb.a.gz##543.0	Polybius	Adv	v3siia---	v--pna---	a-s---nn-	δυνατός	18	14	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.11.4-s26177-w0	Polybius_Book9.tb.a.gz##98.0	Polybius	Adv	v-sppafg-	n-s---fg-	a-s---fg_	τοιοῦτος	6	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.31.8-s28905-w0	Polybius_Book10.tb.a.gz##294.0	Polybius	Pred	v3piia---	n-p---fn-	a-p---fn-	τρισσός	1	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.44.2-s29048-w0	Polybius_Book10.tb.a.gz##437.0	Polybius	Obj	v--pna---	n-s---na-	n-p---mg-	πῆχυς	6	8	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.36.12-s26448-w0	Polybius_Book9.tb.a.gz##369.0	Polybius	Adv	v3spia---	v--pna---	a-s---nn-	ἀνόσιος	18	14	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.18.2-s26244-w0	Polybius_Book9.tb.a.gz##165.0	Polybius	Sb	v--pna---	n-p---fa-	a-p---fa-	βραχύς	16	12	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.42-s12751-w0	Polybius_Book1.tb.a.gz##500.0	Polybius	Atr	v3spia---	n-s---mn-	v-sppemn-	δέω2	39	41	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.25.1-s28841-w0	Polybius_Book10.tb.a.gz##230.0	Polybius	Obj	v--pna---	v-sppena-	a-s---nas	ὅμοιος	5	6	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.54-s12875-w0	Polybius_Book1.tb.a.gz##624.0	Polybius	Adv	v--pna---	a-p---ma-	d--------	σύνεγγυς	31	28	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.44.1-s26516-w0	Polybius_Book9.tb.a.gz##437.0	Polybius	Sb	v--pna---	v-pppama-	n-p---ma-	σύμμαχος	8	18	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.43.10-s29044-w0	Polybius_Book10.tb.a.gz##433.0	Polybius	Pred	v3spia---	v--anm---	a-s---nn-	δυνατός	13	14	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.43.6-s26515-w0	Polybius_Book9.tb.a.gz##436.0	Polybius	Adv	v-sppamg-	n-s---mg-	a-s---mgs	ταπεινός	22	19	P-Sb	subtree	#Reconstructed		genitive absolute	2nd
+a-tlg0543.tlg001-1.4-s12282-w0	Polybius_Book1.tb.a.gz##31.0	Polybius	Pred	---------	v--ana---	a-s---nn-	οἷος	13	11	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.30.5-s26370-w0	Polybius_Book9.tb.a.gz##291.0	Polybius	Obj	v--pna---	p-s---ma-	n-s---ma-	πόλεμος	25	27	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.44.3-s29049-w0	Polybius_Book10.tb.a.gz##438.0	Polybius	Obj	v--pna---	n-s---na-	n-s---fa-	περιγραφή	26	28	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.57-s12908-w0	Polybius_Book1.tb.a.gz##657.0	Polybius	Pred	v3siia---	p-s---nn-	a-s---nn-	αἴτιος	1	2	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.15-s12406-w0	Polybius_Book1.tb.a.gz##155.0	Polybius	Obj	v--pna---	p-p---ma-	n-s---fn-	ἀνάγκη	24	2	P-Sb	subtree	#Reconstructed	0	annotation error (coordinated nominals)	2nd
+a-tlg0543.tlg001-9.12.3-s26181-w0	Polybius_Book9.tb.a.gz##102.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	χαλεπός	20	21	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.30.5-s28888-w0	Polybius_Book10.tb.a.gz##277.0	Polybius	Pred	v3siia---	n-s---fn-	a-s---fn-	ἀδύνατος	28	21	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.13.10-s28729-w0	Polybius_Book10.tb.a.gz##118.0	Polybius	Pred	v3siia---	p-s---nn-	a-s---nn-	ἱκανός	6	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.28-s12587-w0	Polybius_Book1.tb.a.gz##336.0	Polybius	Pred	v3siia---	v-sppenn-	a-s---nn-	παραπλήσιος	6	1	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.15.5-s26216-w0	Polybius_Book9.tb.a.gz##137.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	οἷος	7	3	P-Sb	subtree	#Reconstructed		Review!	2nd
+a-tlg0543.tlg001-1.38-s12703-w0	Polybius_Book1.tb.a.gz##452.0	Polybius	Apos	---------	p-s---nn-	n-s---nn-	ῥαίδιον	9	12	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.2.4-s28624-w0	Polybius_Book10.tb.a.gz##13.0	Polybius	Sb	v3spia---	v-sppenn-	a-s---nn-	ὑγιής	7	4	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.57-s12902-w0	Polybius_Book1.tb.a.gz##651.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	δυνατός	34	47	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.4-s12281-w0	Polybius_Book1.tb.a.gz##30.0	Polybius	Atr	---------	l-s---na-	a-s---na-	οἷος	23	22	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.15.6-s28748-w0	Polybius_Book10.tb.a.gz##137.0	Polybius	Pred	v3siia---	p-s---nn-	a-s---nn-	πολύς	7	5	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.2.4-s26089-w0	Polybius_Book9.tb.a.gz##10.0	Polybius	Obj	v--pna---	v--ana---	a-s---na-	συμβατός	27	18	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.21.4-s28818-w0	Polybius_Book10.tb.a.gz##207.0	Polybius	Pred	v3spia---	v--pna---	v-srpann-	ἔοικα	24	25	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.58-s12917-w0	Polybius_Book1.tb.a.gz##666.0	Polybius	Pred	v3siia---	n-p---nn-	a-p---nn-	παραπλήσιος	3	6	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.7.6-s28669-w0	Polybius_Book10.tb.a.gz##58.0	Polybius	Adv	v--pna---	a-p---ma-	a-p---ma-	πολλαπλάσιος	35	32	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.23.9-s28834-w0	Polybius_Book10.tb.a.gz##223.0	Polybius	Obj	v--pna---	p-s---na-	a-s---nac	ἀναγκαῖος	46	47	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.49-s12825-w0	Polybius_Book1.tb.a.gz##574.0	Polybius	Adv	v-sppamg-	n-s---mg-	d--------	σύνεγγυς	33	34	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.10.11-s26168-w0	Polybius_Book9.tb.a.gz##89.0	Polybius	Pred	v1siia---	v--anm---	a-s---nn-	οἷος	8	3	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.14-s12388-w0	Polybius_Book1.tb.a.gz##137.0	Polybius	Adv	v3spia---	v--pna---	a-s---nn-	δυνατός	33	31	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.10.13-s26170-w0	Polybius_Book9.tb.a.gz##91.0	Polybius	Obj	v--pna---	n-p---fa-	n-s---ma-	κόσμος	28	20	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.2.1-s28622-w0	Polybius_Book10.tb.a.gz##11.0	Polybius	Obj	v--pna---	v--ana---	a-s---na-	ἀναγκαῖος	25	22	P-Sb	subtree	#Reconstructed	0	annotation error	2nd
+a-tlg0543.tlg001-1.67-s13007-w0	Polybius_Book1.tb.a.gz##756.0	Polybius	Pred	---------	v--pna---	a-s---nnc	ἀδύνατος	5	22	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.26.10-s26318-w0	Polybius_Book9.tb.a.gz##239.0	Polybius	Pred	v3spia---	v--anm---	a-s---nn-	δυσχερής	6	5	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.80-s13150-w0	Polybius_Book1.tb.a.gz##899.0	Polybius	Pred	v3siia---	p-s---mn-	a-s---mns	πρακτικός	4	1	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.15.9-s26221-w0	Polybius_Book9.tb.a.gz##142.0	Polybius	Sb	v3spia---	v--pna---	n-s---fn-	ἀνάγκη	19	20	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.82-s13188-w0	Polybius_Book1.tb.a.gz##937.0	Polybius	Pred	v3siia---	n-s---mn-	v-sapamn-	παραλαμβάνω	1	3	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.15.10-s26222-w0	Polybius_Book9.tb.a.gz##143.0	Polybius	Pred	v3spia---	p-s---nn-	v-srpann-	ἔοικα	13	14	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.12.1-s26179-w0	Polybius_Book9.tb.a.gz##100.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	δυνατός	7	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.38-s12703-w0	Polybius_Book1.tb.a.gz##452.0	Polybius	Atr	v3siia---	n-p---fa-	a-s---fn-	βαρύς	55	54	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.9.8-s28680-w0	Polybius_Book10.tb.a.gz##69.0	Polybius	Obj	v--pna---	v--ana---	a-s---na-	ἀναγκαῖος	27	13	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.19.7-s26261-w0	Polybius_Book9.tb.a.gz##182.0	Polybius	Sb	v--pna---	n-s---fa-	n-s---fa-	ἡμίσεια	3	11	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.18.1-s28785-w0	Polybius_Book10.tb.a.gz##174.0	Polybius	Pred	v3piia---	a-_---___	v-prpemn-	καταλαμβάνω	1	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.13-s12367-w0	Polybius_Book1.tb.a.gz##116.0	Polybius	Pred	v3ppia--------	v-papmfn-	a-p---fn-	πρῶτος	8	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.56-s12895-w0	Polybius_Book1.tb.a.gz##644.0	Polybius	Pred	v3spia---	l-p---nn-	v-pppenn-	δέομαι	18	26	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.48.1-s29109-w0	Polybius_Book10.tb.a.gz##498.0	Polybius	Pred	v3ppia---	a-p---mn-	a-p---mn-	πλωτός	3	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.26-s12560-w0	Polybius_Book1.tb.a.gz##309.0	Polybius	Atr	v3siia---	l-s---nn-	a-s---nn-	στερεός	28	33	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-1.2-s12257-w0	Polybius_Book1.tb.a.gz##6.0	Polybius	Pred	v3ppia---	p-p---fn-	a-p---fn-	ἄξιος	9	6	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.30.5-s28888-w0	Polybius_Book10.tb.a.gz##277.0	Polybius	Pred	v3siia---	v--ana---	a-s---nn-	οἷος	12	8	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.43.3-s29037-w0	Polybius_Book10.tb.a.gz##426.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	δυνατός	14	12	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.26-s12552-w0	Polybius_Book1.tb.a.gz##301.0	Polybius	Sb	v--pna---	n-s---ma-	a-s---ma-	πελάγιος	8	11	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.4.4-s26106-w0	Polybius_Book9.tb.a.gz##27.0	Polybius	Sb	v--pna---	n-s---ma-	a-s---ma-	ἀμφίδοξος	23	25	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.41-s12742-w0	Polybius_Book1.tb.a.gz##491.0	Polybius	Pred	v3siia---	n-s---nn-	a-s---nn-	τεσσαρεσκαιδέκατος	1	6	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.26.8-s26327-w0	Polybius_Book9.tb.a.gz##248.0	Polybius	Pred	v3spia---	l-s---nn-	a-s---nn_	τοιοῦτος	1	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.7.6-s28669-w0	Polybius_Book10.tb.a.gz##58.0	Polybius	Obj	v--pna---	v--pna---	a-s---na-	ἐπισφαλής	18	19	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.45.3-s29064-w0	Polybius_Book10.tb.a.gz##453.0	Polybius	Pred	v3spia---	p-s---nn-	v-srpenn-	ὁρίζω	10	12	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.87-s13240-w0	Polybius_Book1.tb.a.gz##989.0	Polybius	Adv	v3siia---	l-p---nn-	a-p---nn-	ἑτοῖμος	5	9	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.12.6-s28712-w0	Polybius_Book10.tb.a.gz##101.0	Polybius	Pred	v3siia---	n-s---fn-	a-s---fn-	ἄνισος	40	37	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.14-s12388-w0	Polybius_Book1.tb.a.gz##137.0	Polybius	Adv	v3spia---	v--pna---	a-s---nn-	δυνατός	29	31	Sb-P	subtree	#Reconstructed	0	annotation error (coordinated nominal)	2nd
+a-tlg0543.tlg001-10.46.6-s29084-w0	Polybius_Book10.tb.a.gz##473.0	Polybius	Pred	v3spia---	n-s---nn-	n-s---nn-	γράμμα	6	4	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.65-s12987-w0	Polybius_Book1.tb.a.gz##736.0	Polybius	Pred	v3spia---	v--ana---	a-s---ma-	χρήσιμος	26	22	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.10.5-s26160-w0	Polybius_Book9.tb.a.gz##81.0	Polybius	Obj	v--pna---	v-sppena-	n-s---na-	ἁμάρτημα	33	36	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.5.6-s28647-w0	Polybius_Book10.tb.a.gz##36.0	Polybius	Pred	v3siia---	n-s---nn-	p-s---nn-	οὐδείς	4	2	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.17.1-s28766-w0	Polybius_Book10.tb.a.gz##155.0	Polybius	Sb	v3spia---	v--pne---	v-srpann-	εἰκός	25	24	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.5.10-s28651-w0	Polybius_Book10.tb.a.gz##40.0	Polybius	Pred	v3sfim---	p-s---nn-	a-s---nn-	συμφανής	5	6	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.56-s12891-w0	Polybius_Book1.tb.a.gz##640.0	Polybius	Pred	v3siia---	n-s---nn-	a-s---nn-	ὀκτωκαιδέκατος	1	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.67-s12998-w0	Polybius_Book1.tb.a.gz##747.0	Polybius	Pred	v3siia---	n-s---nn-	a-s---nn-	πλήρης	20	18	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.10.1-s28682-w0	Polybius_Book10.tb.a.gz##71.0	Polybius	Pred	v3spia---	n-s---nn-	a-_---___	δέκα	12	17	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-10.44.2-s29048-w0	Polybius_Book10.tb.a.gz##437.0	Polybius	Obj	v--pna---	n-s---na-	n-s---mg-	πῆχυς	12	13	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-10.10.11-s28694-w0	Polybius_Book10.tb.a.gz##83.0	Polybius	Pred	v3sfim---	a-s---mn-	n-s---mg-	Ἀλήτης	15	16	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-1.57-s12907-w0	Polybius_Book1.tb.a.gz##656.0	Polybius	Pred	v3siia---	n-s---nn-	a-s---nn-	βραχύς	22	25	Sb-P	subtree	#Reconstructed	0	coordination problem and gapping	2nd
+a-tlg0543.tlg001-10.48.3-s29111-w0	Polybius_Book10.tb.a.gz##500.0	Polybius	Pred	v3spia---	l-s---mn-	a-s---mn-	ἐπιεικής	10	12	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-1.34-s12656-w0	Polybius_Book1.tb.a.gz##405.0	Polybius	Adv	v-pppafg-	n-p---fg-	a-p---fg-	πεδινός	5	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.43.8-s29043-w0	Polybius_Book10.tb.a.gz##432.0	Polybius	Atr	v3spia---	v--pna---	a-s---nn-	ἀδύνατος	30	32	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.42.8-s26507-w0	Polybius_Book9.tb.a.gz##428.0	Polybius	Adv	v3spia---	p-s---nn-	n-s---nn-	ἔθος	30	33	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.4-s12286-w0	Polybius_Book1.tb.a.gz##35.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	δυνατός	16	9	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.2.5-s28625-w0	Polybius_Book10.tb.a.gz##14.0	Polybius	Sb	v--pna---	l-s---na-	a-s---na-	μακαριστός	46	48	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.44.13-s29060-w0	Polybius_Book10.tb.a.gz##449.0	Polybius	Pred	v3sfim---	p-s---nn-	v-sppenn-	δηλέομαι	3	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.4-s12283-w0	Polybius_Book1.tb.a.gz##32.0	Polybius	Pred	v3spia---	p-s---nn-	v-srpann-	εἰκός	1	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.22-s12495-w0	Polybius_Book1.tb.a.gz##244.0	Polybius	Pred	v3siia---	n-s---nn-	a-s---nn-	παραμήκης	3	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.30-s12604-w0	Polybius_Book1.tb.a.gz##353.0	Polybius	Obj	v-sppafa-	n-s---fa-	a-s---fac	χρόνιος	8	9	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.67-s13011-w0	Polybius_Book1.tb.a.gz##760.0	Polybius	Pred	v3siia---	a-p---nn-	a-p---nn-	πλήρης	9	10	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.20.6-s28813-w0	Polybius_Book10.tb.a.gz##202.0	Polybius	Obj	v--pna---	n-s---fa-	n-s---na-	ἐργαστήριον	66	67	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.37.6-s28973-w0	Polybius_Book10.tb.a.gz##362.0	Polybius	Pred	v3siia---	n-s---mn-	v-sappmn-	διανοέω	1	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.42-s12747-w0	Polybius_Book1.tb.a.gz##496.0	Polybius	Adv	v3spia---	p-s---fn-	n-s---fn-	νῆσος	42	44	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-9.33.1-s26393-w0	Polybius_Book9.tb.a.gz##314.0	Polybius	Sb	v--pna---	v--anm---	a-s---na-	ἀναγκαῖος	20	11	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.51-s12842-w0	Polybius_Book1.tb.a.gz##591.0	Polybius	Pred	v3siia---	n-s---mn-	a-s---mn-	ἰσόρροπος	8	5	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.15-s12406-w0	Polybius_Book1.tb.a.gz##155.0	Polybius	Obj	v--pna---	v--pna---	n-s---fn-	ἀνάγκη	3	2	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.13.1-s26190-w0	Polybius_Book9.tb.a.gz##111.0	Polybius	Pred	v3spia---	a-p---nn-	a-p---nn-	ἱκανός	7	6	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.28-s12578-w0	Polybius_Book1.tb.a.gz##327.0	Polybius	Sb	v--pna---	n-s---ma-	a-s---ma-	ἐφάμιλλος	18	13	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.26.9-s28855-w0	Polybius_Book10.tb.a.gz##244.0	Polybius	Obj	v--pna---	p-s---fa-	a-s---fac	οἰκεῖος	39	40	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.10.7-s28688-w0	Polybius_Book10.tb.a.gz##77.0	Polybius	Pred	v3spia---	n-s---fn-	a-s---fn-	μεσόκοιλος	3	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.30.2-s26367-w0	Polybius_Book9.tb.a.gz##288.0	Polybius	Pred	v3ppia---	n-p---fn-	n-s---nn-	ὑπόδειγμα	16	9	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.67-s13008-w0	Polybius_Book1.tb.a.gz##757.0	Polybius	Pred	v3siia---	v--pne---	a-s---nn-	λοιπός	6	1	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.79-s13143-w0	Polybius_Book1.tb.a.gz##892.0	Polybius	Atr	v--fnm---	p-s---ma-	a-s---ma-	ἐχθρός	33	35	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.10.1-s28682-w0	Polybius_Book10.tb.a.gz##71.0	Polybius	Pred	v3spia---	n-s---nn-	n-p---ng-	στάδιον	4	8	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.44-s12771-w0	Polybius_Book1.tb.a.gz##520.0	Polybius	Pred	v3piia---	a-p---mn-	a-p---mn-	περιχαρής	6	15	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.19.5-s26258-w0	Polybius_Book9.tb.a.gz##179.0	Polybius	Pred	v3spia---	n-s---mn-	p-s---mn-	τοιοῦτος	11	7	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.55-s12886-w0	Polybius_Book1.tb.a.gz##635.0	Polybius	Atr	v3spia---	p-s---nn-	a-s---nns	ἐπιφανής	20	22	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.60-s12937-w0	Polybius_Book1.tb.a.gz##686.0	Polybius	Atr	v3siia---	p-s---nn-	a-s---nnc	φοβερός	72	75	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.3-s12271-w0	Polybius_Book1.tb.a.gz##20.0	Polybius	Sb	v--pna---	n-p---fa-	n-p---fa-	σποράς	15	9	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.15.7-s26219-w0	Polybius_Book9.tb.a.gz##140.0	Polybius	Pred	v3spia---	p-s---nn-	a-s---nn-	ῥᾴδιος	4	5	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.44.1-s26516-w0	Polybius_Book9.tb.a.gz##437.0	Polybius	Pred	v3spia---	v--pna---	v-srpann-	εἰκός	17	12	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.57-s12907-w0	Polybius_Book1.tb.a.gz##656.0	Polybius	Pred	v3siia---	l-p---nn-	a-p---nn-	ἀπρόσιτος	9	15	Sb-P	subtree	#Reconstructed	0	coordination problem and gapping	2nd
+a-tlg0543.tlg001-9.16.4-s26230-w0	Polybius_Book9.tb.a.gz##151.0	Polybius	Atr	v3spia---	v--anm---	a-s---nn-	δυνατός	8	6	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.17.1-s28766-w0	Polybius_Book10.tb.a.gz##155.0	Polybius	Adv	v--pna---	v-sappna-	v-sapamg-	κυριεύω	43	46	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.18.7-s28791-w0	Polybius_Book10.tb.a.gz##180.0	Polybius	Atr	v3siia---	p-s---mn-	n-s---mn-	ἀδελφός	9	11	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.9.10-s26152-w0	Polybius_Book9.tb.a.gz##73.0	Polybius	Pred	?	n-s---fn-	n-p---fa-	πόόλις	1	3	Sb-P	subtree	#Reconstructed	0	no valid sentence	2nd
+a-tlg0543.tlg001-1.3-s12270-w0	Polybius_Book1.tb.a.gz##19.0	Polybius	Pred	v3spia---	p-p---nn-	a-p---nn-	συνεχής	1	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.26-s12540-w0	Polybius_Book1.tb.a.gz##289.0	Polybius	Obj	v3spia---	n-s---fn-	a-s---fn-	εὐέφοδος	7	4	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.13.2-s26192-w0	Polybius_Book9.tb.a.gz##113.0	Polybius	Atr	v3spia---	v--ana---	a-s---nn-	οἷος	49	43	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.14.9-s26209-w0	Polybius_Book9.tb.a.gz##130.0	Polybius	Pred	v3spia---	v--anm---	a-s---nn-	δυνατός	8	9	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.29.2-s28876-w0	Polybius_Book10.tb.a.gz##265.0	Polybius	Pred	v3spia---	v-sppamn-	a-s---mn-	δῆλος	12	5	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.51-s12849-w0	Polybius_Book1.tb.a.gz##598.0	Polybius	Pred	v3siia---	v--pna---	a-s---nn-	δυνατός	10	9	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.15.7-s26218-w0	Polybius_Book9.tb.a.gz##139.0	Polybius	Pred	?	?	a-s---nn-	δυσχερής	23	5	P-Sb	subtree	#Reconstructed	0	sbj is reconstructed (otherwise the example is good)	2nd
+a-tlg0543.tlg001-9.19.6-s26260-w0	Polybius_Book9.tb.a.gz##181.0	Polybius	Sb	v--pna---	n-s---na-	a-_---___	δέκα	11	4	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.64-s12975-w0	Polybius_Book1.tb.a.gz##724.0	Polybius	Obj	v3spia---	a-s---nn-	p-s---nn-	τις	6	2	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.43.6-s26515-w0	Polybius_Book9.tb.a.gz##436.0	Polybius	Adv	v-pppang-	n-p---ng-	a-p---ng-	κατάγομος	17	13	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.4.1-s28637-w0	Polybius_Book10.tb.a.gz##26.0	Polybius	Sb	v--pna---	n-s---fa-	a-s---fas	ἐπιφανής	20	19	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.15.8-s26220-w0	Polybius_Book9.tb.a.gz##141.0	Polybius	Sb	v3spia---	v--pne---	a-s---nn-	ἀναγκαῖος	33	21	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.4-s12286-w0	Polybius_Book1.tb.a.gz##35.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	ἀδύνατος	4	17	Sb-P	subtree	#Reconstructed	0	annotation error (coordinated nominals)	2nd
+a-tlg0543.tlg001-9.22.3-s26276-w0	Polybius_Book9.tb.a.gz##197.0	Polybius	Pred	v3piia---	v-papamn-	p-p---mn-	οὗτος	8	16	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.10.6-s26161-w0	Polybius_Book9.tb.a.gz##82.0	Polybius	Obj	v--pna---	v--pna---	n-s---na-	παράπτωμα	12	37	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.14-s12388-w0	Polybius_Book1.tb.a.gz##137.0	Polybius	Adv	v3spia---	v--pna---	v-srpann-	ἔοικα	29	35	Sb-P	subtree	#Reconstructed	0	annotation error (coordinated nominals)	2nd
+a-tlg0543.tlg001-10.3.2-s28631-w0	Polybius_Book10.tb.a.gz##20.0	Polybius	Pred	v3siia---	n-s---mn-	n-s---mn-	εἷς	5	2	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.57-s12907-w0	Polybius_Book1.tb.a.gz##656.0	Polybius	Pred	v3siia---	n-s---nn-	a-p---nn-	ἀπρόσιτος	22	15	P-Sb	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-9.22.8-s26283-w0	Polybius_Book9.tb.a.gz##204.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	ῥᾴδιος	4	13	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.14.1-s28731-w0	Polybius_Book10.tb.a.gz##120.0	Polybius	Pred	v3piia---	l-p---mn-	a-p---mn-	περιχαρής	1	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.47-s12800-w0	Polybius_Book1.tb.a.gz##549.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	δυνατός	14	6	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.13-s12377-w0	Polybius_Book1.tb.a.gz##126.0	Polybius	Pred	v3spia---	v--ana---	n-s---nn-	ῥαίδιον	6	7	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.14-s12390-w0	Polybius_Book1.tb.a.gz##139.0	Polybius	Obj	v3spia---	v-prpenn-	a-p---nn-	ἀληθής	9	4	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.49-s12824-w0	Polybius_Book1.tb.a.gz##573.0	Polybius	Obj	v--pna---	n-s---ma-	a-s---ma-	ἀπαράσκευος	6	11	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.26.2-s26310-w0	Polybius_Book9.tb.a.gz##231.0	Polybius	Adv	?	p-s---nn-	v-srpann-	εἰκός	13	14	Sb-P	subtree	#Reconstructed	0	dubious gapping	2nd
+a-tlg0543.tlg001-9.26.2-s26321-w0	Polybius_Book9.tb.a.gz##242.0	Polybius	Obj	v--pna---	n-s---fa-	a-s---fa-	διπλόος	30	27	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.24.1-s28835-w0	Polybius_Book10.tb.a.gz##224.0	Polybius	Obj	v--pna---	n-s---fa-	a-s---fa-	ἡγεμονικός	49	45	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.27.1-s28856-w0	Polybius_Book10.tb.a.gz##245.0	Polybius	Pred	v3spia---	n-s---fn-	a-s---fns	ἀξιόχρεως	4	11	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.14-s12388-w0	Polybius_Book1.tb.a.gz##137.0	Polybius	Adv	v3spia---	v--pna---	v-srpann-	ἔοικα	33	35	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.19.3-s28802-w0	Polybius_Book10.tb.a.gz##191.0	Polybius	Obj	v-sppama-	n-s---ma-	n-s---ma-	φιλογύνης	29	26	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.21-s12489-w0	Polybius_Book1.tb.a.gz##238.0	Polybius	Obj	v--pna---	n-s---ma-	v-sppema-	κομίζω	6	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.29.4-s26357-w0	Polybius_Book9.tb.a.gz##278.0	Polybius	Pred	v3siia---	p-s---nn-	a-s---nn-	φύξιμος	3	1	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.30.5-s28887-w0	Polybius_Book10.tb.a.gz##276.0	Polybius	Obj	v3siia---	v--pne---	a-s---nn-	δυνατός	22	14	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.1.1-s28612-w0	Polybius_Book10.tb.a.gz##1.0	Polybius	Adv	v-pppang-	n-p---ng-	a-p---ngc	πλείων	10	13	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.45.2-s26520-w0	Polybius_Book9.tb.a.gz##441.0	Polybius	Pred	v3spia---	a-s---nn-	n-s---mn-	Ἀρσινοΐτης	3	4	Sb-P	subtree	#Reconstructed	0	not a valid sentence	2nd
+a-tlg0543.tlg001-1.15-s12403-w0	Polybius_Book1.tb.a.gz##152.0	Polybius	Pred	v3spia---	v--pna---	n-s---nn-	ἀναγκαῖον	6	2	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.56-s12893-w0	Polybius_Book1.tb.a.gz##642.0	Polybius	Pred	v3spia---	n-s---nn-	a-s---nn-	περίτομος	3	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.1.6-s28617-w0	Polybius_Book10.tb.a.gz##6.0	Polybius	Atr	v3spia---	v--pna---	a-s---nn-	ἄξιος	29	30	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.34.6-s26410-w0	Polybius_Book9.tb.a.gz##331.0	Polybius	Pred	v3ppia---	p-p---mn-	v-papamn-	παρακαλέω	2	9	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.31.3-s26377-w0	Polybius_Book9.tb.a.gz##298.0	Polybius	Pred	v3siia---	v--pna---	v-srpann-	ἔοικα	23	22	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.2.5-s28625-w0	Polybius_Book10.tb.a.gz##14.0	Polybius	Sb	v--pna---	l-s---na-	a-s---na-	ἐπαινετός	42	44	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-9.14.6-s26205-w0	Polybius_Book9.tb.a.gz##126.0	Polybius	Pred	v3spia---	l-s---nn-	a-s---nns	ἀναγκαῖος	4	1	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.3.6-s26097-w0	Polybius_Book9.tb.a.gz##18.0	Polybius	Obj	v3piia---	n-p---mn-	a-p---mn-	οἷος	7	29	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.15.4-s28745-w0	Polybius_Book10.tb.a.gz##134.0	Polybius	Obj	v--pna---	v-prpama-	d-------p	ἀξιόχρεως	6	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.26.3-s26322-w0	Polybius_Book9.tb.a.gz##243.0	Polybius	Adv	v3spia---	v--pne---	a-s---nn-	δυνατός	22	11	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.57-s12907-w0	Polybius_Book1.tb.a.gz##656.0	Polybius	Pred	v3siia---	l-p---nn-	a-s---nn-	βραχύς	9	25	Sb-P	subtree	#Reconstructed	coordination problem and gapping		2nd
+a-tlg0543.tlg001-9.29.2-s26355-w0	Polybius_Book9.tb.a.gz##276.0	Polybius	Pred	v3spia---	p-s---mn-	a-s---mn-	ἀπράγμων	1	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.23-s12505-w0	Polybius_Book1.tb.a.gz##254.0	Polybius	Pred	v3siia---	p-s---mn-	v-sapamn-	ἐκκλέπτω	6	12	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.26-s12541-w0	Polybius_Book1.tb.a.gz##290.0	Polybius	Pred	v3siia---	n-s---mn-	a-s---mn-	προφανής	19	15	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.23.1-s28829-w0	Polybius_Book10.tb.a.gz##218.0	Polybius	Pred	v3piia---	p-p---fn-	n-p---fn-	κίνησις	18	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.15.15-s26227-w0	Polybius_Book9.tb.a.gz##148.0	Polybius	Pred	?	n-s---mn-	n-s---mn-	ὅρος	4	1	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.14.6-s26206-w0	Polybius_Book9.tb.a.gz##127.0	Polybius	Sb	v--pna---	p-p---fa-	a-p---fa-	ἴσος	8	4	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.26-s12560-w0	Polybius_Book1.tb.a.gz##309.0	Polybius	Atr	v3siia---	a-s---nn-	a-s---nn-	στερεός	37	33	P-Sb	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-10.46.8-s29088-w0	Polybius_Book10.tb.a.gz##477.0	Polybius	Pred	v3spia---	p-s---nn-	a-s---nn-	πέμπτος	1	3	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.15-s12406-w0	Polybius_Book1.tb.a.gz##155.0	Polybius	Obj	v--pna---	v--pna---	v-prpema-	ἡττάω	3	23	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.14.7-s26207-w0	Polybius_Book9.tb.a.gz##128.0	Polybius	Adv	v3spia---	v--pna---	n-s---fn-	ἀνάγκη	20	19	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.5-s12295-w0	Polybius_Book1.tb.a.gz##44.0	Polybius	Pred	v3spia---	p-s---nn-	a-s---nn-	οἷος	13	14	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.1.1-s26080-w0	Polybius_Book9.tb.a.gz##1.0	Polybius	Pred	v3ppia---	p-p---fn-	n-p---fn-	πρᾶξις	24	5	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.67-s13003-w0	Polybius_Book1.tb.a.gz##752.0	Polybius	Pred	v3siia---	n-s---nn-	n-p---mn-	Λίβυς	4	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.68-s13018-w0	Polybius_Book1.tb.a.gz##767.0	Polybius	Obj	---------	v--ana---	a-s---na-	οἷος	44	42	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.36.11-s26447-w0	Polybius_Book9.tb.a.gz##368.0	Polybius	Obj	v--pna---	v--pna---	n-s---na-	ἀναγκαῖον	8	9	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.21-s26273-w0	Polybius_Book9.tb.a.gz##194.0	Polybius	Pred	v3siia---	v--pna---	v-srpann-	ἔοικα	31	32	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.1.1-s28612-w0	Polybius_Book10.tb.a.gz##1.0	Polybius	Obj	v--pna---	n-s---fa-	a-s---fa-	ἀλίμενος	23	19	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.45-s12779-w0	Polybius_Book1.tb.a.gz##528.0	Polybius	Pred	v3siia---	n-s---mn-	a-s---mnc	λαμπρός	21	18	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.68-s13018-w0	Polybius_Book1.tb.a.gz##767.0	Polybius	Pred	v3siia---	v-sppenn-	a-s---nn-	πολύς	11	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.40.1-s28999-w0	Polybius_Book10.tb.a.gz##388.0	Polybius	Atr	v3piia---	n-p---mn-	a-p---mnc	πλείων	18	20	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-9.4.1-s26104-w0	Polybius_Book9.tb.a.gz##25.0	Polybius	Obj	v-sfpmfa-	n-s---ma-	a-s---fa-	ἀβλαβής	31	29	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.15-s12396-w0	Polybius_Book1.tb.a.gz##145.0	Polybius	Obj	v--pna---	n-p---ma-	v-prpama-	ἀποδειλιάω	9	7	P-Sb	subtree	#Reconstructed	0	annotation error	2nd
+a-tlg0543.tlg001-10.45.3-s29065-w0	Polybius_Book10.tb.a.gz##454.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	οἷος	22	20	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.45-s12778-w0	Polybius_Book1.tb.a.gz##527.0	Polybius	Pred	v3piia---	l-p---mn-	a-p---mn-	πλέως	12	16	Sb-P	subtree	#Reconstructed	0	text corrupted?	2nd
+a-tlg0543.tlg001-9.15.8-s26220-w0	Polybius_Book9.tb.a.gz##141.0	Polybius	Adv	v-pppafg-	n-p---fg-	a-p---fg-	ἄνισος	6	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.39-s12720-w0	Polybius_Book1.tb.a.gz##469.0	Polybius	Pred	v3piia---	n-p---mn-	a-p---mn-	κατάφοβος	3	30	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.3.7-s28636-w0	Polybius_Book10.tb.a.gz##25.0	Polybius	Pred	v3spia---	p-s---nn-	a-s---nn-	ἴδιος	1	2	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.67-s13006-w0	Polybius_Book1.tb.a.gz##755.0	Polybius	Pred	v3siia---	v--rna---	a-s---nn-	ἀδύνατος	5	9	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.14.10-s26210-w0	Polybius_Book9.tb.a.gz##131.0	Polybius	Pred	v3spia---	v--pna---	n-s---nn-	ἁμάρτημα	4	8	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.68-s13015-w0	Polybius_Book1.tb.a.gz##764.0	Polybius	Adv	v3siia---	p-s---nn-	n-s---nn-	ὄφελος	14	15	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.20-s12465-w0	Polybius_Book1.tb.a.gz##214.0	Polybius	Obj	v--pna---	v--ana---	a-s---na-	δυνατός	50	46	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.28-s12579-w0	Polybius_Book1.tb.a.gz##328.0	Polybius	Adv	v3spsa---	a-p---nn-	a-p---nn-	παραπλήσιος	19	18	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.11.4-s28700-w0	Polybius_Book10.tb.a.gz##89.0	Polybius	Pred	v3spia---	l-s---nn-	n-s---nn-	ψεῦδος	1	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.3.9-s26100-w0	Polybius_Book9.tb.a.gz##21.0	Polybius	Adv	v3siia---	n-s---nn-	a-s---nn-	αἴτιος	19	22	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.45.5-s29067-w0	Polybius_Book10.tb.a.gz##456.0	Polybius	Pred	v3spia---	p-s---nn-	v-sppannp	συνέχω	5	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.41.6-s26493-w0	Polybius_Book9.tb.a.gz##414.0	Polybius	Pred	v3piia---	p-p---mn-	a-p---mn-	ἰσουψής	1	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.15-s12404-w0	Polybius_Book1.tb.a.gz##153.0	Polybius	Pred	v3ppia---	p-p---fn-	a-p---fn-	ἀληθής	3	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.42-s12749-w0	Polybius_Book1.tb.a.gz##498.0	Polybius	Pred	v3spia---	n-s---nn-	a-s---nn-	τρίγωνος	3	8	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.26-s12560-w0	Polybius_Book1.tb.a.gz##309.0	Polybius	Atr	v3siia---	n-s---nn-	a-s---nn-	κόιλος	24	26	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.15.6-s26217-w0	Polybius_Book9.tb.a.gz##138.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	ἀδύνατος	9	11	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.33.4-s26396-w0	Polybius_Book9.tb.a.gz##317.0	Polybius	Atr	v3siia---	p-s---mn-	a-s---mn-	δυνατός	32	37	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.29.1-s28875-w0	Polybius_Book10.tb.a.gz##264.0	Polybius	Adv	v3siia---	n-s---mn-	a-s---mn-	οἷος	15	12	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.8.8-s28673-w0	Polybius_Book10.tb.a.gz##62.0	Polybius	Pred	v3siia---	p-s---nn-	a-s---nn-	εὐχερής	44	47	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.24.2-s26298-w0	Polybius_Book9.tb.a.gz##219.0	Polybius	Adv	v--pna---	n-s---fa-	a-s---fa-	δυσθεώρητος	29	24	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.45.4-s29066-w0	Polybius_Book10.tb.a.gz##455.0	Polybius	Pred	v3spia---	v--ane---	a-s---nn-	δυνατός	14	17	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.64-s12980-w0	Polybius_Book1.tb.a.gz##729.0	Polybius	Obj	---------	n-p---ma-	a-p---mac	γενναῖος	38	43	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-1.45-s12777-w0	Polybius_Book1.tb.a.gz##526.0	Polybius	Pred	v3siia---	n-s---mn-	a-s---mn-	παράβολος	9	10	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.24.3-s26299-w0	Polybius_Book9.tb.a.gz##220.0	Polybius	Pred	v3spia---	v--ana---	v-sppann-	ἔξεστι	39	38	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.42-s12748-w0	Polybius_Book1.tb.a.gz##497.0	Polybius	Pred	v3spia---	n-s---mn-	a-s---mn-	πλωτός	14	12	P-Sb	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-9.24.4-s26300-w0	Polybius_Book9.tb.a.gz##221.0	Polybius	Atr	v3spia---	v--ana---	a-s---ma-	ἐφικτός	89	90	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.30.6-s26371-w0	Polybius_Book9.tb.a.gz##292.0	Polybius	Obj	v--pna---	v--pna---	a-s---na-	οἷος	7	5	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.12.2-s26180-w0	Polybius_Book9.tb.a.gz##101.0	Polybius	Sb	v3spia---	v-pfpmnn-	a-p---nnc	ἐλάσσων	15	9	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.4-s12286-w0	Polybius_Book1.tb.a.gz##35.0	Polybius	Pred	v3spia---	v--pna---	a-s---nn-	ἀδύνατος	16	17	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.16.2-s28757-w0	Polybius_Book10.tb.a.gz##146.0	Polybius	Pred	v3spia---	n-s---fn-	p-s---fn-	τοιοῦτος	13	5	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.14.4-s26203-w0	Polybius_Book9.tb.a.gz##124.0	Polybius	Pred	v3spia---	v--pne---	a-s---nn-	δυνατός	16	8	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.42.4-s26502-w0	Polybius_Book9.tb.a.gz##423.0	Polybius	Pred	v3piia---	l-p---mn-	a-p---mn-	οἷος	6	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.4.3-s26105-w0	Polybius_Book9.tb.a.gz##26.0	Polybius	Adv	v--pna---	v--ana---	a-s---na-	ἐφικτός	46	37	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.16-s12413-w0	Polybius_Book1.tb.a.gz##162.0	Polybius	Obj	v--pna---	n-p---fa-	a-p---fac	ἐπικυδής	36	27	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.46.9-s29089-w0	Polybius_Book10.tb.a.gz##478.0	Polybius	Adv	v3spia---	n-s---nn-	n-s---fg-	μερίς	9	13	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.45.4-s29066-w0	Polybius_Book10.tb.a.gz##455.0	Polybius	Atr	v3spia---	v--ana---	a-s---nn-	ἀδύνατος	5	4	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.73-s13069-w0	Polybius_Book1.tb.a.gz##818.0	Polybius	Pred	v3spia---	n-s---mn-	n-p---mg-	στάδιον	4	14	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.34-s12651-w0	Polybius_Book1.tb.a.gz##400.0	Polybius	Adv	v--pna---	n-p---ma-	a-p---ma-	πολλαπλάσιος	18	15	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.33.12-s26405-w0	Polybius_Book9.tb.a.gz##326.0	Polybius	Pred	v3spia---	v-srpann-	a-s---nn-	ἄξιος	4	1	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.32.10-s28927-w0	Polybius_Book10.tb.a.gz##316.0	Polybius	Pred	v3spia---	n-s---nn-	v-sppamg-	ἀγνοέω	35	3	P-Sb	subtree	#Reconstructed	0	annotation error	2nd
+a-tlg0543.tlg001-1.3-s12276-w0	Polybius_Book1.tb.a.gz##25.0	Polybius	Obj	v--pna---	v--anm---	n-s---na-	ἀναγκαῖον	27	24	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.42.7-s29033-w0	Polybius_Book10.tb.a.gz##422.0	Polybius	Pred	v3spia---	p-s---nn-	n-s---nn-	ὄρος	1	6	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.1-s12255-w0	Polybius_Book1.tb.a.gz##4.0	Polybius	Pred	---------	p-s---mn-	a-s---mn-	ἐκπαθής	45	49	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-9.24.3-s26299-w0	Polybius_Book9.tb.a.gz##220.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	ἄξιος	26	25	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.15.15-s26226-w0	Polybius_Book9.tb.a.gz##147.0	Polybius	Pred	v3spia---	n-s---mn-	a-s---mn-	εὐθεώρητος	3	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.20-s12473-w0	Polybius_Book1.tb.a.gz##222.0	Polybius	Adv	v-pppamg-	n-p---mg-	a-s---mn-	ἀπείρων1	3	6	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.41.8-s26495-w0	Polybius_Book9.tb.a.gz##416.0	Polybius	Pred	v3piia---	n-p---fn-	a-p---nd-	λιθόβολος	4	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.28.2-s28869-w0	Polybius_Book10.tb.a.gz##258.0	Polybius	Pred	v3spia---	p-s---nn-	v-sppenn-	φαίνω	4	6	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.27.10-s26342-w0	Polybius_Book9.tb.a.gz##263.0	Polybius	Pred	?	n-s---fn-	n-p---fa-	πόόλις	1	3	Sb-P	subtree	#Reconstructed	0	not a valid sentence	2nd
+a-tlg0543.tlg001-10.46.9-s29091-w0	Polybius_Book10.tb.a.gz##480.0	Polybius	Pred	v3spia---	a-s---nn-	a-s---fg-	τέταρτος	1	5	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.35-s12666-w0	Polybius_Book1.tb.a.gz##415.0	Polybius	Sb	---------	l-s---ma-	a-s---nac-----	ἀβλαβής	37	35	P-Sb	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-9.14.2-s26200-w0	Polybius_Book9.tb.a.gz##121.0	Polybius	Pred	?	v--pna---	a-s---nns	καλός	5	1	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.2.5-s28625-w0	Polybius_Book10.tb.a.gz##14.0	Polybius	Obj	v3spia---	l-s---nn-	a-s---nn-	κοινός	55	57	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.43.7-s29042-w0	Polybius_Book10.tb.a.gz##431.0	Polybius	Pred	v3siia---	v--pna---	a-s---nn-	δυνατός	15	13	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.75-s13088-w0	Polybius_Book1.tb.a.gz##837.0	Polybius	Pred	v3siia---	v-sappnn-	a-s---nn_	τοιοῦτος	3	11	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.35-s12667-w0	Polybius_Book1.tb.a.gz##416.0	Polybius	Adv	v3spia---	v--ana---	a-s---nnc-----	βελτίων	27	31	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.48-s12816-w0	Polybius_Book1.tb.a.gz##565.0	Polybius	Pred	v3siia---	n-s---nn-	n-s---fn-	εὐχρηστία	24	18	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.1-s12252-w0	Polybius_Book1.tb.a.gz##1.0	Polybius	Pred	v3siia---	v--pne---	n-s---nn-	ἀναγκαῖον	22	19	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.12-s12361-w0	Polybius_Book1.tb.a.gz##110.0	Polybius	Obj	v--pna---	p-s---fa-	n-s---fa-	ἀρχή	23	26	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.17-s12434-w0	Polybius_Book1.tb.a.gz##183.0	Polybius	Pred	v3spia---	n-s---mn-	n-s---nn-	πρόστιμον	6	3	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.12-s12362-w0	Polybius_Book1.tb.a.gz##111.0	Polybius	Obj	v--pna---	v--ana---	n-s---nn-	ἀναγκαῖον	36	33	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.42-s12747-w0	Polybius_Book1.tb.a.gz##496.0	Polybius	Adv	v3spia---	p-s---fn-	n-s---fn-	χερρόνησος	37	39	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.13-s12368-w0	Polybius_Book1.tb.a.gz##117.0	Polybius	Pred	---------	n-s---mn-	a-s---mn-	συνεχής	5	2	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.37.3-s26454-w0	Polybius_Book9.tb.a.gz##375.0	Polybius	Obj	v3spia---	v--pne---	a-s---nn-	δίκαιος	14	7	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.15-s12406-w0	Polybius_Book1.tb.a.gz##155.0	Polybius	Obj	v--pna---	p-p---ma-	v-prpema-	ἡττάω	24	23	P-Sb	subtree	#Reconstructed	0	annotation error (coordinated nominals)	2nd
+a-tlg0543.tlg001-9.39.4-s26478-w0	Polybius_Book9.tb.a.gz##399.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	καλός	6	1	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.37-s12693-w0	Polybius_Book1.tb.a.gz##442.0	Polybius	Obj	v--pna---	p-s---na-	a-s---na-	ἀδύνατος	18	19	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.6.4-s26121-w0	Polybius_Book9.tb.a.gz##42.0	Polybius	Pred	v3spia---	v--pna---	n-s---nn-	ἔθος	6	4	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.31.3-s26377-w0	Polybius_Book9.tb.a.gz##298.0	Polybius	Obj	v3spia---	v--ana---	v-sppann-	δέω2	32	26	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.72-s13059-w0	Polybius_Book1.tb.a.gz##808.0	Polybius	Atr	v3siia---	n-s---mn-	n-s---mn-	εἷς	89	87	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.17.11-s28779-w0	Polybius_Book10.tb.a.gz##168.0	Polybius	Obj	v--pna---	v-pppama-	a-p---ma-	διπλάσιος	47	44	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.22-s12492-w0	Polybius_Book1.tb.a.gz##241.0	Polybius	Sb	v--pna---	n-s---fa-	p-s---fa-	τοιοῦτος	26	28	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.23.4-s26290-w0	Polybius_Book9.tb.a.gz##211.0	Polybius	Pred	v3siia---	v--pna---	v-srpann-	εἰκός	13	4	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.26-s12540-w0	Polybius_Book1.tb.a.gz##289.0	Polybius	Obj	v3spia---	n-s---mn-	a-s---mn-	εὐχείρωτος	14	15	Sb-P	subtree	#Reconstructed	0	gapping	2nd
+a-tlg0543.tlg001-1.56-s12901-w0	Polybius_Book1.tb.a.gz##650.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	οἷος	12	4	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.2.1-s26087-w0	Polybius_Book9.tb.a.gz##8.0	Polybius	Atr	v3spia---	p-s---nn-	a-s---nns	αἰσχρός	38	41	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.17.13-s28780-w0	Polybius_Book10.tb.a.gz##169.0	Polybius	Pred	v3piia---	n-p---fn-	a-_---___	ὀκτωκαίδεκα	5	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.36-s12674-w0	Polybius_Book1.tb.a.gz##423.0	Polybius	Pred	v3ppoa---	a-p---mn-	a-p---mn-	οἷος	4	14	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.80-s13145-w0	Polybius_Book1.tb.a.gz##894.0	Polybius	Obj	v--pna---	n-s---fa-	v--ana---	ἀπογιγνώσκω	9	16	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.28.2-s28869-w0	Polybius_Book10.tb.a.gz##258.0	Polybius	Pred	v3ppia---	n-p---mn-	v-pppamn-	ἔχω	13	22	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.24.3-s26299-w0	Polybius_Book9.tb.a.gz##220.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	εὐχερής	18	7	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-10.4.9-s28643-w0	Polybius_Book10.tb.a.gz##32.0	Polybius	Pred	v3spia---	p-s---nn-	n-s---nn-	ἔθος	1	3	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.57-s12906-w0	Polybius_Book1.tb.a.gz##655.0	Polybius	Pred	v3siia---	v--anm---	a-s---nn-	οἷος	5	10	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.4.1-s28637-w0	Polybius_Book10.tb.a.gz##26.0	Polybius	Adv	v-sppamg-	v--pne---	n-s---ng-	ἔθος	33	28	P-Sb	subtree	εἰμί			2nd
+a-tlg0543.tlg001-9.34.7-s26411-w0	Polybius_Book9.tb.a.gz##332.0	Polybius	Pred	v3ppia---	v-papmmn-	p-p---mn-	τις	10	1	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.51-s12850-w0	Polybius_Book1.tb.a.gz##599.0	Polybius	Atr	v3spia---	p-s---nn-	a-s---nns	πρακτικός	17	22	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.80-s13154-w0	Polybius_Book1.tb.a.gz##903.0	Polybius	Pred	v3siia---	p-s---nn-	a-s---nn-	συνετός	28	30	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.38.9-s28987-w0	Polybius_Book10.tb.a.gz##376.0	Polybius	Obj	v-pppama-	n-p---ma-	a-p---ma-	εὐφυής	18	19	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.8-s12324-w0	Polybius_Book1.tb.a.gz##73.0	Polybius	Pred	v3siia---	p-s---mn-	v-sppemn-	ὀρέγω	1	13	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.4-s12286-w0	Polybius_Book1.tb.a.gz##35.0	Polybius	Pred	v3spia---	v--ana---	a-s---nn-	δυνατός	4	9	Sb-P	subtree	#Reconstructed	0	annotation error (coordinated nominals)	2nd
+a-tlg0543.tlg001-10.19.2-s28801-w0	Polybius_Book10.tb.a.gz##190.0	Polybius	Pred	v3siia---	p-p---nn-	a-p---nnc	πλείων	3	4	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.45-s12778-w0	Polybius_Book1.tb.a.gz##527.0	Polybius	Pred	v3piia---	l-p---mn-	a-p---mnc	ἐλάσσων	1	9	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.28-s12579-w0	Polybius_Book1.tb.a.gz##328.0	Polybius	Atr	---------	p-s---nn-	v-srpann-	ἔοικα	14	15	Sb-P	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-1.1-s12254-w0	Polybius_Book1.tb.a.gz##3.0	Polybius	Pred	v3spia---	a-s---nn-	a-s---nn-	ἱκανός	4	13	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-10.47.6-s29100-w0	Polybius_Book10.tb.a.gz##489.0	Polybius	Pred	v3spia---	v-sppenn-	a-s---nns	ἐναργής	16	13	P-Sb	subtree	#Reconstructed			2nd
+a-tlg0543.tlg001-9.42.7-s26505-w0	Polybius_Book9.tb.a.gz##426.0	Polybius	Obj	v--pna---	v--pna---	a-s---na-	εὐήθης	17	25	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.57-s12907-w0	Polybius_Book1.tb.a.gz##656.0	Polybius	Pred	v3piia---	n-p---fn-	a-p---mn-	ἐφάμιλλος	4	7	Sb-P	subtree	εἰμί			2nd
+a-tlg0543.tlg001-1.53-s12869-w0	Polybius_Book1.tb.a.gz##618.0	Polybius	Obj	v--pna---	p-p---ma-	d--------	ἀξιόχρεως	6	5	P-Sb	subtree	εἰμί			2nd
