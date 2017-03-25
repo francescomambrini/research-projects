@@ -40,7 +40,7 @@ def fixed_parsed_sents(self, fileids=None, top_label="root"):
     
     sents=concat([DependencyCorpusView(fileid, False, True, True, encoding=enc)
                   for fileid, enc in self.abspaths(fileids, include_encoding=True)])
-    return [DependencyGraph(sent, top_relation_label=top_label) for sent in sents]
+    return [DependencyGraph(sent, top_relation_label=top_label, cell_separator="\t") for sent in sents]
 
 DependencyCorpusReader.parsed_sents = fixed_parsed_sents
 
@@ -110,10 +110,9 @@ def getNetworkDataFrames(parsed_sents, threshold=200000):
     """
     head, dep, rel = [], [], []
     w1, w2 = [], []
-    i = 0
     token_count = 0
     puncthead = 0
-    for s in parsed_sents:
+    for i,s in enumerate(parsed_sents, start=1):
         if hasPunctHead(s) == False:
             #co-occurence data
             sent = getCoocInSent(s)
@@ -123,7 +122,7 @@ def getNetworkDataFrames(parsed_sents, threshold=200000):
             #syntax-based
             for n in s.triples(word_label="lemma"):
                 if n[0][1] == 'PUNCT':
-                    print("{}: Punctuation as head!".format(i))
+                    print("{}: Punctuation as head!".format(i-1))
                     break
                 if n[2][1] == "PUNCT":
                     continue
@@ -136,12 +135,11 @@ def getNetworkDataFrames(parsed_sents, threshold=200000):
             token_count = token_count + countNodes(s)
         else:
             puncthead += 1
-        i += 1
         if token_count > threshold:
             logging.info("Sentences with punctuation as head: {}".format(puncthead))
-            logging.info("Nr. of Sentences included: {}".format(i+1))
+            logging.info("Nr. of Sentences included: {}".format(i))
             logging.info("Nr. of Tokens included: {}".format(token_count))
-            print("Finalizing the Dataframe at {} tokens after {} sentences".format(token_count, i+1))
+            print("Finalizing the Dataframe at {} tokens after {} sentences".format(token_count, i))
             break
     df_dep = pd.DataFrame({"Head_Lemma" : head, "Dep_Lemma" : dep, "Relation" : rel })
     df_dep = df_dep[["Head_Lemma", "Dep_Lemma", "Relation"]]

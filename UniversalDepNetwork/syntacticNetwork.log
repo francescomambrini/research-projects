@@ -1,40 +1,44 @@
 INFO:root:Working with treebank: UD_Latin-ITTB
 INFO:root:Sentences with punctuation as head: 14
-INFO:root:Nr. of Sentences included: 14427
+INFO:root:Nr. of Sentences included: 14426
 INFO:root:Nr. of Tokens included: 200035
 INFO:root:Working with treebank: UD_Czech
 INFO:root:Sentences with punctuation as head: 15
-INFO:root:Nr. of Sentences included: 14184
+INFO:root:Nr. of Sentences included: 14183
 INFO:root:Nr. of Tokens included: 200006
 INFO:root:Working with treebank: UD_Arabic
 INFO:root:Sentences with punctuation as head: 301
-INFO:root:Nr. of Sentences included: 6320
+INFO:root:Nr. of Sentences included: 6319
 INFO:root:Nr. of Tokens included: 200053
 INFO:root:Working with treebank: UD_Catalan
 INFO:root:Sentences with punctuation as head: 9
-INFO:root:Nr. of Sentences included: 6476
+INFO:root:Nr. of Sentences included: 6475
 INFO:root:Nr. of Tokens included: 200040
 INFO:root:Working with treebank: UD_German
 INFO:root:Sentences with punctuation as head: 11
-INFO:root:Nr. of Sentences included: 12397
+INFO:root:Nr. of Sentences included: 12396
 INFO:root:Nr. of Tokens included: 200010
 INFO:root:Working with treebank: UD_Hindi
 INFO:root:Sentences with punctuation as head: 18
-INFO:root:Nr. of Sentences included: 10296
+INFO:root:Nr. of Sentences included: 10295
 INFO:root:Nr. of Tokens included: 200002
 INFO:root:Working with treebank: UD_Norwegian-Bokmaal
 INFO:root:Sentences with punctuation as head: 20
-INFO:root:Nr. of Sentences included: 14941
+INFO:root:Nr. of Sentences included: 14940
 INFO:root:Nr. of Tokens included: 200011
 INFO:root:Working with treebank: UD_Portuguese-BR
 INFO:root:Sentences with punctuation as head: 6
-INFO:root:Nr. of Sentences included: 8726
+INFO:root:Nr. of Sentences included: 8725
 INFO:root:Nr. of Tokens included: 200006
 INFO:root:Working with treebank: UD_Russian-SynTagRus
 INFO:root:Sentences with punctuation as head: 0
-INFO:root:Nr. of Sentences included: 14140
+INFO:root:Nr. of Sentences included: 14139
 INFO:root:Nr. of Tokens included: 200001
 INFO:root:Working with treebank: UD_Spanish-AnCora
 INFO:root:Sentences with punctuation as head: 16
-INFO:root:Nr. of Sentences included: 6859
+INFO:root:Nr. of Sentences included: 6858
 INFO:root:Nr. of Tokens included: 200003
+INFO:root:Working with treebank: UD_French
+INFO:root:Sentences with punctuation as head: 16
+INFO:root:Nr. of Sentences included: 9241
+INFO:root:Nr. of Tokens included: 200004
